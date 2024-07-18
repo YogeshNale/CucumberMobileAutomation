@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: cucumber.Options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 48.002 s <<< FAILURE! - in cucumber.Options.TestRunner
+App and check some feature.Check Automation Working or not  Time elapsed: 43.888 s  <<< FAILURE!
+java.lang.AssertionError
+
+App and check some feature.Check Automation Working or not  Time elapsed: 43.888 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/apache/commons/io/FileUtils
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.FileUtils
+

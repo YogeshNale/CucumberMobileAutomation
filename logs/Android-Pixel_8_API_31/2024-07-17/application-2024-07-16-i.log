@@ -1,0 +1,12 @@
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:40:00.098 com.qa.utils.DriverManager:29 -Initalize driver process Start
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:40:06.704 com.qa.utils.DriverManager:47 -driver is Initalize sucessfully
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:40:10.242 com.qa.utils.ScreenShot:35 -Screenshot captured for scenario: Check Automation Working or not
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:45:46.225 com.qa.utils.DriverManager:29 -Initalize driver process Start
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:45:52.984 com.qa.utils.DriverManager:47 -driver is Initalize sucessfully
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:45:56.672 com.qa.utils.ScreenShot:35 -Screenshot captured for scenario: Check Automation Working or not
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:46:43.070 com.qa.utils.DriverManager:29 -Initalize driver process Start
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:46:49.523 com.qa.utils.DriverManager:47 -driver is Initalize sucessfully
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:46:52.766 com.qa.utils.ScreenShot:35 -Screenshot captured for scenario: Check Automation Working or not
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:47:35.710 com.qa.utils.DriverManager:29 -Initalize driver process Start
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:47:42.409 com.qa.utils.DriverManager:47 -driver is Initalize sucessfully
+[logsAndroid-Pixel_8_API_31 INFO ] 2024-07-16 19:47:45.838 com.qa.utils.ScreenShot:35 -Screenshot captured for scenario: Check Automation Working or not
