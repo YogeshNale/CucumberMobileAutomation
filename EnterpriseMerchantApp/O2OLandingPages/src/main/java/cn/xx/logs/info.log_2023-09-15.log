@@ -1,0 +1,90 @@
+2023-09-15 10:45:14 AM  chrome browser launch
+2023-09-15 10:45:14 AM  Execution of Test Scenario OpenURL start
+2023-09-15 10:45:16 AM   Test Scenario OpenURL execute Successfully 
+2023-09-15 10:45:16 AM  Execution of Test Scenario getBillAmounts start
+2023-09-15 10:45:19 AM  User click on fetch Bill button 
+2023-09-15 10:45:30 AM  User click on fetch Bill button 
+2023-09-15 10:45:41 AM  User click on fetch Bill button 
+2023-09-15 10:45:50 AM  User click on fetch Bill button 
+2023-09-15 10:46:00 AM  User click on fetch Bill button 
+2023-09-15 10:46:10 AM  User click on fetch Bill button 
+2023-09-15 10:46:21 AM  User click on fetch Bill button 
+2023-09-15 10:46:30 AM  User click on fetch Bill button 
+2023-09-15 10:46:40 AM  User click on fetch Bill button 
+2023-09-15 10:46:50 AM  User click on fetch Bill button 
+2023-09-15 10:47:00 AM  User click on fetch Bill button 
+2023-09-15 10:47:10 AM  User click on fetch Bill button 
+2023-09-15 10:47:20 AM  User click on fetch Bill button 
+2023-09-15 10:47:30 AM  User click on fetch Bill button 
+2023-09-15 10:47:40 AM  User click on fetch Bill button 
+2023-09-15 10:47:49 AM  User click on fetch Bill button 
+2023-09-15 10:47:59 AM  User click on fetch Bill button 
+2023-09-15 10:48:08 AM  User click on fetch Bill button 
+2023-09-15 10:48:18 AM  User click on fetch Bill button 
+2023-09-15 10:48:28 AM  User click on fetch Bill button 
+2023-09-15 10:48:38 AM  User click on fetch Bill button 
+2023-09-15 10:48:48 AM  User click on fetch Bill button 
+2023-09-15 10:48:58 AM  User click on fetch Bill button 
+2023-09-15 10:49:08 AM  User click on fetch Bill button 
+2023-09-15 10:49:18 AM  User click on fetch Bill button 
+2023-09-15 10:49:28 AM  User click on fetch Bill button 
+2023-09-15 10:49:39 AM  User click on fetch Bill button 
+2023-09-15 10:49:49 AM  User click on fetch Bill button 
+2023-09-15 10:49:59 AM  User click on fetch Bill button 
+2023-09-15 10:50:09 AM  User click on fetch Bill button 
+2023-09-15 10:50:19 AM  User click on fetch Bill button 
+2023-09-15 10:50:30 AM  User click on fetch Bill button 
+2023-09-15 10:50:40 AM  User click on fetch Bill button 
+2023-09-15 10:50:50 AM  User click on fetch Bill button 
+2023-09-15 10:51:00 AM  User click on fetch Bill button 
+2023-09-15 10:51:09 AM  User click on fetch Bill button 
+2023-09-15 10:51:19 AM  User click on fetch Bill button 
+2023-09-15 10:51:29 AM  User click on fetch Bill button 
+2023-09-15 10:51:39 AM  User click on fetch Bill button 
+2023-09-15 10:51:49 AM  User click on fetch Bill button 
+2023-09-15 10:51:58 AM  User click on fetch Bill button 
+2023-09-15 10:52:08 AM  User click on fetch Bill button 
+2023-09-15 10:52:17 AM  User click on fetch Bill button 
+2023-09-15 10:52:28 AM  User click on fetch Bill button 
+2023-09-15 10:52:37 AM  User click on fetch Bill button 
+2023-09-15 10:52:48 AM  User click on fetch Bill button 
+2023-09-15 10:52:57 AM  User click on fetch Bill button 
+2023-09-15 10:53:06 AM  User click on fetch Bill button 
+2023-09-15 10:53:16 AM  User click on fetch Bill button 
+2023-09-15 10:53:25 AM  User click on fetch Bill button 
+2023-09-15 10:53:35 AM  User click on fetch Bill button 
+2023-09-15 10:53:45 AM  User click on fetch Bill button 
+2023-09-15 10:53:55 AM  User click on fetch Bill button 
+2023-09-15 10:54:05 AM  User click on fetch Bill button 
+2023-09-15 10:54:15 AM  User click on fetch Bill button 
+2023-09-15 10:54:25 AM  User click on fetch Bill button 
+2023-09-15 10:54:34 AM  User click on fetch Bill button 
+2023-09-15 10:54:43 AM  User click on fetch Bill button 
+2023-09-15 10:54:54 AM  User click on fetch Bill button 
+2023-09-15 10:55:03 AM  User click on fetch Bill button 
+2023-09-15 10:55:12 AM  User click on fetch Bill button 
+2023-09-15 10:55:21 AM  User click on fetch Bill button 
+2023-09-15 10:55:31 AM  User click on fetch Bill button 
+2023-09-15 10:55:40 AM  User click on fetch Bill button 
+2023-09-15 10:55:50 AM  User click on fetch Bill button 
+2023-09-15 10:55:59 AM  User click on fetch Bill button 
+2023-09-15 11:01:05 AM  This is Test Scenario :getBillAmounts get fail
+2023-09-15 11:41:04 AM  chrome browser launch
+2023-09-15 11:41:04 AM  Execution of Test Scenario OpenURL start
+2023-09-15 11:41:06 AM   Test Scenario OpenURL execute Successfully 
+2023-09-15 11:41:06 AM  Execution of Test Scenario donateAmount start
+2023-09-15 11:41:07 AM  User select other amount option to select 
+2023-09-15 11:41:08 AM  User enter  amount 1
+2023-09-15 11:41:11 AM  user click on Number on UPI checkbox 
+2023-09-15 11:41:12 AM  user click on debit card with me checkbox
+2023-09-15 11:41:18 AM  Donate Amount with Existing MCP user flow start 
+2023-09-15 11:41:43 AM  user call on DID and user Redirect on 3rd page 
+2023-09-15 11:41:44 AM  Entered Name match
+2023-09-15 11:41:49 AM  user received call back 
+2023-09-15 11:41:56 AM  amount action marked as ok  
+2023-09-15 11:41:56 AM   Test Scenario donateAmount execute Successfully 
+2023-09-15 11:58:15 AM  chrome browser launch
+2023-09-15 11:58:15 AM  Execution of Test Scenario OpenURL start
+2023-09-15 11:58:17 AM   Test Scenario OpenURL execute Successfully 
+2023-09-15 11:58:17 AM  Execution of Test Scenario payBill start
+2023-09-15 12:01:17 PM  This is Test Scenario :payBill get fail

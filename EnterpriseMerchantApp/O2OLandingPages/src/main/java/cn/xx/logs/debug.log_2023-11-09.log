@@ -1,0 +1,35 @@
+2023-11-09 10:28:28 AM  chrome browser launch
+2023-11-09 10:28:29 AM  Execution of Test Scenario openURL start
+2023-11-09 10:28:31 AM   Test Scenario openURL execute Successfully 
+2023-11-09 10:28:31 AM  Execution of Test Scenario onboardingProcess start
+2023-11-09 10:28:34 AM  user click on Number on UPI checkbox 
+2023-11-09 10:28:35 AM  user click on debit card with me checkbox
+2023-11-09 10:28:43 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-11-09 10:28:54 AM  Onboard as merchant Button Populate on WebPage 
+2023-11-09 10:28:55 AM  This is Test Scenario :onboardingProcess get fail
+2023-11-09 10:29:11 AM  chrome browser launch
+2023-11-09 10:29:11 AM  Execution of Test Scenario OpenURL start
+2023-11-09 10:29:13 AM   Test Scenario OpenURL execute Successfully 
+2023-11-09 10:29:13 AM  Execution of Test Scenario donateAmount start
+2023-11-09 10:29:15 AM  User select other amount option to select 
+2023-11-09 10:29:16 AM  User enter  amount 1
+2023-11-09 10:29:18 AM  user click on Number on UPI checkbox 
+2023-11-09 10:29:20 AM  user click on debit card with me checkbox
+2023-11-09 10:29:26 AM  Donate Amount with Existing MCP user flow start 
+2023-11-09 10:29:51 AM  This is Test Scenario :donateAmount get fail
+2023-11-09 10:29:57 AM  chrome browser launch
+2023-11-09 10:29:57 AM  Execution of Test Scenario OpenURL start
+2023-11-09 10:29:58 AM   Test Scenario OpenURL execute Successfully 
+2023-11-09 10:29:58 AM  Execution of Test Scenario checkTryLandingePage start
+2023-11-09 10:30:00 AM  User select Action 
+2023-11-09 10:30:03 AM  user click on Number on UPI checkbox 
+2023-11-09 10:30:05 AM  user click on debit card with me checkbox
+2023-11-09 10:30:06 AM   User is new MCP user onboraing process start 
+2023-11-09 10:30:18 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-11-09 10:30:37 AM  chrome browser launch
+2023-11-09 10:30:37 AM  Execution of Test Scenario OpenURL start
+2023-11-09 10:30:38 AM   Test Scenario OpenURL execute Successfully 
+2023-11-09 10:30:38 AM  Execution of Test Scenario payBill start
+2023-11-09 10:30:40 AM  User enter consumer Number 813112011507
+2023-11-09 10:30:43 AM  User click on fetch Bill button 
+2023-11-09 10:30:55 AM  This is Test Scenario :payBill get fail

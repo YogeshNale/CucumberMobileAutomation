@@ -1,0 +1,153 @@
+2023-09-20 10:40:13 AM  chrome browser launch
+2023-09-20 10:40:13 AM  Execution of Test Scenario OpenURL start
+2023-09-20 10:40:14 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 10:40:14 AM  Execution of Test Scenario getBillAmounts start
+2023-09-20 10:40:18 AM  User click on fetch Bill button 
+2023-09-20 10:40:28 AM  User click on fetch Bill button 
+2023-09-20 10:40:38 AM  User click on fetch Bill button 
+2023-09-20 10:40:48 AM  User click on fetch Bill button 
+2023-09-20 10:40:58 AM  User click on fetch Bill button 
+2023-09-20 10:41:08 AM  User click on fetch Bill button 
+2023-09-20 10:41:19 AM  User click on fetch Bill button 
+2023-09-20 10:41:29 AM  User click on fetch Bill button 
+2023-09-20 10:41:38 AM  User click on fetch Bill button 
+2023-09-20 10:41:48 AM  User click on fetch Bill button 
+2023-09-20 10:41:58 AM  User click on fetch Bill button 
+2023-09-20 10:42:07 AM  User click on fetch Bill button 
+2023-09-20 10:42:17 AM  User click on fetch Bill button 
+2023-09-20 10:42:28 AM  User click on fetch Bill button 
+2023-09-20 10:42:37 AM  User click on fetch Bill button 
+2023-09-20 10:42:47 AM  User click on fetch Bill button 
+2023-09-20 10:42:57 AM  User click on fetch Bill button 
+2023-09-20 10:43:06 AM  User click on fetch Bill button 
+2023-09-20 10:43:16 AM  User click on fetch Bill button 
+2023-09-20 10:43:26 AM  User click on fetch Bill button 
+2023-09-20 10:43:36 AM  User click on fetch Bill button 
+2023-09-20 10:43:46 AM  User click on fetch Bill button 
+2023-09-20 10:43:57 AM  User click on fetch Bill button 
+2023-09-20 10:44:06 AM  User click on fetch Bill button 
+2023-09-20 10:44:17 AM  User click on fetch Bill button 
+2023-09-20 10:44:27 AM  User click on fetch Bill button 
+2023-09-20 10:44:37 AM  User click on fetch Bill button 
+2023-09-20 10:44:48 AM  User click on fetch Bill button 
+2023-09-20 10:44:58 AM  User click on fetch Bill button 
+2023-09-20 10:45:08 AM  User click on fetch Bill button 
+2023-09-20 10:45:17 AM  User click on fetch Bill button 
+2023-09-20 10:45:28 AM  User click on fetch Bill button 
+2023-09-20 10:45:38 AM  User click on fetch Bill button 
+2023-09-20 10:45:48 AM  User click on fetch Bill button 
+2023-09-20 10:45:58 AM  User click on fetch Bill button 
+2023-09-20 10:46:08 AM  User click on fetch Bill button 
+2023-09-20 10:46:17 AM  User click on fetch Bill button 
+2023-09-20 10:46:28 AM  User click on fetch Bill button 
+2023-09-20 10:46:38 AM  User click on fetch Bill button 
+2023-09-20 10:46:59 AM  User click on fetch Bill button 
+2023-09-20 10:47:08 AM  User click on fetch Bill button 
+2023-09-20 10:47:18 AM  User click on fetch Bill button 
+2023-09-20 10:47:27 AM  User click on fetch Bill button 
+2023-09-20 10:47:38 AM  User click on fetch Bill button 
+2023-09-20 10:47:48 AM  User click on fetch Bill button 
+2023-09-20 10:47:58 AM  User click on fetch Bill button 
+2023-09-20 10:48:08 AM  User click on fetch Bill button 
+2023-09-20 10:48:17 AM  User click on fetch Bill button 
+2023-09-20 10:48:27 AM  User click on fetch Bill button 
+2023-09-20 10:48:36 AM  User click on fetch Bill button 
+2023-09-20 10:48:46 AM  User click on fetch Bill button 
+2023-09-20 10:48:57 AM  User click on fetch Bill button 
+2023-09-20 10:49:06 AM  User click on fetch Bill button 
+2023-09-20 10:49:16 AM  User click on fetch Bill button 
+2023-09-20 10:49:26 AM  User click on fetch Bill button 
+2023-09-20 10:49:35 AM  User click on fetch Bill button 
+2023-09-20 10:49:45 AM  User click on fetch Bill button 
+2023-09-20 10:49:54 AM  User click on fetch Bill button 
+2023-09-20 10:50:04 AM  User click on fetch Bill button 
+2023-09-20 10:50:14 AM  User click on fetch Bill button 
+2023-09-20 10:50:23 AM  User click on fetch Bill button 
+2023-09-20 10:50:33 AM  User click on fetch Bill button 
+2023-09-20 10:50:42 AM  User click on fetch Bill button 
+2023-09-20 10:50:52 AM  User click on fetch Bill button 
+2023-09-20 10:51:02 AM  User click on fetch Bill button 
+2023-09-20 10:51:09 AM  This is Test Scenario :getBillAmounts get fail
+2023-09-20 11:05:11 AM  chrome browser launch
+2023-09-20 11:05:12 AM  Execution of Test Scenario openURL start
+2023-09-20 11:05:14 AM   Test Scenario openURL execute Successfully 
+2023-09-20 11:05:14 AM  Execution of Test Scenario onboardingProcess start
+2023-09-20 11:05:16 AM  user click on Number on UPI checkbox 
+2023-09-20 11:05:17 AM  user click on debit card with me checkbox
+2023-09-20 11:05:19 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-09-20 11:05:37 AM  Onboard as merchant Button Populate on WebPage 
+2023-09-20 11:05:38 AM  User redirect on Admin panel Web App 
+2023-09-20 11:05:38 AM   Test Scenario onboardingProcess execute Successfully 
+2023-09-20 11:08:51 AM  chrome browser launch
+2023-09-20 11:08:51 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:08:53 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:08:53 AM  Execution of Test Scenario payBill start
+2023-09-20 11:08:54 AM  User enter consumer Number 813211022905
+2023-09-20 11:08:58 AM  User click on fetch Bill button 
+2023-09-20 11:09:12 AM  User click on pay Bill Button 
+2023-09-20 11:09:13 AM  User enter mobile umber 9604677424
+2023-09-20 11:09:14 AM  user click on debit card with me checkbox
+2023-09-20 11:09:15 AM  user click on Number on UPI checkbox 
+2023-09-20 11:09:18 AM  Pay Bill with Existing MCP user Flow start 
+2023-09-20 11:13:02 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:26:39 AM  chrome browser launch
+2023-09-20 11:26:39 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:26:40 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:26:40 AM  Execution of Test Scenario donateAmount start
+2023-09-20 11:26:42 AM  User select other amount option to select 
+2023-09-20 11:26:43 AM  User enter  amount 1
+2023-09-20 11:26:45 AM  user click on Number on UPI checkbox 
+2023-09-20 11:26:47 AM  user click on debit card with me checkbox
+2023-09-20 11:26:53 AM  Donate Amount with Existing MCP user flow start 
+2023-09-20 11:27:18 AM  user call on DID and user Redirect on 3rd page 
+2023-09-20 11:27:18 AM  Entered Name match
+2023-09-20 11:27:23 AM  user received call back 
+2023-09-20 11:27:30 AM  amount action marked as ok  
+2023-09-20 11:27:30 AM   Test Scenario donateAmount execute Successfully 
+2023-09-20 11:40:06 AM  chrome browser launch
+2023-09-20 11:40:07 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:40:08 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:40:08 AM  Execution of Test Scenario checkTryLandingePage start
+2023-09-20 11:40:09 AM  User select Action 
+2023-09-20 11:40:11 AM  user click on Number on UPI checkbox 
+2023-09-20 11:40:12 AM  user click on debit card with me checkbox
+2023-09-20 11:40:14 AM  DID Populate on 1st page user is existing MCP user if user call on DID One call flow Will start  
+2023-09-20 11:40:14 AM  User click on Add More payment Method URL
+2023-09-20 11:40:14 AM  User click on get OTP Button 
+2023-09-20 11:40:30 AM  User enter Bank Name Bank of Maharashtra
+2023-09-20 11:40:38 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-09-20 11:42:55 AM  chrome browser launch
+2023-09-20 11:42:55 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:42:57 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:42:57 AM  Execution of Test Scenario payBill start
+2023-09-20 11:45:02 AM  chrome browser launch
+2023-09-20 11:45:02 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:45:03 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:45:05 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:45:05 AM  Execution of Test Scenario payBill start
+2023-09-20 11:45:36 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:46:17 AM  chrome browser launch
+2023-09-20 11:46:17 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:46:20 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:46:20 AM  Execution of Test Scenario payBill start
+2023-09-20 11:47:28 AM  chrome browser launch
+2023-09-20 11:47:28 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:47:30 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:47:30 AM  Execution of Test Scenario payBill start
+2023-09-20 11:48:01 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:50:30 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:51:17 AM  chrome browser launch
+2023-09-20 11:51:17 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:51:19 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:51:19 AM  Execution of Test Scenario payBill start
+2023-09-20 11:51:25 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:52:35 AM  chrome browser launch
+2023-09-20 11:52:35 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:52:37 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:52:37 AM  Execution of Test Scenario payBill start
+2023-09-20 11:54:48 AM  This is Test Scenario :payBill get fail
+2023-09-20 11:54:51 AM  chrome browser launch
+2023-09-20 11:54:52 AM  Execution of Test Scenario OpenURL start
+2023-09-20 11:54:54 AM   Test Scenario OpenURL execute Successfully 
+2023-09-20 11:54:54 AM  Execution of Test Scenario payBill start
+2023-09-20 11:57:54 AM  This is Test Scenario :payBill get fail

@@ -1,0 +1,28 @@
+2023-11-23 18:10:16 PM  chrome browser launch
+2023-11-23 18:10:16 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-23 18:10:26 PM  User click on fetch Bill button 
+2023-11-23 18:15:29 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-23 18:29:24 PM  chrome browser launch
+2023-11-23 18:29:24 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-23 18:29:40 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-23 18:29:40 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-23 18:29:48 PM  User click on fetch Bill button 
+2023-11-23 18:29:51 PM  Bill available 
+2023-11-23 18:29:52 PM  User click on pay Bill Button 
+2023-11-23 18:29:56 PM  user click on debit card with me checkbox
+2023-11-23 18:29:57 PM  user click on Number on UPI checkbox 
+2023-11-23 18:30:01 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-23 19:04:02 PM  chrome browser launch
+2023-11-23 19:04:03 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-23 19:04:12 PM  User click on fetch Bill button 
+2023-11-23 19:04:15 PM  Bill available 
+2023-11-23 19:04:17 PM  User click on pay Bill Button 
+2023-11-23 19:04:20 PM  user click on debit card with me checkbox
+2023-11-23 19:04:21 PM  user click on Number on UPI checkbox 
+2023-11-23 19:04:27 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-23 19:04:27 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-23 19:04:27 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-23 19:17:21 PM  chrome browser launch
+2023-11-23 19:17:21 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-23 19:17:30 PM  User click on fetch Bill button 
+2023-11-23 19:17:37 PM  This is Test Scenario :fetchBillRegression get fail

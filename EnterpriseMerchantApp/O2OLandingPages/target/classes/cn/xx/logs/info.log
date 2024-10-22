@@ -1,0 +1,18 @@
+2024-04-17 12:38:26 pm  chrome browser launch
+2024-04-17 12:38:26 pm  Execution of Test Scenario onboardingProcess start
+2024-04-17 12:38:26 pm  Execution of Test Scenario openURL start
+2024-04-17 12:38:31 pm   Test Scenario openURL execute Successfully 
+2024-04-17 12:38:33 pm  user click on Number on UPI checkbox 
+2024-04-17 12:38:34 pm  user click on debit card with me checkbox
+2024-04-17 12:38:42 pm  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2024-04-17 12:38:56 pm  Onboard as merchant Button Populate on WebPage 
+2024-04-17 12:38:57 pm  User redirect on Admin panel Web App 
+2024-04-17 12:38:57 pm   Test Scenario onboardingProcess execute Successfully 
+2024-04-17 12:41:18 pm  chrome browser launch
+2024-04-17 12:41:19 pm  Execution of Test Scenario onboardingProcess start
+2024-04-17 12:41:19 pm  This is Test Scenario :openURL get fail
+2024-04-17 12:42:30 pm  chrome browser launch
+2024-04-17 12:42:30 pm  Execution of Test Scenario onboardingProcess start
+2024-04-17 12:42:30 pm  This is Test Scenario :openURL get fail
+2024-04-17 12:43:02 pm  This is Test Scenario :onboardingProcess get fail
+2024-04-17 12:43:04 pm  This is Test Scenario :onboardingProcess get fail

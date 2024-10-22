@@ -1,0 +1,21 @@
+2024-01-29 17:21:16 pm  chrome browser launch
+2024-01-29 17:21:16 pm  Execution of Test Scenario OpenURL start
+2024-01-29 17:21:19 pm   Test Scenario OpenURL execute Successfully 
+2024-01-29 17:21:19 pm  Execution of Test Scenario payBill start
+2024-01-29 17:22:57 pm  This is Test Scenario :payBill get fail
+2024-01-29 17:23:25 pm  chrome browser launch
+2024-01-29 17:23:25 pm  Execution of Test Scenario OpenURL start
+2024-01-29 17:23:27 pm   Test Scenario OpenURL execute Successfully 
+2024-01-29 17:23:27 pm  Execution of Test Scenario payBill start
+2024-01-29 17:23:27 pm  This is Test Scenario :payBill get fail
+2024-01-29 17:32:10 pm  chrome browser launch
+2024-01-29 17:32:11 pm  Execution of Test Scenario OpenURL start
+2024-01-29 17:32:13 pm   Test Scenario OpenURL execute Successfully 
+2024-01-29 17:32:13 pm  Execution of Test Scenario payBill start
+2024-01-29 17:32:13 pm  This is Test Scenario :payBill get fail
+2024-01-29 17:37:12 pm  chrome browser launch
+2024-01-29 17:37:12 pm  Execution of Test Scenario OpenURL start
+2024-01-29 17:37:14 pm   Test Scenario OpenURL execute Successfully 
+2024-01-29 17:37:14 pm  Execution of Test Scenario payBill start
+2024-01-29 17:37:16 pm  User click on fetch Bill button 
+2024-01-29 17:37:19 pm  This is Test Scenario :payBill get fail

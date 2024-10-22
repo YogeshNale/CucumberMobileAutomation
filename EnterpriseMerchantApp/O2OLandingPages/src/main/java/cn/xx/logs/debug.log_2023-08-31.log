@@ -1,0 +1,246 @@
+2023-08-31 10:11:10 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 10:11:10 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSkipped(Listeners.java:42) ]
+INFO:This is Test Scenario :openURL get Skip
+2023-08-31 10:11:10 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 10:11:10 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSkipped(Listeners.java:42) ]
+INFO:This is Test Scenario :onboardingProcess get Skip
+2023-08-31 10:15:10 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 10:15:12 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 10:15:12 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 10:15:15 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:15:16 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:15:18 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:327) ]
+INFO: DID not get populate or Get OTP button also 
+2023-08-31 10:15:18 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :onboardingProcess get fail
+2023-08-31 10:16:00 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:16:00 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 10:16:05 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 10:16:05 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 10:16:09 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:16:10 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:16:12 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:327) ]
+INFO: DID not get populate or Get OTP button also 
+2023-08-31 10:16:12 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :onboardingProcess get fail
+2023-08-31 10:17:21 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:17:21 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 10:17:22 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 10:17:22 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario donateAmount start
+2023-08-31 10:17:25 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.KashtBhanjanTrust.selectAmount(KashtBhanjanTrust.java:32) ]
+INFO:User select other amount option to select 
+2023-08-31 10:17:27 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.enterAmount(CommonElement.java:692) ]
+INFO:User enter  amount 1
+2023-08-31 10:17:29 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:17:31 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:17:37 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.KashtBhanjanTrust.donateAmountPerStatusOfUser(KashtBhanjanTrust.java:261) ]
+INFO:DID OR Get OTP Button both not get populate 
+2023-08-31 10:17:37 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :donateAmount get fail
+2023-08-31 10:18:16 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:18:17 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 10:18:18 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 10:18:18 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario checkTryLandingePage start
+2023-08-31 10:18:18 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.selectActionWhatWantToDO(CommonElement.java:671) ]
+INFO:User select Action 
+2023-08-31 10:18:21 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:18:22 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:18:23 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.RefLandingePage.checkRefPageAsPerUserStatus(RefLandingePage.java:78) ]
+INFO: DID not get populate or Get OTP button also 
+2023-08-31 10:18:23 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :checkTryLandingePage get fail
+2023-08-31 10:19:13 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:19:13 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 10:19:15 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 10:19:15 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-08-31 10:19:16 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataMerchantO2OPage.enterPhoneNumber(TataMerchantO2OPage.java:28) ]
+INFO:User enter Phone Number 
+2023-08-31 10:19:18 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:19:19 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:19:55 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:19:55 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 10:19:57 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 10:19:57 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-08-31 10:19:58 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataPowerLandingPage.enterConsumerNumber(TataPowerLandingPage.java:58) ]
+INFO:User enter consumer Number 413211170205
+2023-08-31 10:20:02 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnFetchBillButton(CommonElement.java:361) ]
+INFO:User click on fetch Bill button 
+2023-08-31 10:20:14 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataPowerLandingPage.billAvailablepayBill(TataPowerLandingPage.java:310) ]
+INFO:
+2023-08-31 10:20:14 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-08-31 10:22:19 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-08-31 10:22:53 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:22:53 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 10:22:55 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 10:22:55 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario checkTryLandingePage start
+2023-08-31 10:22:56 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.selectActionWhatWantToDO(CommonElement.java:671) ]
+INFO:User select Action 
+2023-08-31 10:23:00 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:23:02 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:23:03 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TryLandingepage.checkTryPageAsPerUserStatus(TryLandingepage.java:51) ]
+INFO: User is new MCP user onboraing process start 
+2023-08-31 10:23:30 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnGetOTP(CommonElement.java:449) ]
+INFO:User click on get OTP Button 
+2023-08-31 10:23:31 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :checkTryLandingePage get fail
+2023-08-31 10:28:16 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 10:28:16 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 10:28:18 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 10:28:18 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 10:28:20 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 10:28:21 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 10:28:23 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.uatOnboardingUserAsPerStatusOfUser(AgentLandingPage.java:163) ]
+INFO:User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-08-31 10:28:23 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.clickOnOnboardAsMerchantButton(AgentLandingPage.java:31) ]
+INFO:Onboard as merchant Button Populate on WebPage 
+2023-08-31 10:28:24 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.redirectOnAdminPanel(AgentLandingPage.java:45) ]
+INFO:User redirect on Admin panel Web App 
+2023-08-31 10:28:24 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario onboardingProcess execute Successfully 
+2023-08-31 11:59:30 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 11:59:30 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 11:59:31 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 11:59:31 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-08-31 11:59:33 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataMerchantO2OPage.enterPhoneNumber(TataMerchantO2OPage.java:28) ]
+INFO:User enter Phone Number 
+2023-08-31 11:59:34 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 11:59:35 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 11:59:35 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnGetOTP(CommonElement.java:449) ]
+INFO:User click on get OTP Button 
+2023-08-31 11:59:37 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-08-31 11:59:46 AM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 11:59:47 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-08-31 11:59:48 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-08-31 11:59:48 AM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-08-31 11:59:50 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataMerchantO2OPage.enterPhoneNumber(TataMerchantO2OPage.java:28) ]
+INFO:User enter Phone Number 
+2023-08-31 11:59:51 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 11:59:52 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 11:59:52 AM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnGetOTP(CommonElement.java:449) ]
+INFO:User click on get OTP Button 
+2023-08-31 12:00:13 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.TataMerchantO2OPage.mobileVerificationIcon(TataMerchantO2OPage.java:123) ]
+INFO:After OTP verify sucessfully Mobile verification action not marked as ok 
+2023-08-31 12:00:13 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-08-31 12:11:51 PM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 12:11:51 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 12:11:52 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 12:11:52 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 12:11:55 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 12:11:56 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 12:11:57 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:301) ]
+INFO:User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-08-31 12:12:12 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.clickOnOnboardAsMerchantButton(AgentLandingPage.java:31) ]
+INFO:Onboard as merchant Button Populate on WebPage 
+2023-08-31 12:12:14 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.redirectOnAdminPanel(AgentLandingPage.java:45) ]
+INFO:User redirect on Admin panel Web App 
+2023-08-31 12:12:14 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario onboardingProcess execute Successfully 
+2023-08-31 12:14:15 PM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 12:14:15 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 12:14:17 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 12:14:17 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 12:14:19 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 12:14:20 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 12:14:22 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:301) ]
+INFO:User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-08-31 12:14:37 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.clickOnOnboardAsMerchantButton(AgentLandingPage.java:31) ]
+INFO:Onboard as merchant Button Populate on WebPage 
+2023-08-31 12:14:38 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.redirectOnAdminPanel(AgentLandingPage.java:45) ]
+INFO:User redirect on Admin panel Web App 
+2023-08-31 12:14:38 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario onboardingProcess execute Successfully 
+2023-08-31 12:16:31 PM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 12:16:31 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 12:16:33 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 12:16:33 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 12:16:35 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 12:16:36 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 12:16:38 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:301) ]
+INFO:User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-08-31 12:16:52 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.clickOnOnboardAsMerchantButton(AgentLandingPage.java:31) ]
+INFO:Onboard as merchant Button Populate on WebPage 
+2023-08-31 12:16:53 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.redirectOnAdminPanel(AgentLandingPage.java:45) ]
+INFO:User redirect on Admin panel Web App 
+2023-08-31 12:16:53 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario onboardingProcess execute Successfully 

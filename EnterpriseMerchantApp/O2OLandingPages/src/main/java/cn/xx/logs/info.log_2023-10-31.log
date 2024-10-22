@@ -1,0 +1,8 @@
+2023-10-31 11:18:24 AM  chrome browser launch
+2023-10-31 11:18:24 AM  Execution of Test Scenario openURL start
+2023-10-31 11:18:28 AM   Test Scenario openURL execute Successfully 
+2023-10-31 11:18:28 AM  Execution of Test Scenario onboardingProcess start
+2023-10-31 11:18:30 AM  user click on Number on UPI checkbox 
+2023-10-31 11:18:31 AM  user click on debit card with me checkbox
+2023-10-31 11:18:39 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-10-31 11:18:40 AM  This is Test Scenario :onboardingProcess get fail

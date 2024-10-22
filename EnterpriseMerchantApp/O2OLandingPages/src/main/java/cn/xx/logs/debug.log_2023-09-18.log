@@ -1,0 +1,65 @@
+2023-09-18 10:20:52 AM  chrome browser launch
+2023-09-18 10:20:52 AM  Execution of Test Scenario openURL start
+2023-09-18 10:20:55 AM   Test Scenario openURL execute Successfully 
+2023-09-18 10:20:55 AM  Execution of Test Scenario onboardingProcess start
+2023-09-18 10:21:09 AM  user click on Number on UPI checkbox 
+2023-09-18 10:21:10 AM  user click on debit card with me checkbox
+2023-09-18 10:21:12 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-09-18 10:21:29 AM  Onboard as merchant Button Populate on WebPage 
+2023-09-18 10:21:30 AM  User redirect on Admin panel Web App 
+2023-09-18 10:21:30 AM   Test Scenario onboardingProcess execute Successfully 
+2023-09-18 10:34:33 AM  chrome browser launch
+2023-09-18 10:34:34 AM  Execution of Test Scenario OpenURL start
+2023-09-18 10:34:44 AM   Test Scenario OpenURL execute Successfully 
+2023-09-18 10:34:44 AM  Execution of Test Scenario donateAmount start
+2023-09-18 10:34:47 AM  User select other amount option to select 
+2023-09-18 10:34:48 AM  User enter  amount 1
+2023-09-18 10:34:51 AM  user click on Number on UPI checkbox 
+2023-09-18 10:34:52 AM  user click on debit card with me checkbox
+2023-09-18 10:34:58 AM  Donate Amount with Existing MCP user flow start 
+2023-09-18 10:35:23 AM  user call on DID and user Redirect on 3rd page 
+2023-09-18 10:35:24 AM  Entered Name match
+2023-09-18 10:35:29 AM  user received call back 
+2023-09-18 10:35:36 AM  amount action marked as ok  
+2023-09-18 10:35:36 AM   Test Scenario donateAmount execute Successfully 
+2023-09-18 10:41:23 AM  chrome browser launch
+2023-09-18 10:41:24 AM  Execution of Test Scenario OpenURL start
+2023-09-18 10:41:26 AM   Test Scenario OpenURL execute Successfully 
+2023-09-18 10:41:26 AM  Execution of Test Scenario payBill start
+2023-09-18 10:41:28 AM  User enter consumer Number 413211170205
+2023-09-18 10:41:31 AM  User click on fetch Bill button 
+2023-09-18 10:41:45 AM  User click on pay Bill Button 
+2023-09-18 10:41:46 AM  User enter mobile umber 9604677424
+2023-09-18 10:41:47 AM  user click on debit card with me checkbox
+2023-09-18 10:41:48 AM  user click on Number on UPI checkbox 
+2023-09-18 10:41:51 AM  Pay Bill with Existing MCP user Flow start 
+2023-09-18 10:45:35 AM  This is Test Scenario :payBill get fail
+2023-09-18 10:54:46 AM  chrome browser launch
+2023-09-18 10:54:46 AM  Execution of Test Scenario OpenURL start
+2023-09-18 10:54:48 AM   Test Scenario OpenURL execute Successfully 
+2023-09-18 10:54:48 AM  Execution of Test Scenario payBill start
+2023-09-18 10:57:48 AM  This is Test Scenario :payBill get fail
+2023-09-18 11:01:34 AM  chrome browser launch
+2023-09-18 11:01:34 AM  Execution of Test Scenario OpenURL start
+2023-09-18 11:01:36 AM   Test Scenario OpenURL execute Successfully 
+2023-09-18 11:01:36 AM  Execution of Test Scenario checkTryLandingePage start
+2023-09-18 11:01:36 AM  User select Action 
+2023-09-18 11:01:38 AM  user click on Number on UPI checkbox 
+2023-09-18 11:01:39 AM  user click on debit card with me checkbox
+2023-09-18 11:01:41 AM  DID Populate on 1st page user is existing MCP user if user call on DID One call flow Will start  
+2023-09-18 11:01:41 AM  User click on Add More payment Method URL
+2023-09-18 11:01:41 AM  User click on get OTP Button 
+2023-09-18 11:01:57 AM  User enter Bank Name Bank of Maharashtra
+2023-09-18 11:02:05 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-09-18 11:04:15 AM  chrome browser launch
+2023-09-18 11:04:15 AM  Execution of Test Scenario OpenURL start
+2023-09-18 11:04:17 AM   Test Scenario OpenURL execute Successfully 
+2023-09-18 11:04:17 AM  Execution of Test Scenario checkTryLandingePage start
+2023-09-18 11:04:17 AM  User select Action 
+2023-09-18 11:04:21 AM  user click on Number on UPI checkbox 
+2023-09-18 11:04:22 AM  user click on debit card with me checkbox
+2023-09-18 11:04:23 AM  DID Populate on 1st page user is existing MCP user if user call on DID One call flow Will start  
+2023-09-18 11:04:23 AM  User click on Add More payment Method URL
+2023-09-18 11:04:23 AM  User click on get OTP Button 
+2023-09-18 11:04:48 AM  User enter Bank Name HDFC BANK LTD
+2023-09-18 11:04:56 AM  This is Test Scenario :checkTryLandingePage get fail

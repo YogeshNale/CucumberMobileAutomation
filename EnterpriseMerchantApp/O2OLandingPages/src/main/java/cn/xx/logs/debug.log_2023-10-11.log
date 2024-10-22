@@ -1,0 +1,121 @@
+2023-10-11 10:25:18 AM  chrome browser launch
+2023-10-11 10:25:18 AM  Execution of Test Scenario openURL start
+2023-10-11 10:25:20 AM   Test Scenario openURL execute Successfully 
+2023-10-11 10:25:20 AM  Execution of Test Scenario onboardingProcess start
+2023-10-11 10:25:23 AM  user click on Number on UPI checkbox 
+2023-10-11 10:25:24 AM  user click on debit card with me checkbox
+2023-10-11 10:25:26 AM   DID not get populate or Get OTP button also 
+2023-10-11 10:25:26 AM  This is Test Scenario :onboardingProcess get fail
+2023-10-11 10:27:10 AM  chrome browser launch
+2023-10-11 10:27:10 AM  Execution of Test Scenario openURL start
+2023-10-11 10:27:12 AM   Test Scenario openURL execute Successfully 
+2023-10-11 10:27:12 AM  Execution of Test Scenario onboardingProcess start
+2023-10-11 10:27:15 AM  user click on Number on UPI checkbox 
+2023-10-11 10:27:16 AM  user click on debit card with me checkbox
+2023-10-11 10:27:17 AM   DID not get populate or Get OTP button also 
+2023-10-11 10:27:17 AM  This is Test Scenario :onboardingProcess get fail
+2023-10-11 10:27:55 AM  chrome browser launch
+2023-10-11 10:27:55 AM  Execution of Test Scenario openURL start
+2023-10-11 10:27:57 AM   Test Scenario openURL execute Successfully 
+2023-10-11 10:27:57 AM  Execution of Test Scenario onboardingProcess start
+2023-10-11 10:28:00 AM  user click on Number on UPI checkbox 
+2023-10-11 10:28:01 AM  user click on debit card with me checkbox
+2023-10-11 10:28:02 AM   DID not get populate or Get OTP button also 
+2023-10-11 10:28:02 AM  This is Test Scenario :onboardingProcess get fail
+2023-10-11 10:28:31 AM  chrome browser launch
+2023-10-11 10:28:31 AM  Execution of Test Scenario openURL start
+2023-10-11 10:28:37 AM   Test Scenario openURL execute Successfully 
+2023-10-11 10:28:37 AM  Execution of Test Scenario onboardingProcess start
+2023-10-11 10:28:39 AM  user click on Number on UPI checkbox 
+2023-10-11 10:28:40 AM  user click on debit card with me checkbox
+2023-10-11 10:28:48 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-10-11 10:29:04 AM  Onboard as merchant Button Populate on WebPage 
+2023-10-11 10:29:05 AM  User redirect on Admin panel Web App 
+2023-10-11 10:29:05 AM   Test Scenario onboardingProcess execute Successfully 
+2023-10-11 10:43:52 AM  chrome browser launch
+2023-10-11 10:43:52 AM  Execution of Test Scenario OpenURL start
+2023-10-11 10:43:54 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 10:43:54 AM  Execution of Test Scenario payBill start
+2023-10-11 10:43:55 AM  User enter consumer Number 813112011507
+2023-10-11 10:43:58 AM  User click on fetch Bill button 
+2023-10-11 10:44:12 AM  User click on pay Bill Button 
+2023-10-11 10:44:14 AM  User enter mobile umber 9604677424
+2023-10-11 10:44:15 AM  user click on debit card with me checkbox
+2023-10-11 10:44:16 AM  user click on Number on UPI checkbox 
+2023-10-11 10:44:18 AM  Pay Bill with Existing MCP user Flow start 
+2023-10-11 10:45:17 AM  user not received call back or Received call back action not marked as ok 
+2023-10-11 10:45:17 AM  This is Test Scenario :payBill get fail
+2023-10-11 11:00:29 AM  chrome browser launch
+2023-10-11 11:00:29 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:00:31 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:00:31 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:00:31 AM  User select Action 
+2023-10-11 11:00:34 AM  user click on Number on UPI checkbox 
+2023-10-11 11:00:35 AM  user click on debit card with me checkbox
+2023-10-11 11:00:36 AM   User is new MCP user onboraing process start 
+2023-10-11 11:00:36 AM  User click on get OTP Button 
+2023-10-11 11:00:54 AM  user redirect on 2nd page 
+2023-10-11 11:00:57 AM  User enter Bank Name Bank of Maharashtra
+2023-10-11 11:01:05 AM  User select bank account 
+2023-10-11 11:01:06 AM  User click on Terms and condition check Box 
+2023-10-11 11:01:38 AM  user call on DID and user Redirect on 3rd page 
+2023-10-11 11:01:44 AM  user not received call back or Received call back action not marked as ok 
+2023-10-11 11:01:44 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-10-11 11:03:00 AM  chrome browser launch
+2023-10-11 11:03:00 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:03:01 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:03:01 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:03:01 AM  User select Action 
+2023-10-11 11:03:05 AM  user click on Number on UPI checkbox 
+2023-10-11 11:03:06 AM  user click on debit card with me checkbox
+2023-10-11 11:03:07 AM   User is new MCP user onboraing process start 
+2023-10-11 11:03:07 AM  User click on get OTP Button 
+2023-10-11 11:03:24 AM  user not redirect on 2nd page 
+2023-10-11 11:03:24 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-10-11 11:03:32 AM  chrome browser launch
+2023-10-11 11:03:32 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:03:34 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:03:34 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:03:34 AM  User select Action 
+2023-10-11 11:03:37 AM  user click on Number on UPI checkbox 
+2023-10-11 11:03:38 AM  user click on debit card with me checkbox
+2023-10-11 11:03:39 AM   User is new MCP user onboraing process start 
+2023-10-11 11:03:39 AM  User click on get OTP Button 
+2023-10-11 11:03:57 AM  user not redirect on 2nd page 
+2023-10-11 11:03:57 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-10-11 11:04:05 AM  chrome browser launch
+2023-10-11 11:04:05 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:04:07 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:04:07 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:04:07 AM  User select Action 
+2023-10-11 11:04:10 AM  user click on Number on UPI checkbox 
+2023-10-11 11:04:11 AM  user click on debit card with me checkbox
+2023-10-11 11:04:12 AM   User is new MCP user onboraing process start 
+2023-10-11 11:04:12 AM  User click on get OTP Button 
+2023-10-11 11:04:30 AM  user redirect on 2nd page 
+2023-10-11 11:04:32 AM  User enter Bank Name Bank of Maharashtra
+2023-10-11 11:04:40 AM  User select bank account 
+2023-10-11 11:04:42 AM  User click on Terms and condition check Box 
+2023-10-11 11:05:14 AM  user call on DID but user not  Redirect on 3rd page 
+2023-10-11 11:05:14 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-10-11 11:09:26 AM  chrome browser launch
+2023-10-11 11:09:27 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:09:28 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:09:28 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:09:29 AM  User select Action 
+2023-10-11 11:09:31 AM  user click on Number on UPI checkbox 
+2023-10-11 11:09:32 AM  user click on debit card with me checkbox
+2023-10-11 11:09:33 AM   DID not get populate or Get OTP button also 
+2023-10-11 11:09:33 AM  This is Test Scenario :checkTryLandingePage get fail
+2023-10-11 11:10:17 AM  chrome browser launch
+2023-10-11 11:10:18 AM  Execution of Test Scenario OpenURL start
+2023-10-11 11:10:19 AM   Test Scenario OpenURL execute Successfully 
+2023-10-11 11:10:19 AM  Execution of Test Scenario checkTryLandingePage start
+2023-10-11 11:10:20 AM  User select Action 
+2023-10-11 11:10:22 AM  user click on Number on UPI checkbox 
+2023-10-11 11:10:23 AM  user click on debit card with me checkbox
+2023-10-11 11:10:29 AM  DID Populate on 1st page user is existing MCP user if user call on DID One call flow Will start  
+2023-10-11 11:10:30 AM  User click on Add More payment Method URL
+2023-10-11 11:10:30 AM  User click on get OTP Button 
+2023-10-11 11:11:43 AM  User enter Bank Name Bank of Maharashtra
+2023-10-11 11:11:52 AM  This is Test Scenario :checkTryLandingePage get fail

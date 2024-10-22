@@ -1,0 +1,37 @@
+2023-11-07 11:00:11 AM  chrome browser launch
+2023-11-07 11:00:11 AM  Execution of Test Scenario openURL start
+2023-11-07 11:00:14 AM   Test Scenario openURL execute Successfully 
+2023-11-07 11:00:14 AM  Execution of Test Scenario onboardingProcess start
+2023-11-07 11:00:16 AM  user click on Number on UPI checkbox 
+2023-11-07 11:00:17 AM  user click on debit card with me checkbox
+2023-11-07 11:00:25 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-11-07 11:00:52 AM  Onboard as merchant Button Populate on WebPage 
+2023-11-07 11:00:53 AM  User redirect on Admin panel Web App 
+2023-11-07 11:00:53 AM   Test Scenario onboardingProcess execute Successfully 
+2023-11-07 11:43:46 AM  chrome browser launch
+2023-11-07 11:43:46 AM  Execution of Test Scenario OpenURL start
+2023-11-07 11:44:01 AM   Test Scenario OpenURL execute Successfully 
+2023-11-07 11:44:01 AM  Execution of Test Scenario donateAmount start
+2023-11-07 11:44:03 AM  User select other amount option to select 
+2023-11-07 11:44:04 AM  User enter  amount 1
+2023-11-07 11:44:05 AM  This is Test Scenario :donateAmount get fail
+2023-11-07 12:18:28 PM  chrome browser launch
+2023-11-07 12:18:28 PM  Execution of Test Scenario OpenURL start
+2023-11-07 12:18:31 PM   Test Scenario OpenURL execute Successfully 
+2023-11-07 12:18:31 PM  Execution of Test Scenario checkTryLandingePage start
+2023-11-07 12:18:31 PM  User select Action 
+2023-11-07 12:18:35 PM  user click on Number on UPI checkbox 
+2023-11-07 12:18:36 PM  user click on debit card with me checkbox
+2023-11-07 12:18:37 PM   User is new MCP user onboraing process start 
+2023-11-07 12:18:46 PM  This is Test Scenario :checkTryLandingePage get fail
+2023-11-07 12:20:12 PM  chrome browser launch
+2023-11-07 12:20:12 PM  Execution of Test Scenario OpenURL start
+2023-11-07 12:20:16 PM   Test Scenario OpenURL execute Successfully 
+2023-11-07 12:20:16 PM  Execution of Test Scenario checkTryLandingePage start
+2023-11-07 12:20:17 PM  User select Action 
+2023-11-07 12:20:19 PM  user click on Number on UPI checkbox 
+2023-11-07 12:20:20 PM  user click on debit card with me checkbox
+2023-11-07 12:20:26 PM  DID Populate on 1st page user is existing MCP user if user call on DID One call flow Will start  
+2023-11-07 12:20:27 PM  User click on Add More payment Method URL
+2023-11-07 12:20:27 PM  User click on get OTP Button 
+2023-11-07 12:20:42 PM  This is Test Scenario :checkTryLandingePage get fail

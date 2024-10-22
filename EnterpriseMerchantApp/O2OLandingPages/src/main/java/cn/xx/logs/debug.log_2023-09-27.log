@@ -1,0 +1,47 @@
+2023-09-27 11:42:08 AM  chrome browser launch
+2023-09-27 11:42:08 AM  Execution of Test Scenario openURL start
+2023-09-27 11:42:10 AM   Test Scenario openURL execute Successfully 
+2023-09-27 11:42:10 AM  Execution of Test Scenario onboardingProcess start
+2023-09-27 11:42:13 AM  user click on Number on UPI checkbox 
+2023-09-27 11:42:14 AM  user click on debit card with me checkbox
+2023-09-27 11:42:16 AM  User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-09-27 11:42:35 AM  Onboard as merchant Button Populate on WebPage 
+2023-09-27 11:42:36 AM  User redirect on Admin panel Web App 
+2023-09-27 11:42:36 AM   Test Scenario onboardingProcess execute Successfully 
+2023-09-27 11:43:44 AM  chrome browser launch
+2023-09-27 11:43:44 AM  Execution of Test Scenario OpenURL start
+2023-09-27 11:43:46 AM   Test Scenario OpenURL execute Successfully 
+2023-09-27 11:43:46 AM  Execution of Test Scenario donateAmount start
+2023-09-27 11:43:47 AM  User select other amount option to select 
+2023-09-27 11:43:48 AM  User enter  amount 1
+2023-09-27 11:43:51 AM  user click on Number on UPI checkbox 
+2023-09-27 11:43:52 AM  user click on debit card with me checkbox
+2023-09-27 11:43:59 AM  Donate Amount with Existing MCP user flow start 
+2023-09-27 11:44:24 AM  user call on DID and user Redirect on 3rd page 
+2023-09-27 11:44:24 AM  Entered Name match
+2023-09-27 11:44:29 AM  user received call back 
+2023-09-27 11:44:36 AM  amount action marked as ok  
+2023-09-27 11:44:36 AM   Test Scenario donateAmount execute Successfully 
+2023-09-27 11:46:58 AM  chrome browser launch
+2023-09-27 11:46:58 AM  Execution of Test Scenario OpenURL start
+2023-09-27 11:47:00 AM   Test Scenario OpenURL execute Successfully 
+2023-09-27 11:47:00 AM  Execution of Test Scenario payBill start
+2023-09-27 11:47:02 AM  User enter consumer Number 813112011507
+2023-09-27 11:47:05 AM  User click on fetch Bill button 
+2023-09-27 11:47:19 AM  User click on pay Bill Button 
+2023-09-27 11:47:20 AM  User enter mobile umber 9604677424
+2023-09-27 11:47:22 AM  user click on debit card with me checkbox
+2023-09-27 11:47:23 AM  user click on Number on UPI checkbox 
+2023-09-27 11:47:25 AM  Pay Bill with Existing MCP user Flow start 
+2023-09-27 11:51:10 AM  This is Test Scenario :payBill get fail
+2023-09-27 11:53:20 AM  chrome browser launch
+2023-09-27 11:53:20 AM  Execution of Test Scenario OpenURL start
+2023-09-27 11:53:22 AM   Test Scenario OpenURL execute Successfully 
+2023-09-27 11:53:22 AM  Execution of Test Scenario checkTryLandingePage start
+2023-09-27 11:53:22 AM  User select Action 
+2023-09-27 11:53:26 AM  user click on Number on UPI checkbox 
+2023-09-27 11:53:27 AM  user click on debit card with me checkbox
+2023-09-27 11:53:28 AM   User is new MCP user onboraing process start 
+2023-09-27 11:53:28 AM  User click on get OTP Button 
+2023-09-27 11:53:46 AM  user not redirect on 2nd page 
+2023-09-27 11:53:46 AM  This is Test Scenario :checkTryLandingePage get fail

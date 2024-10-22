@@ -1,0 +1,166 @@
+2023-12-07 18:03:30 PM  chrome browser launch
+2023-12-07 18:03:30 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:03:33 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:03:33 PM  Execution of Test Scenario payBill start
+2023-12-07 18:03:36 PM  user click on Number on UPI checkbox 
+2023-12-07 18:03:37 PM  user click on debit card with me checkbox
+2023-12-07 18:03:37 PM  User click on get OTP Button 
+2023-12-07 18:04:06 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:04:07 PM  User click on fetch Bill button 
+2023-12-07 18:04:14 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:04:14 PM   Test Scenario payBill execute Successfully 
+2023-12-07 18:05:04 PM  chrome browser launch
+2023-12-07 18:05:04 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:05:08 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:05:08 PM  Execution of Test Scenario payBill start
+2023-12-07 18:05:11 PM  user click on Number on UPI checkbox 
+2023-12-07 18:05:12 PM  user click on debit card with me checkbox
+2023-12-07 18:05:13 PM  User click on get OTP Button 
+2023-12-07 18:05:41 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:05:43 PM  User click on fetch Bill button 
+2023-12-07 18:05:50 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:05:52 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:05:52 PM   Test Scenario payBill execute Successfully 
+2023-12-07 18:14:56 PM  chrome browser launch
+2023-12-07 18:14:57 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:14:59 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:15:00 PM  Execution of Test Scenario payBill start
+2023-12-07 18:15:02 PM  user click on Number on UPI checkbox 
+2023-12-07 18:15:03 PM  user click on debit card with me checkbox
+2023-12-07 18:15:03 PM  User click on get OTP Button 
+2023-12-07 18:15:32 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:15:33 PM  User click on fetch Bill button 
+2023-12-07 18:15:40 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:15:42 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:15:52 PM  Linked account to enter Number get autofetched 
+2023-12-07 18:15:54 PM  There are 34 bank get AutoFetched for User Number 
+2023-12-07 18:15:56 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:19:27 PM  chrome browser launch
+2023-12-07 18:19:28 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:19:29 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:19:29 PM  Execution of Test Scenario payBill start
+2023-12-07 18:19:32 PM  user click on Number on UPI checkbox 
+2023-12-07 18:19:33 PM  user click on debit card with me checkbox
+2023-12-07 18:19:33 PM  User click on get OTP Button 
+2023-12-07 18:20:02 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:20:04 PM  User click on fetch Bill button 
+2023-12-07 18:20:11 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:20:13 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:20:23 PM  Linked account to enter Number get autofetched 
+2023-12-07 18:20:24 PM  There are 34 bank get AutoFetched for User Number 
+2023-12-07 18:20:27 PM  Selected Account is existing UPI Account 
+2023-12-07 18:20:28 PM  User click on Terms and condition check Box 
+2023-12-07 18:20:31 PM  DID is populate on 2nd page 
+2023-12-07 18:20:43 PM  Qr is available 
+2023-12-07 18:21:14 PM  user not received call back or Received call back action not marked as ok 
+2023-12-07 18:21:14 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:28:35 PM  chrome browser launch
+2023-12-07 18:28:36 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:28:38 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:28:38 PM  Execution of Test Scenario payBill start
+2023-12-07 18:28:41 PM  user click on Number on UPI checkbox 
+2023-12-07 18:28:42 PM  user click on debit card with me checkbox
+2023-12-07 18:28:42 PM  User click on get OTP Button 
+2023-12-07 18:29:11 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:29:12 PM  User click on fetch Bill button 
+2023-12-07 18:29:19 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:29:21 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:29:31 PM  Linked account to enter Number get autofetched 
+2023-12-07 18:29:32 PM  There are 34 bank get AutoFetched for User Number 
+2023-12-07 18:29:36 PM  Selected Account is existing UPI Account 
+2023-12-07 18:29:38 PM  User click on Terms and condition check Box 
+2023-12-07 18:29:41 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:30:42 PM  chrome browser launch
+2023-12-07 18:30:42 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:30:44 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:30:44 PM  Execution of Test Scenario payBill start
+2023-12-07 18:30:47 PM  user click on Number on UPI checkbox 
+2023-12-07 18:30:48 PM  user click on debit card with me checkbox
+2023-12-07 18:30:48 PM  User click on get OTP Button 
+2023-12-07 18:31:21 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:31:29 PM  chrome browser launch
+2023-12-07 18:31:29 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:31:31 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:31:31 PM  Execution of Test Scenario payBill start
+2023-12-07 18:31:33 PM  user click on Number on UPI checkbox 
+2023-12-07 18:31:34 PM  user click on debit card with me checkbox
+2023-12-07 18:31:35 PM  User click on get OTP Button 
+2023-12-07 18:32:03 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:32:05 PM  User click on fetch Bill button 
+2023-12-07 18:32:12 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:32:14 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:32:24 PM  No account Auto Fetched 
+2023-12-07 18:32:31 PM  User enter Bank Name K Number
+2023-12-07 18:32:39 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:35:09 PM  chrome browser launch
+2023-12-07 18:35:10 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:35:15 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:35:15 PM  Execution of Test Scenario payBill start
+2023-12-07 18:35:18 PM  user click on Number on UPI checkbox 
+2023-12-07 18:35:19 PM  user click on debit card with me checkbox
+2023-12-07 18:35:19 PM  User click on get OTP Button 
+2023-12-07 18:35:48 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:35:49 PM  User click on fetch Bill button 
+2023-12-07 18:35:56 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:35:58 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:36:03 PM  No account Auto Fetched 
+2023-12-07 18:36:10 PM  User enter Bank Name Federal Bank
+2023-12-07 18:36:18 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:39:57 PM  chrome browser launch
+2023-12-07 18:39:57 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:40:00 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:40:00 PM  Execution of Test Scenario payBill start
+2023-12-07 18:40:03 PM  user click on Number on UPI checkbox 
+2023-12-07 18:40:04 PM  user click on debit card with me checkbox
+2023-12-07 18:40:04 PM  User click on get OTP Button 
+2023-12-07 18:40:33 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:40:34 PM  User click on fetch Bill button 
+2023-12-07 18:40:41 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:40:43 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:40:48 PM  No account Auto Fetched 
+2023-12-07 18:40:55 PM  User enter Bank Name Federal Bank
+2023-12-07 18:41:03 PM  User select bank account 
+2023-12-07 18:41:06 PM  user not able to select language 
+2023-12-07 18:41:06 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:47:08 PM  chrome browser launch
+2023-12-07 18:47:09 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:47:11 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:47:11 PM  Execution of Test Scenario payBill start
+2023-12-07 18:47:13 PM  user click on Number on UPI checkbox 
+2023-12-07 18:47:14 PM  user click on debit card with me checkbox
+2023-12-07 18:47:15 PM  User click on get OTP Button 
+2023-12-07 18:47:44 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:47:45 PM  User click on fetch Bill button 
+2023-12-07 18:47:52 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:47:54 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:47:59 PM  No account Auto Fetched 
+2023-12-07 18:48:05 PM  User enter Bank Name Federal Bank
+2023-12-07 18:48:14 PM  User select bank account 
+2023-12-07 18:48:14 PM  User enter Additional Amount of Rs 6
+2023-12-07 18:48:15 PM  Selected Account is existing UPI Account 
+2023-12-07 18:48:17 PM  User click on Terms and condition check Box 
+2023-12-07 18:48:20 PM  DID is populate on 2nd page 
+2023-12-07 18:48:31 PM  Qr is available 
+2023-12-07 18:51:01 PM  This is Test Scenario :payBill get fail
+2023-12-07 18:51:03 PM  chrome browser launch
+2023-12-07 18:51:03 PM  Execution of Test Scenario OpenURL start
+2023-12-07 18:51:06 PM   Test Scenario OpenURL execute Successfully 
+2023-12-07 18:51:06 PM  Execution of Test Scenario payBill start
+2023-12-07 18:51:09 PM  user click on Number on UPI checkbox 
+2023-12-07 18:51:10 PM  user click on debit card with me checkbox
+2023-12-07 18:51:10 PM  User click on get OTP Button 
+2023-12-07 18:51:39 PM  User Clicked on Add another consumer number radio Button
+2023-12-07 18:51:40 PM  User click on fetch Bill button 
+2023-12-07 18:51:47 PM  Bill Available for entered Consumer Number 
+2023-12-07 18:51:49 PM  Pay Bill with new MCP user Flow start 
+2023-12-07 18:51:52 PM  No account Auto Fetched 
+2023-12-07 18:51:55 PM  User enter Bank Name Federal Bank
+2023-12-07 18:52:03 PM  User select bank account 
+2023-12-07 18:52:04 PM  User enter Additional Amount of Rs 6
+2023-12-07 18:52:05 PM  Selected Bank account is a New UPI Account 
+2023-12-07 18:52:06 PM  User enter debit card number 
+2023-12-07 18:52:06 PM  User enter Debit Card Expiry month and year 
+2023-12-07 18:52:07 PM  User click on Terms and condition check Box 
+2023-12-07 18:52:18 PM  For selected bank Debit pin is required 
+2023-12-07 18:52:19 PM  DID is populate on 2nd page 
+2023-12-07 18:52:30 PM  Qr is available 

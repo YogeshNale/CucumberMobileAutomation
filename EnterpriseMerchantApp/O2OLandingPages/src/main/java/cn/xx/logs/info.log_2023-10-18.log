@@ -1,0 +1,53 @@
+2023-10-18 10:23:34 AM  chrome browser launch
+2023-10-18 10:23:35 AM  Execution of Test Scenario OpenURL start
+2023-10-18 10:23:36 AM   Test Scenario OpenURL execute Successfully 
+2023-10-18 10:23:36 AM  Execution of Test Scenario donateAmount start
+2023-10-18 10:23:37 AM  User select other amount option to select 
+2023-10-18 10:23:39 AM  User enter  amount 1
+2023-10-18 10:23:41 AM  user click on Number on UPI checkbox 
+2023-10-18 10:23:42 AM  user click on debit card with me checkbox
+2023-10-18 10:23:49 AM  Donate Amount with Existing MCP user flow start 
+2023-10-18 10:24:14 AM  user call on DID and user Redirect on 3rd page 
+2023-10-18 10:24:14 AM  Entered Name match
+2023-10-18 10:24:20 AM  user not received call back or Received call back action not marked as ok 
+2023-10-18 10:24:20 AM  This is Test Scenario :donateAmount get fail
+2023-10-18 11:09:04 AM  chrome browser launch
+2023-10-18 11:09:04 AM  Execution of Test Scenario OpenURL start
+2023-10-18 11:09:06 AM   Test Scenario OpenURL execute Successfully 
+2023-10-18 11:09:06 AM  Execution of Test Scenario donateAmount start
+2023-10-18 11:09:07 AM  User select other amount option to select 
+2023-10-18 11:09:08 AM  User enter  amount 1
+2023-10-18 11:09:10 AM  user click on Number on UPI checkbox 
+2023-10-18 11:09:12 AM  user click on debit card with me checkbox
+2023-10-18 11:09:18 AM  Donate Amount with Existing MCP user flow start 
+2023-10-18 11:09:43 AM  user call on DID and user Redirect on 3rd page 
+2023-10-18 11:09:43 AM  Entered Name match
+2023-10-18 11:09:49 AM  user not received call back or Received call back action not marked as ok 
+2023-10-18 11:09:49 AM  This is Test Scenario :donateAmount get fail
+2023-10-18 11:25:49 AM  chrome browser launch
+2023-10-18 11:25:49 AM  Execution of Test Scenario OpenURL start
+2023-10-18 11:25:49 AM   Test Scenario OpenURL execute Successfully 
+2023-10-18 11:25:49 AM  Execution of Test Scenario donateAmount start
+2023-10-18 11:25:51 AM  User select other amount option to select 
+2023-10-18 11:25:52 AM  User enter  amount 1
+2023-10-18 11:25:55 AM  user click on Number on UPI checkbox 
+2023-10-18 11:25:56 AM  user click on debit card with me checkbox
+2023-10-18 11:26:02 AM  Donate Amount with Existing MCP user flow start 
+2023-10-18 11:26:27 AM  user call on DID and user Redirect on 3rd page 
+2023-10-18 11:26:27 AM  Entered Name match
+2023-10-18 11:26:33 AM  user not received call back or Received call back action not marked as ok 
+2023-10-18 11:26:33 AM  This is Test Scenario :donateAmount get fail
+2023-10-18 12:11:29 PM  chrome browser launch
+2023-10-18 12:11:29 PM  Execution of Test Scenario OpenURL start
+2023-10-18 12:11:31 PM   Test Scenario OpenURL execute Successfully 
+2023-10-18 12:11:31 PM  Execution of Test Scenario donateAmount start
+2023-10-18 12:11:33 PM  User select other amount option to select 
+2023-10-18 12:11:34 PM  User enter  amount 1
+2023-10-18 12:11:36 PM  user click on Number on UPI checkbox 
+2023-10-18 12:11:37 PM  user click on debit card with me checkbox
+2023-10-18 12:11:44 PM  Donate Amount with Existing MCP user flow start 
+2023-10-18 12:12:09 PM  user call on DID and user Redirect on 3rd page 
+2023-10-18 12:12:09 PM  Entered Name match
+2023-10-18 12:12:14 PM  user received call back 
+2023-10-18 12:12:21 PM  amount action marked as ok  
+2023-10-18 12:12:21 PM   Test Scenario donateAmount execute Successfully 

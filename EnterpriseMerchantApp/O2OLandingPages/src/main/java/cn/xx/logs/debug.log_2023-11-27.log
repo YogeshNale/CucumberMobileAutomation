@@ -1,0 +1,872 @@
+2023-11-27 10:31:16 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:31:16 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:32:28 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:32:28 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:33:15 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:33:15 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:35:24 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:35:24 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:37:18 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:37:18 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:45:17 AM  chrome browser launch
+2023-11-27 10:45:17 AM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-27 10:45:26 AM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-27 10:45:26 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:45:26 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:45:34 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:45:34 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:45:58 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:45:58 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:47:39 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:47:39 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:52:07 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:52:07 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 10:53:18 AM  chrome browser launch
+2023-11-27 10:53:18 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 10:53:28 AM  User click on fetch Bill button 
+2023-11-27 10:53:36 AM  User click on fetch Bill button 
+2023-11-27 10:53:45 AM  User click on fetch Bill button 
+2023-11-27 10:53:52 AM  User click on fetch Bill button 
+2023-11-27 10:54:01 AM  User click on fetch Bill button 
+2023-11-27 10:54:09 AM  User click on fetch Bill button 
+2023-11-27 10:54:17 AM  User click on fetch Bill button 
+2023-11-27 10:54:24 AM  User click on fetch Bill button 
+2023-11-27 10:54:37 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 11:59:10 AM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 11:59:10 AM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:02:16 PM  chrome browser launch
+2023-11-27 12:02:16 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:02:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:07:18 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:07:19 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:07:30 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:07:30 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:08:32 PM  chrome browser launch
+2023-11-27 12:08:33 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:08:36 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:09:22 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:09:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:13:13 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:13:13 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:14:41 PM  chrome browser launch
+2023-11-27 12:14:41 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:14:51 PM  User click on fetch Bill button 
+2023-11-27 12:14:59 PM  User click on fetch Bill button 
+2023-11-27 12:15:09 PM  User click on fetch Bill button 
+2023-11-27 12:15:17 PM  User click on fetch Bill button 
+2023-11-27 12:15:25 PM  User click on fetch Bill button 
+2023-11-27 12:15:33 PM  User click on fetch Bill button 
+2023-11-27 12:15:41 PM  User click on fetch Bill button 
+2023-11-27 12:15:48 PM  User click on fetch Bill button 
+2023-11-27 12:15:56 PM  User click on fetch Bill button 
+2023-11-27 12:16:03 PM  User click on fetch Bill button 
+2023-11-27 12:16:12 PM  User click on fetch Bill button 
+2023-11-27 12:16:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:20:37 PM  chrome browser launch
+2023-11-27 12:20:38 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:20:48 PM  User click on fetch Bill button 
+2023-11-27 12:20:51 PM  Bill available 
+2023-11-27 12:20:59 PM  User click on fetch Bill button 
+2023-11-27 12:21:02 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:25:19 PM  chrome browser launch
+2023-11-27 12:25:20 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:25:28 PM  User click on fetch Bill button 
+2023-11-27 12:25:31 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:30:19 PM  chrome browser launch
+2023-11-27 12:30:19 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:30:28 PM  User click on fetch Bill button 
+2023-11-27 12:30:31 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:35:34 PM  chrome browser launch
+2023-11-27 12:35:34 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:35:45 PM  User click on fetch Bill button 
+2023-11-27 12:35:48 PM  Bill available 
+2023-11-27 12:35:53 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:38:44 PM  chrome browser launch
+2023-11-27 12:38:44 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:38:54 PM  User click on fetch Bill button 
+2023-11-27 12:38:57 PM  Bill available 
+2023-11-27 12:39:06 PM  User click on fetch Bill button 
+2023-11-27 12:39:09 PM  Bill available 
+2023-11-27 12:39:18 PM  User click on fetch Bill button 
+2023-11-27 12:39:21 PM  Bill available 
+2023-11-27 12:39:29 PM  User click on fetch Bill button 
+2023-11-27 12:39:32 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:41:44 PM  chrome browser launch
+2023-11-27 12:41:44 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:41:54 PM  User click on fetch Bill button 
+2023-11-27 12:41:57 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:43:35 PM  chrome browser launch
+2023-11-27 12:43:36 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:43:46 PM  User click on fetch Bill button 
+2023-11-27 12:43:49 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:45:34 PM  chrome browser launch
+2023-11-27 12:45:34 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:45:44 PM  User click on fetch Bill button 
+2023-11-27 12:45:47 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:46:39 PM  chrome browser launch
+2023-11-27 12:46:39 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:46:48 PM  User click on fetch Bill button 
+2023-11-27 12:46:51 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:48:22 PM  chrome browser launch
+2023-11-27 12:48:23 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:48:32 PM  User click on fetch Bill button 
+2023-11-27 12:48:35 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:49:38 PM  chrome browser launch
+2023-11-27 12:49:38 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:49:47 PM  User click on fetch Bill button 
+2023-11-27 12:49:50 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:50:45 PM  chrome browser launch
+2023-11-27 12:50:45 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:50:54 PM  User click on fetch Bill button 
+2023-11-27 12:50:57 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:51:58 PM  chrome browser launch
+2023-11-27 12:51:58 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:52:07 PM  User click on fetch Bill button 
+2023-11-27 12:52:10 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:54:41 PM  chrome browser launch
+2023-11-27 12:54:41 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:54:50 PM  User click on fetch Bill button 
+2023-11-27 12:54:53 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:56:00 PM  chrome browser launch
+2023-11-27 12:56:00 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:56:10 PM  User click on fetch Bill button 
+2023-11-27 12:56:13 PM  Bill available 
+2023-11-27 12:56:21 PM  User click on fetch Bill button 
+2023-11-27 12:56:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:58:14 PM  chrome browser launch
+2023-11-27 12:58:14 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:58:24 PM  User click on fetch Bill button 
+2023-11-27 12:58:27 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:59:06 PM  chrome browser launch
+2023-11-27 12:59:07 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 12:59:15 PM  User click on fetch Bill button 
+2023-11-27 12:59:18 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 12:59:58 PM  chrome browser launch
+2023-11-27 12:59:58 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:00:07 PM  User click on fetch Bill button 
+2023-11-27 13:00:10 PM  Bill available 
+2023-11-27 13:00:19 PM  User click on fetch Bill button 
+2023-11-27 13:00:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:01:40 PM  chrome browser launch
+2023-11-27 13:01:40 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:01:50 PM  User click on fetch Bill button 
+2023-11-27 13:01:53 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:02:11 PM  chrome browser launch
+2023-11-27 13:02:11 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:02:19 PM  User click on fetch Bill button 
+2023-11-27 13:02:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:03:47 PM  chrome browser launch
+2023-11-27 13:03:47 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:03:56 PM  User click on fetch Bill button 
+2023-11-27 13:03:59 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:56:12 PM  chrome browser launch
+2023-11-27 13:56:12 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:56:21 PM  User click on fetch Bill button 
+2023-11-27 13:56:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:56:53 PM  chrome browser launch
+2023-11-27 13:56:54 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:57:03 PM  User click on fetch Bill button 
+2023-11-27 13:57:06 PM  Bill available 
+2023-11-27 13:57:15 PM  User click on fetch Bill button 
+2023-11-27 13:57:18 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 13:59:04 PM  chrome browser launch
+2023-11-27 13:59:04 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 13:59:23 PM  User click on fetch Bill button 
+2023-11-27 13:59:26 PM  Bill available 
+2023-11-27 13:59:35 PM  User click on fetch Bill button 
+2023-11-27 13:59:38 PM  Bill available 
+2023-11-27 13:59:47 PM  User click on fetch Bill button 
+2023-11-27 13:59:50 PM  Bill available 
+2023-11-27 13:59:58 PM  User click on fetch Bill button 
+2023-11-27 14:00:01 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 14:06:17 PM  chrome browser launch
+2023-11-27 14:06:17 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 14:06:28 PM  User click on fetch Bill button 
+2023-11-27 14:06:31 PM  Bill available 
+2023-11-27 14:06:40 PM  User click on fetch Bill button 
+2023-11-27 14:06:43 PM  Bill available 
+2023-11-27 14:06:54 PM  User click on fetch Bill button 
+2023-11-27 14:06:57 PM  Bill available 
+2023-11-27 14:07:06 PM  User click on fetch Bill button 
+2023-11-27 14:07:09 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 14:10:50 PM  chrome browser launch
+2023-11-27 14:10:50 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 14:11:01 PM  User click on fetch Bill button 
+2023-11-27 14:11:04 PM  Bill available 
+2023-11-27 14:11:13 PM  User click on fetch Bill button 
+2023-11-27 14:11:16 PM  Bill available 
+2023-11-27 14:11:27 PM  User click on fetch Bill button 
+2023-11-27 14:11:30 PM  Bill available 
+2023-11-27 14:11:38 PM  User click on fetch Bill button 
+2023-11-27 14:11:41 PM  Bill available 
+2023-11-27 14:11:51 PM  User click on fetch Bill button 
+2023-11-27 14:11:55 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 14:59:03 PM  chrome browser launch
+2023-11-27 14:59:04 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 14:59:17 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:01:04 PM  chrome browser launch
+2023-11-27 15:01:04 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:01:13 PM  User click on fetch Bill button 
+2023-11-27 15:01:16 PM  Bill available 
+2023-11-27 15:01:25 PM  User click on fetch Bill button 
+2023-11-27 15:01:28 PM  Bill available 
+2023-11-27 15:01:36 PM  User click on fetch Bill button 
+2023-11-27 15:01:39 PM  Bill available 
+2023-11-27 15:01:48 PM  User click on fetch Bill button 
+2023-11-27 15:01:51 PM  Bill available 
+2023-11-27 15:02:00 PM  User click on fetch Bill button 
+2023-11-27 15:02:03 PM  Bill available 
+2023-11-27 15:02:12 PM  User click on fetch Bill button 
+2023-11-27 15:02:15 PM  Bill available 
+2023-11-27 15:02:25 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:03:31 PM  chrome browser launch
+2023-11-27 15:03:31 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:03:40 PM  User click on fetch Bill button 
+2023-11-27 15:03:43 PM  Bill available 
+2023-11-27 15:03:52 PM  User click on fetch Bill button 
+2023-11-27 15:03:55 PM  Bill available 
+2023-11-27 15:04:04 PM  User click on fetch Bill button 
+2023-11-27 15:04:07 PM  Bill available 
+2023-11-27 15:04:16 PM  User click on fetch Bill button 
+2023-11-27 15:04:19 PM  Bill available 
+2023-11-27 15:04:28 PM  User click on fetch Bill button 
+2023-11-27 15:04:31 PM  Bill available 
+2023-11-27 15:04:38 PM  User click on fetch Bill button 
+2023-11-27 15:04:41 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:06:46 PM  chrome browser launch
+2023-11-27 15:06:46 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:06:54 PM  User click on fetch Bill button 
+2023-11-27 15:06:57 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:08:22 PM  chrome browser launch
+2023-11-27 15:08:22 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:08:31 PM  User click on fetch Bill button 
+2023-11-27 15:08:34 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:09:01 PM  chrome browser launch
+2023-11-27 15:09:01 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:09:11 PM  User click on fetch Bill button 
+2023-11-27 15:09:14 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:11:54 PM  chrome browser launch
+2023-11-27 15:11:55 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:12:06 PM  User click on fetch Bill button 
+2023-11-27 15:12:09 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:12:40 PM  chrome browser launch
+2023-11-27 15:12:41 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:12:54 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:14:05 PM  chrome browser launch
+2023-11-27 15:14:05 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:14:14 PM  User click on fetch Bill button 
+2023-11-27 15:14:17 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:15:08 PM  chrome browser launch
+2023-11-27 15:15:08 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:15:17 PM  User click on fetch Bill button 
+2023-11-27 15:15:20 PM  Bill available 
+2023-11-27 15:15:34 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:18:36 PM  chrome browser launch
+2023-11-27 15:18:36 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:18:46 PM  User click on fetch Bill button 
+2023-11-27 15:18:49 PM  Bill available 
+2023-11-27 15:18:58 PM  User click on fetch Bill button 
+2023-11-27 15:19:01 PM  Bill available 
+2023-11-27 15:19:15 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:22:15 PM  chrome browser launch
+2023-11-27 15:22:15 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:22:25 PM  User click on fetch Bill button 
+2023-11-27 15:22:28 PM  Bill available 
+2023-11-27 15:22:37 PM  User click on fetch Bill button 
+2023-11-27 15:22:40 PM  Bill available 
+2023-11-27 15:22:48 PM  User click on fetch Bill button 
+2023-11-27 15:22:51 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:26:03 PM  chrome browser launch
+2023-11-27 15:26:04 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:26:14 PM  User click on fetch Bill button 
+2023-11-27 15:26:17 PM  Bill available 
+2023-11-27 15:26:25 PM  User click on fetch Bill button 
+2023-11-27 15:26:28 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:28:21 PM  chrome browser launch
+2023-11-27 15:28:21 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:28:34 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:29:55 PM  chrome browser launch
+2023-11-27 15:29:55 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:30:05 PM  User click on fetch Bill button 
+2023-11-27 15:30:08 PM  Bill available 
+2023-11-27 15:30:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:32:05 PM  chrome browser launch
+2023-11-27 15:32:05 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:32:20 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:38:07 PM  chrome browser launch
+2023-11-27 15:38:07 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:38:25 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:39:55 PM  chrome browser launch
+2023-11-27 15:39:55 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:40:11 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:43:25 PM  chrome browser launch
+2023-11-27 15:43:25 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:43:36 PM  User click on fetch Bill button 
+2023-11-27 15:43:39 PM  Bill available 
+2023-11-27 15:43:47 PM  User click on fetch Bill button 
+2023-11-27 15:43:50 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:44:57 PM  chrome browser launch
+2023-11-27 15:44:57 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:45:06 PM  User click on fetch Bill button 
+2023-11-27 15:45:09 PM  Bill available 
+2023-11-27 15:45:19 PM  User click on fetch Bill button 
+2023-11-27 15:45:22 PM  Bill available 
+2023-11-27 15:45:31 PM  User click on fetch Bill button 
+2023-11-27 15:45:34 PM  Bill available 
+2023-11-27 15:45:43 PM  User click on fetch Bill button 
+2023-11-27 15:45:46 PM  Bill available 
+2023-11-27 15:45:54 PM  User click on fetch Bill button 
+2023-11-27 15:45:57 PM  Bill available 
+2023-11-27 15:46:10 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:47:49 PM  chrome browser launch
+2023-11-27 15:47:49 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:48:04 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:49:54 PM  chrome browser launch
+2023-11-27 15:49:54 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:50:06 PM  User click on fetch Bill button 
+2023-11-27 15:50:09 PM  Bill available 
+2023-11-27 15:50:19 PM  User click on fetch Bill button 
+2023-11-27 15:50:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:56:59 PM  chrome browser launch
+2023-11-27 15:56:59 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:57:14 PM  User click on fetch Bill button 
+2023-11-27 15:57:17 PM  Bill available 
+2023-11-27 15:57:26 PM  User click on fetch Bill button 
+2023-11-27 15:57:29 PM  Bill available 
+2023-11-27 15:57:38 PM  User click on fetch Bill button 
+2023-11-27 15:57:41 PM  Bill available 
+2023-11-27 15:57:49 PM  User click on fetch Bill button 
+2023-11-27 15:57:52 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 15:58:50 PM  chrome browser launch
+2023-11-27 15:58:50 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 15:59:00 PM  User click on fetch Bill button 
+2023-11-27 15:59:03 PM  Bill available 
+2023-11-27 15:59:12 PM  User click on fetch Bill button 
+2023-11-27 15:59:15 PM  Bill available 
+2023-11-27 15:59:24 PM  User click on fetch Bill button 
+2023-11-27 15:59:27 PM  Bill available 
+2023-11-27 15:59:36 PM  User click on fetch Bill button 
+2023-11-27 15:59:39 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:00:22 PM  chrome browser launch
+2023-11-27 16:00:22 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:00:33 PM  User click on fetch Bill button 
+2023-11-27 16:00:36 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:02:21 PM  chrome browser launch
+2023-11-27 16:02:21 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:02:31 PM  User click on fetch Bill button 
+2023-11-27 16:02:34 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:05:08 PM  chrome browser launch
+2023-11-27 16:05:09 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:05:24 PM  User click on fetch Bill button 
+2023-11-27 16:05:27 PM  Bill available 
+2023-11-27 16:05:36 PM  User click on fetch Bill button 
+2023-11-27 16:05:39 PM  Bill available 
+2023-11-27 16:05:48 PM  User click on fetch Bill button 
+2023-11-27 16:05:51 PM  Bill available 
+2023-11-27 16:06:00 PM  User click on fetch Bill button 
+2023-11-27 16:06:03 PM  Bill available 
+2023-11-27 16:06:12 PM  User click on fetch Bill button 
+2023-11-27 16:06:15 PM  Bill available 
+2023-11-27 16:06:25 PM  User click on fetch Bill button 
+2023-11-27 16:06:28 PM  Bill available 
+2023-11-27 16:06:37 PM  User click on fetch Bill button 
+2023-11-27 16:06:40 PM  Bill available 
+2023-11-27 16:06:49 PM  User click on fetch Bill button 
+2023-11-27 16:06:52 PM  Bill available 
+2023-11-27 16:07:01 PM  User click on fetch Bill button 
+2023-11-27 16:07:04 PM  Bill available 
+2023-11-27 16:07:13 PM  User click on fetch Bill button 
+2023-11-27 16:07:16 PM  Bill available 
+2023-11-27 16:07:25 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:10:38 PM  chrome browser launch
+2023-11-27 16:10:39 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:10:52 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:11:19 PM  chrome browser launch
+2023-11-27 16:11:20 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:11:28 PM  User click on fetch Bill button 
+2023-11-27 16:11:31 PM  Bill available 
+2023-11-27 16:11:42 PM  User click on fetch Bill button 
+2023-11-27 16:11:45 PM  Bill available 
+2023-11-27 16:11:53 PM  User click on fetch Bill button 
+2023-11-27 16:11:56 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:12:46 PM  chrome browser launch
+2023-11-27 16:12:46 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:12:55 PM  User click on fetch Bill button 
+2023-11-27 16:12:59 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:13:55 PM  chrome browser launch
+2023-11-27 16:13:55 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:14:06 PM  User click on fetch Bill button 
+2023-11-27 16:14:09 PM  Bill available 
+2023-11-27 16:14:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:17:14 PM  chrome browser launch
+2023-11-27 16:17:14 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:17:23 PM  User click on fetch Bill button 
+2023-11-27 16:17:26 PM  Bill available 
+2023-11-27 16:17:38 PM  User click on fetch Bill button 
+2023-11-27 16:17:41 PM  Bill available 
+2023-11-27 16:17:50 PM  User click on fetch Bill button 
+2023-11-27 16:17:53 PM  Bill available 
+2023-11-27 16:18:03 PM  User click on fetch Bill button 
+2023-11-27 16:18:06 PM  Bill available 
+2023-11-27 16:18:14 PM  User click on fetch Bill button 
+2023-11-27 16:18:17 PM  Bill available 
+2023-11-27 16:18:26 PM  User click on fetch Bill button 
+2023-11-27 16:18:29 PM  Bill available 
+2023-11-27 16:18:39 PM  User click on fetch Bill button 
+2023-11-27 16:18:42 PM  Bill available 
+2023-11-27 16:18:54 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:19:58 PM  chrome browser launch
+2023-11-27 16:19:59 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:20:07 PM  User click on fetch Bill button 
+2023-11-27 16:20:10 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:20:58 PM  chrome browser launch
+2023-11-27 16:20:59 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:21:08 PM  User click on fetch Bill button 
+2023-11-27 16:21:11 PM  Bill available 
+2023-11-27 16:21:20 PM  User click on fetch Bill button 
+2023-11-27 16:21:23 PM  Bill available 
+2023-11-27 16:21:33 PM  User click on fetch Bill button 
+2023-11-27 16:21:36 PM  Bill available 
+2023-11-27 16:21:45 PM  User click on fetch Bill button 
+2023-11-27 16:21:48 PM  Bill available 
+2023-11-27 16:21:58 PM  User click on fetch Bill button 
+2023-11-27 16:22:01 PM  Bill available 
+2023-11-27 16:22:10 PM  User click on fetch Bill button 
+2023-11-27 16:22:13 PM  Bill available 
+2023-11-27 16:22:21 PM  User click on fetch Bill button 
+2023-11-27 16:22:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:26:42 PM  chrome browser launch
+2023-11-27 16:26:42 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:26:52 PM  User click on fetch Bill button 
+2023-11-27 16:26:55 PM  Bill available 
+2023-11-27 16:27:03 PM  User click on fetch Bill button 
+2023-11-27 16:27:06 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:29:10 PM  chrome browser launch
+2023-11-27 16:29:11 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:29:23 PM  User click on fetch Bill button 
+2023-11-27 16:29:26 PM  Bill available 
+2023-11-27 16:29:36 PM  User click on fetch Bill button 
+2023-11-27 16:29:39 PM  Bill available 
+2023-11-27 16:29:50 PM  User click on fetch Bill button 
+2023-11-27 16:29:53 PM  Bill available 
+2023-11-27 16:30:02 PM  User click on fetch Bill button 
+2023-11-27 16:30:05 PM  Bill available 
+2023-11-27 16:30:14 PM  User click on fetch Bill button 
+2023-11-27 16:30:17 PM  Bill available 
+2023-11-27 16:30:30 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:31:26 PM  chrome browser launch
+2023-11-27 16:31:26 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:31:36 PM  User click on fetch Bill button 
+2023-11-27 16:31:39 PM  Bill available 
+2023-11-27 16:31:52 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:32:22 PM  chrome browser launch
+2023-11-27 16:32:22 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:32:32 PM  User click on fetch Bill button 
+2023-11-27 16:32:35 PM  Bill available 
+2023-11-27 16:32:44 PM  User click on fetch Bill button 
+2023-11-27 16:32:47 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:33:45 PM  chrome browser launch
+2023-11-27 16:33:45 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:33:55 PM  User click on fetch Bill button 
+2023-11-27 16:33:58 PM  Bill available 
+2023-11-27 16:34:07 PM  User click on fetch Bill button 
+2023-11-27 16:34:10 PM  Bill available 
+2023-11-27 16:34:19 PM  User click on fetch Bill button 
+2023-11-27 16:34:22 PM  Bill available 
+2023-11-27 16:34:32 PM  User click on fetch Bill button 
+2023-11-27 16:34:35 PM  Bill available 
+2023-11-27 16:34:43 PM  User click on fetch Bill button 
+2023-11-27 16:34:46 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:35:56 PM  chrome browser launch
+2023-11-27 16:35:56 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:36:08 PM  User click on fetch Bill button 
+2023-11-27 16:36:11 PM  Bill available 
+2023-11-27 16:36:19 PM  User click on fetch Bill button 
+2023-11-27 16:36:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:39:15 PM  chrome browser launch
+2023-11-27 16:39:16 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:39:26 PM  User click on fetch Bill button 
+2023-11-27 16:39:29 PM  Bill available 
+2023-11-27 16:39:43 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:44:23 PM  chrome browser launch
+2023-11-27 16:44:23 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:44:34 PM  User click on fetch Bill button 
+2023-11-27 16:44:37 PM  Bill available 
+2023-11-27 16:44:47 PM  User click on fetch Bill button 
+2023-11-27 16:44:50 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:46:39 PM  chrome browser launch
+2023-11-27 16:46:39 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:46:50 PM  User click on fetch Bill button 
+2023-11-27 16:46:53 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:48:45 PM  chrome browser launch
+2023-11-27 16:48:45 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:49:06 PM  User click on fetch Bill button 
+2023-11-27 16:49:09 PM  Bill available 
+2023-11-27 16:49:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:50:06 PM  chrome browser launch
+2023-11-27 16:50:06 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:50:15 PM  User click on fetch Bill button 
+2023-11-27 16:50:18 PM  Bill available 
+2023-11-27 16:50:33 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:51:34 PM  chrome browser launch
+2023-11-27 16:51:34 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:51:44 PM  User click on fetch Bill button 
+2023-11-27 16:51:47 PM  Bill available 
+2023-11-27 16:51:57 PM  User click on fetch Bill button 
+2023-11-27 16:52:00 PM  Bill available 
+2023-11-27 16:52:09 PM  User click on fetch Bill button 
+2023-11-27 16:52:12 PM  Bill available 
+2023-11-27 16:52:20 PM  User click on fetch Bill button 
+2023-11-27 16:52:23 PM  Bill available 
+2023-11-27 16:52:31 PM  User click on fetch Bill button 
+2023-11-27 16:52:34 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:53:22 PM  chrome browser launch
+2023-11-27 16:53:22 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:53:32 PM  User click on fetch Bill button 
+2023-11-27 16:53:35 PM  Bill available 
+2023-11-27 16:53:43 PM  User click on fetch Bill button 
+2023-11-27 16:53:46 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:55:48 PM  chrome browser launch
+2023-11-27 16:55:48 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:55:58 PM  User click on fetch Bill button 
+2023-11-27 16:56:01 PM  Bill available 
+2023-11-27 16:56:09 PM  User click on fetch Bill button 
+2023-11-27 16:56:12 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 16:58:08 PM  chrome browser launch
+2023-11-27 16:58:08 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 16:58:18 PM  User click on fetch Bill button 
+2023-11-27 16:58:21 PM  Bill available 
+2023-11-27 16:58:31 PM  User click on fetch Bill button 
+2023-11-27 16:58:34 PM  Bill available 
+2023-11-27 16:58:44 PM  User click on fetch Bill button 
+2023-11-27 16:58:47 PM  Bill available 
+2023-11-27 16:58:57 PM  User click on fetch Bill button 
+2023-11-27 16:59:00 PM  Bill available 
+2023-11-27 16:59:09 PM  User click on fetch Bill button 
+2023-11-27 16:59:12 PM  Bill available 
+2023-11-27 16:59:21 PM  User click on fetch Bill button 
+2023-11-27 16:59:24 PM  Bill available 
+2023-11-27 16:59:34 PM  User click on fetch Bill button 
+2023-11-27 16:59:37 PM  Bill available 
+2023-11-27 16:59:46 PM  User click on fetch Bill button 
+2023-11-27 16:59:49 PM  Bill available 
+2023-11-27 16:59:58 PM  User click on fetch Bill button 
+2023-11-27 17:00:01 PM  Bill available 
+2023-11-27 17:00:09 PM  User click on fetch Bill button 
+2023-11-27 17:00:12 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:01:07 PM  chrome browser launch
+2023-11-27 17:01:07 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:01:19 PM  User click on fetch Bill button 
+2023-11-27 17:01:22 PM  Bill available 
+2023-11-27 17:01:37 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:03:33 PM  chrome browser launch
+2023-11-27 17:03:33 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:03:43 PM  User click on fetch Bill button 
+2023-11-27 17:03:46 PM  Bill available 
+2023-11-27 17:03:57 PM  User click on fetch Bill button 
+2023-11-27 17:04:00 PM  Bill available 
+2023-11-27 17:04:08 PM  User click on fetch Bill button 
+2023-11-27 17:04:11 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:36:18 PM  chrome browser launch
+2023-11-27 17:36:18 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:36:28 PM  User click on fetch Bill button 
+2023-11-27 17:36:31 PM  Bill available 
+2023-11-27 17:36:42 PM  User click on fetch Bill button 
+2023-11-27 17:36:45 PM  Bill available 
+2023-11-27 17:36:53 PM  User click on fetch Bill button 
+2023-11-27 17:36:56 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:40:39 PM  chrome browser launch
+2023-11-27 17:40:39 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:40:53 PM  User click on fetch Bill button 
+2023-11-27 17:40:56 PM  Bill available 
+2023-11-27 17:41:11 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:42:14 PM  chrome browser launch
+2023-11-27 17:42:14 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:42:27 PM  User click on fetch Bill button 
+2023-11-27 17:42:30 PM  Bill available 
+2023-11-27 17:42:39 PM  User click on fetch Bill button 
+2023-11-27 17:42:42 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:44:03 PM  chrome browser launch
+2023-11-27 17:44:04 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:44:24 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:44:45 PM  chrome browser launch
+2023-11-27 17:44:45 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:44:57 PM  User click on fetch Bill button 
+2023-11-27 17:45:00 PM  Bill available 
+2023-11-27 17:45:10 PM  User click on fetch Bill button 
+2023-11-27 17:45:13 PM  Bill available 
+2023-11-27 17:45:16 PM   Test Scenario fetchBillRegression execute Successfully 
+2023-11-27 17:46:10 PM  chrome browser launch
+2023-11-27 17:46:10 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:46:19 PM  User click on fetch Bill button 
+2023-11-27 17:46:22 PM  Bill available 
+2023-11-27 17:46:32 PM  User click on fetch Bill button 
+2023-11-27 17:46:35 PM  Bill available 
+2023-11-27 17:46:44 PM  User click on fetch Bill button 
+2023-11-27 17:46:47 PM  Bill available 
+2023-11-27 17:46:56 PM  User click on fetch Bill button 
+2023-11-27 17:46:59 PM  Bill available 
+2023-11-27 17:47:08 PM  User click on fetch Bill button 
+2023-11-27 17:47:11 PM  Bill available 
+2023-11-27 17:47:20 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:48:08 PM  chrome browser launch
+2023-11-27 17:48:08 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:48:17 PM  User click on fetch Bill button 
+2023-11-27 17:48:21 PM  Bill available 
+2023-11-27 17:48:29 PM  User click on fetch Bill button 
+2023-11-27 17:48:32 PM  Bill available 
+2023-11-27 17:48:40 PM  User click on fetch Bill button 
+2023-11-27 17:48:43 PM  Bill available 
+2023-11-27 17:48:52 PM  User click on fetch Bill button 
+2023-11-27 17:48:55 PM  Bill available 
+2023-11-27 17:49:03 PM  User click on fetch Bill button 
+2023-11-27 17:49:06 PM  Bill available 
+2023-11-27 17:49:14 PM  User click on fetch Bill button 
+2023-11-27 17:49:17 PM  Bill available 
+2023-11-27 17:49:25 PM  User click on fetch Bill button 
+2023-11-27 17:49:28 PM  Bill available 
+2023-11-27 17:49:36 PM  User click on fetch Bill button 
+2023-11-27 17:49:39 PM  Bill available 
+2023-11-27 17:49:47 PM  User click on fetch Bill button 
+2023-11-27 17:49:50 PM  Bill available 
+2023-11-27 17:49:58 PM  User click on fetch Bill button 
+2023-11-27 17:50:01 PM  Bill available 
+2023-11-27 17:50:09 PM  User click on fetch Bill button 
+2023-11-27 17:50:12 PM  Bill available 
+2023-11-27 17:50:19 PM  User click on fetch Bill button 
+2023-11-27 17:50:22 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:52:52 PM  chrome browser launch
+2023-11-27 17:52:53 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:53:01 PM  User click on fetch Bill button 
+2023-11-27 17:53:04 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:54:28 PM  chrome browser launch
+2023-11-27 17:54:28 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:54:37 PM  User click on fetch Bill button 
+2023-11-27 17:54:40 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:56:49 PM  chrome browser launch
+2023-11-27 17:56:50 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:56:59 PM  User click on fetch Bill button 
+2023-11-27 17:57:02 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 17:57:58 PM  chrome browser launch
+2023-11-27 17:57:59 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 17:58:10 PM  User click on fetch Bill button 
+2023-11-27 17:58:13 PM  Bill available 
+2023-11-27 17:58:22 PM  User click on fetch Bill button 
+2023-11-27 17:58:25 PM  Bill available 
+2023-11-27 17:58:33 PM  User click on fetch Bill button 
+2023-11-27 17:58:36 PM  Bill available 
+2023-11-27 17:58:44 PM  User click on fetch Bill button 
+2023-11-27 17:58:47 PM  Bill available 
+2023-11-27 17:58:56 PM  User click on fetch Bill button 
+2023-11-27 17:59:00 PM  Bill available 
+2023-11-27 17:59:08 PM  User click on fetch Bill button 
+2023-11-27 17:59:11 PM  Bill available 
+2023-11-27 17:59:25 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:02:16 PM  chrome browser launch
+2023-11-27 18:02:16 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:02:29 PM  User click on fetch Bill button 
+2023-11-27 18:02:32 PM  Bill available 
+2023-11-27 18:02:41 PM  User click on fetch Bill button 
+2023-11-27 18:02:44 PM  Bill available 
+2023-11-27 18:02:57 PM  User click on fetch Bill button 
+2023-11-27 18:03:01 PM  Bill available 
+2023-11-27 18:03:08 PM  User click on fetch Bill button 
+2023-11-27 18:03:11 PM  Bill available 
+2023-11-27 18:03:21 PM  User click on fetch Bill button 
+2023-11-27 18:03:24 PM  Bill available 
+2023-11-27 18:03:33 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:04:44 PM  chrome browser launch
+2023-11-27 18:04:44 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:04:55 PM  User click on fetch Bill button 
+2023-11-27 18:04:58 PM  Bill available 
+2023-11-27 18:05:07 PM  User click on fetch Bill button 
+2023-11-27 18:05:10 PM  Bill available 
+2023-11-27 18:05:18 PM  User click on fetch Bill button 
+2023-11-27 18:05:21 PM  Bill available 
+2023-11-27 18:05:29 PM  User click on fetch Bill button 
+2023-11-27 18:05:32 PM  Bill available 
+2023-11-27 18:05:40 PM  User click on fetch Bill button 
+2023-11-27 18:05:43 PM  Bill available 
+2023-11-27 18:05:52 PM  User click on fetch Bill button 
+2023-11-27 18:05:55 PM  Bill available 
+2023-11-27 18:06:03 PM  User click on fetch Bill button 
+2023-11-27 18:06:06 PM  Bill available 
+2023-11-27 18:06:14 PM  User click on fetch Bill button 
+2023-11-27 18:06:17 PM  Bill available 
+2023-11-27 18:06:25 PM  User click on fetch Bill button 
+2023-11-27 18:06:28 PM  Bill available 
+2023-11-27 18:06:36 PM  User click on fetch Bill button 
+2023-11-27 18:06:39 PM  Bill available 
+2023-11-27 18:06:47 PM  User click on fetch Bill button 
+2023-11-27 18:06:50 PM  Bill available 
+2023-11-27 18:06:59 PM  User click on fetch Bill button 
+2023-11-27 18:07:02 PM  Bill available 
+2023-11-27 18:07:11 PM  User click on fetch Bill button 
+2023-11-27 18:07:14 PM  Bill available 
+2023-11-27 18:07:22 PM  User click on fetch Bill button 
+2023-11-27 18:07:25 PM  Bill available 
+2023-11-27 18:07:32 PM  User click on fetch Bill button 
+2023-11-27 18:07:35 PM  Bill available 
+2023-11-27 18:07:43 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:09:08 PM  chrome browser launch
+2023-11-27 18:09:08 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:09:26 PM  User click on fetch Bill button 
+2023-11-27 18:09:29 PM  Bill available 
+2023-11-27 18:09:38 PM  User click on fetch Bill button 
+2023-11-27 18:09:42 PM  Bill available 
+2023-11-27 18:09:57 PM  User click on fetch Bill button 
+2023-11-27 18:10:01 PM  Bill available 
+2023-11-27 18:10:10 PM  User click on fetch Bill button 
+2023-11-27 18:10:13 PM  Bill available 
+2023-11-27 18:10:21 PM  User click on fetch Bill button 
+2023-11-27 18:10:24 PM  Bill available 
+2023-11-27 18:10:32 PM  User click on fetch Bill button 
+2023-11-27 18:10:35 PM  Bill available 
+2023-11-27 18:10:43 PM  User click on fetch Bill button 
+2023-11-27 18:10:46 PM  Bill available 
+2023-11-27 18:10:54 PM  User click on fetch Bill button 
+2023-11-27 18:10:57 PM  Bill available 
+2023-11-27 18:11:06 PM  User click on fetch Bill button 
+2023-11-27 18:11:09 PM  Bill available 
+2023-11-27 18:11:16 PM  User click on fetch Bill button 
+2023-11-27 18:11:19 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:14:35 PM  chrome browser launch
+2023-11-27 18:14:35 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:14:51 PM  User click on fetch Bill button 
+2023-11-27 18:14:54 PM  Bill available 
+2023-11-27 18:15:02 PM  User click on fetch Bill button 
+2023-11-27 18:15:05 PM  Bill available 
+2023-11-27 18:15:14 PM  User click on fetch Bill button 
+2023-11-27 18:15:17 PM  Bill available 
+2023-11-27 18:15:25 PM  User click on fetch Bill button 
+2023-11-27 18:15:28 PM  Bill available 
+2023-11-27 18:15:38 PM  User click on fetch Bill button 
+2023-11-27 18:15:41 PM  Bill available 
+2023-11-27 18:15:49 PM  User click on fetch Bill button 
+2023-11-27 18:15:52 PM  Bill available 
+2023-11-27 18:16:01 PM  User click on fetch Bill button 
+2023-11-27 18:16:04 PM  Bill available 
+2023-11-27 18:16:12 PM  User click on fetch Bill button 
+2023-11-27 18:16:15 PM  Bill available 
+2023-11-27 18:16:24 PM  User click on fetch Bill button 
+2023-11-27 18:16:27 PM  Bill available 
+2023-11-27 18:16:35 PM  User click on fetch Bill button 
+2023-11-27 18:16:38 PM  Bill available 
+2023-11-27 18:16:45 PM  User click on fetch Bill button 
+2023-11-27 18:16:48 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:20:32 PM  chrome browser launch
+2023-11-27 18:20:32 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:20:42 PM  User click on fetch Bill button 
+2023-11-27 18:20:45 PM  Bill available 
+2023-11-27 18:20:53 PM  User click on fetch Bill button 
+2023-11-27 18:20:56 PM  Bill available 
+2023-11-27 18:21:04 PM  User click on fetch Bill button 
+2023-11-27 18:21:07 PM  Bill available 
+2023-11-27 18:21:15 PM  User click on fetch Bill button 
+2023-11-27 18:21:18 PM  Bill available 
+2023-11-27 18:21:26 PM  User click on fetch Bill button 
+2023-11-27 18:21:29 PM  Bill available 
+2023-11-27 18:21:37 PM  User click on fetch Bill button 
+2023-11-27 18:21:40 PM  Bill available 
+2023-11-27 18:21:49 PM  User click on fetch Bill button 
+2023-11-27 18:21:52 PM  Bill available 
+2023-11-27 18:22:01 PM  User click on fetch Bill button 
+2023-11-27 18:22:04 PM  Bill available 
+2023-11-27 18:22:12 PM  User click on fetch Bill button 
+2023-11-27 18:22:15 PM  Bill available 
+2023-11-27 18:22:23 PM  User click on fetch Bill button 
+2023-11-27 18:22:26 PM  Bill available 
+2023-11-27 18:22:34 PM  User click on fetch Bill button 
+2023-11-27 18:22:37 PM  Bill available 
+2023-11-27 18:22:46 PM  User click on fetch Bill button 
+2023-11-27 18:22:49 PM  Bill available 
+2023-11-27 18:22:57 PM  User click on fetch Bill button 
+2023-11-27 18:23:00 PM  Bill available 
+2023-11-27 18:23:07 PM  User click on fetch Bill button 
+2023-11-27 18:23:10 PM  Bill available 
+2023-11-27 18:23:18 PM  User click on fetch Bill button 
+2023-11-27 18:23:21 PM  Bill available 
+2023-11-27 18:23:29 PM  User click on fetch Bill button 
+2023-11-27 18:23:32 PM  Bill available 
+2023-11-27 18:23:40 PM  User click on fetch Bill button 
+2023-11-27 18:23:43 PM  Bill available 
+2023-11-27 18:23:51 PM  User click on fetch Bill button 
+2023-11-27 18:23:54 PM  Bill available 
+2023-11-27 18:24:02 PM  User click on fetch Bill button 
+2023-11-27 18:24:05 PM  Bill available 
+2023-11-27 18:24:12 PM  User click on fetch Bill button 
+2023-11-27 18:24:15 PM  Bill available 
+2023-11-27 18:24:23 PM  User click on fetch Bill button 
+2023-11-27 18:24:26 PM  Bill available 
+2023-11-27 18:24:34 PM  User click on fetch Bill button 
+2023-11-27 18:24:37 PM  Bill available 
+2023-11-27 18:24:46 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:25:48 PM  chrome browser launch
+2023-11-27 18:25:49 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:25:59 PM  User click on fetch Bill button 
+2023-11-27 18:26:02 PM  Bill available 
+2023-11-27 18:26:11 PM  User click on fetch Bill button 
+2023-11-27 18:26:14 PM  Bill available 
+2023-11-27 18:26:25 PM  User click on fetch Bill button 
+2023-11-27 18:26:28 PM  Bill available 
+2023-11-27 18:26:37 PM  User click on fetch Bill button 
+2023-11-27 18:26:40 PM  Bill available 
+2023-11-27 18:26:49 PM  User click on fetch Bill button 
+2023-11-27 18:26:52 PM  Bill available 
+2023-11-27 18:27:01 PM  User click on fetch Bill button 
+2023-11-27 18:27:04 PM  Bill available 
+2023-11-27 18:27:12 PM  User click on fetch Bill button 
+2023-11-27 18:27:15 PM  Bill available 
+2023-11-27 18:27:24 PM  User click on fetch Bill button 
+2023-11-27 18:27:27 PM  Bill available 
+2023-11-27 18:27:35 PM  User click on fetch Bill button 
+2023-11-27 18:27:38 PM  Bill available 
+2023-11-27 18:27:47 PM  User click on fetch Bill button 
+2023-11-27 18:27:50 PM  Bill available 
+2023-11-27 18:27:59 PM  User click on fetch Bill button 
+2023-11-27 18:28:02 PM  Bill available 
+2023-11-27 18:28:10 PM  User click on fetch Bill button 
+2023-11-27 18:28:13 PM  Bill available 
+2023-11-27 18:28:21 PM  User click on fetch Bill button 
+2023-11-27 18:28:24 PM  Bill available 
+2023-11-27 18:28:32 PM  User click on fetch Bill button 
+2023-11-27 18:28:35 PM  Bill available 
+2023-11-27 18:28:43 PM  User click on fetch Bill button 
+2023-11-27 18:28:46 PM  Bill available 
+2023-11-27 18:28:55 PM  User click on fetch Bill button 
+2023-11-27 18:28:58 PM  Bill available 
+2023-11-27 18:29:06 PM  User click on fetch Bill button 
+2023-11-27 18:29:09 PM  Bill available 
+2023-11-27 18:29:18 PM  User click on fetch Bill button 
+2023-11-27 18:29:21 PM  Bill available 
+2023-11-27 18:29:28 PM  User click on fetch Bill button 
+2023-11-27 18:29:31 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:33:53 PM  chrome browser launch
+2023-11-27 18:33:54 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:34:07 PM  User click on fetch Bill button 
+2023-11-27 18:34:10 PM  Bill available 
+2023-11-27 18:34:18 PM  User click on fetch Bill button 
+2023-11-27 18:34:21 PM  Bill available 
+2023-11-27 18:34:33 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:36:36 PM  chrome browser launch
+2023-11-27 18:36:36 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:36:48 PM  User click on fetch Bill button 
+2023-11-27 18:36:51 PM  Bill available 
+2023-11-27 18:36:59 PM  User click on fetch Bill button 
+2023-11-27 18:37:02 PM  Bill available 
+2023-11-27 18:37:14 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:38:51 PM  chrome browser launch
+2023-11-27 18:38:51 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:39:18 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 18:39:38 PM  chrome browser launch
+2023-11-27 18:39:38 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 18:39:49 PM  User click on fetch Bill button 
+2023-11-27 18:39:52 PM  Bill available 
+2023-11-27 18:40:01 PM  User click on fetch Bill button 
+2023-11-27 18:40:04 PM  Bill available 
+2023-11-27 18:40:16 PM  This is Test Scenario :fetchBillRegression get fail
+2023-11-27 19:04:20 PM  chrome browser launch
+2023-11-27 19:04:20 PM  Execution of Test Scenario fetchBillRegression start
+2023-11-27 19:04:31 PM  User click on fetch Bill button 
+2023-11-27 19:04:34 PM  Bill available 
+2023-11-27 19:04:37 PM   Test Scenario fetchBillRegression execute Successfully 

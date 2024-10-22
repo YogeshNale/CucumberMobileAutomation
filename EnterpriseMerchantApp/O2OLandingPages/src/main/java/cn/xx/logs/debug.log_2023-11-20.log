@@ -1,0 +1,57 @@
+2023-11-20 14:56:10 PM  chrome browser launch
+2023-11-20 14:56:10 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 14:56:22 PM  User click on fetch Bill button 
+2023-11-20 14:56:26 PM  Bill available 
+2023-11-20 14:56:27 PM  User click on pay Bill Button 
+2023-11-20 14:56:30 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-20 14:58:08 PM  chrome browser launch
+2023-11-20 14:58:09 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 14:58:19 PM  User click on fetch Bill button 
+2023-11-20 14:58:22 PM  Bill available 
+2023-11-20 14:58:23 PM  User click on pay Bill Button 
+2023-11-20 14:58:27 PM  user click on debit card with me checkbox
+2023-11-20 14:58:28 PM  user click on Number on UPI checkbox 
+2023-11-20 14:58:33 PM  User click on get OTP Button 
+2023-11-20 14:58:33 PM  Pay bill with new MCP User flow start 
+2023-11-20 14:58:56 PM  No linked account to enter number
+2023-11-20 15:01:59 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-20 15:21:55 PM  chrome browser launch
+2023-11-20 15:21:55 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 15:22:04 PM  User click on fetch Bill button 
+2023-11-20 15:22:07 PM  Bill available 
+2023-11-20 15:22:08 PM  User click on pay Bill Button 
+2023-11-20 15:22:12 PM  user click on debit card with me checkbox
+2023-11-20 15:22:13 PM  user click on Number on UPI checkbox 
+2023-11-20 15:22:18 PM  User click on get OTP Button 
+2023-11-20 15:22:18 PM  Pay bill with new MCP User flow start 
+2023-11-20 15:22:41 PM  Linked account to enter Number get autofetched 
+2023-11-20 15:22:42 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-20 15:23:29 PM  chrome browser launch
+2023-11-20 15:23:29 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 15:23:38 PM  User click on fetch Bill button 
+2023-11-20 15:23:41 PM  Bill available 
+2023-11-20 15:23:42 PM  User click on pay Bill Button 
+2023-11-20 15:23:45 PM  user click on debit card with me checkbox
+2023-11-20 15:23:47 PM  user click on Number on UPI checkbox 
+2023-11-20 15:23:51 PM  User click on get OTP Button 
+2023-11-20 15:23:51 PM  Pay bill with new MCP User flow start 
+2023-11-20 15:24:14 PM  Linked account to enter Number get autofetched 
+2023-11-20 15:24:16 PM  Selected Bank account is a New UPI Account 
+2023-11-20 15:24:17 PM  User click on Terms and condition check Box 
+2023-11-20 15:24:17 PM  User enter debit card number 
+2023-11-20 15:24:18 PM  User enter Debit Card Expiry month and year 
+2023-11-20 15:24:19 PM  For selected bank Debit pin is required 
+2023-11-20 15:24:20 PM  DID is populate on 2nd page 
+2023-11-20 15:25:01 PM  user not received call back or Received call back action not marked as ok 
+2023-11-20 15:25:01 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-20 18:15:42 PM  chrome browser launch
+2023-11-20 18:15:42 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 18:16:10 PM  User click on fetch Bill button 
+2023-11-20 18:16:13 PM  Bill available 
+2023-11-20 18:16:14 PM  User click on pay Bill Button 
+2023-11-20 18:16:18 PM  user click on debit card with me checkbox
+2023-11-20 18:16:19 PM  user click on Number on UPI checkbox 
+2023-11-20 18:16:25 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-11-20 18:36:01 PM  chrome browser launch
+2023-11-20 18:36:01 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-11-20 18:36:31 PM  This is Test Scenario :launchCommonBillerURL get fail

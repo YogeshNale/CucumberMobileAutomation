@@ -1,0 +1,25 @@
+2023-09-13 10:37:32 AM  chrome browser launch
+2023-09-13 10:37:33 AM  Execution of Test Scenario OpenURL start
+2023-09-13 10:37:34 AM   Test Scenario OpenURL execute Successfully 
+2023-09-13 10:37:34 AM  Execution of Test Scenario getBillAmounts start
+2023-09-13 10:38:06 AM  This is Test Scenario :getBillAmounts get fail
+2023-09-13 10:38:16 AM  chrome browser launch
+2023-09-13 10:38:16 AM  Execution of Test Scenario OpenURL start
+2023-09-13 10:38:17 AM   Test Scenario OpenURL execute Successfully 
+2023-09-13 10:38:17 AM  Execution of Test Scenario getBillAmounts start
+2023-09-13 10:41:17 AM  This is Test Scenario :getBillAmounts get fail
+2023-09-13 10:42:44 AM  chrome browser launch
+2023-09-13 10:42:44 AM  Execution of Test Scenario OpenURL start
+2023-09-13 10:42:45 AM   Test Scenario OpenURL execute Successfully 
+2023-09-13 10:42:45 AM  Execution of Test Scenario getBillAmounts start
+2023-09-13 10:43:14 AM  This is Test Scenario :getBillAmounts get fail
+2023-09-13 10:43:17 AM  chrome browser launch
+2023-09-13 10:43:18 AM  Execution of Test Scenario OpenURL start
+2023-09-13 10:43:19 AM   Test Scenario OpenURL execute Successfully 
+2023-09-13 10:43:19 AM  Execution of Test Scenario getBillAmounts start
+2023-09-13 10:43:23 AM  User click on fetch Bill button 
+2023-09-13 10:43:32 AM  User click on fetch Bill button 
+2023-09-13 10:43:42 AM  User click on fetch Bill button 
+2023-09-13 10:43:52 AM  User click on fetch Bill button 
+2023-09-13 10:44:01 AM  User click on fetch Bill button 
+2023-09-13 10:44:10 AM  This is Test Scenario :getBillAmounts get fail

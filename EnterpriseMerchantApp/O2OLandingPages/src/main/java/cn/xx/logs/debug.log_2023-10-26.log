@@ -1,0 +1,229 @@
+2023-10-26 10:41:59 AM  chrome browser launch
+2023-10-26 10:41:59 AM  Execution of Test Scenario openURL start
+2023-10-26 10:42:00 AM   Test Scenario openURL execute Successfully 
+2023-10-26 10:42:00 AM  Execution of Test Scenario onboardingProcess start
+2023-10-26 10:42:03 AM  user click on Number on UPI checkbox 
+2023-10-26 10:42:04 AM  user click on debit card with me checkbox
+2023-10-26 10:42:11 AM  User click on get OTP Button 
+2023-10-26 10:42:11 AM  user is new MCP user onboarding flow start 
+2023-10-26 10:42:29 AM  user not redirect on 2nd page 
+2023-10-26 10:42:29 AM  This is Test Scenario :onboardingProcess get fail
+2023-10-26 10:42:38 AM  chrome browser launch
+2023-10-26 10:42:38 AM  Execution of Test Scenario openURL start
+2023-10-26 10:42:40 AM   Test Scenario openURL execute Successfully 
+2023-10-26 10:42:40 AM  Execution of Test Scenario onboardingProcess start
+2023-10-26 10:42:42 AM  user click on Number on UPI checkbox 
+2023-10-26 10:42:43 AM  user click on debit card with me checkbox
+2023-10-26 10:42:51 AM  User click on get OTP Button 
+2023-10-26 10:42:51 AM  user is new MCP user onboarding flow start 
+2023-10-26 10:43:09 AM  user redirect on 2nd page 
+2023-10-26 10:43:11 AM  User enter Bank Name Bank of India
+2023-10-26 10:43:12 AM  User click on Terms and condition check Box 
+2023-10-26 10:43:26 AM  User select bank account 
+2023-10-26 10:43:26 AM   Selected account is existing UPI Account hence onboarding flow for Existing UPI Account start 
+2023-10-26 10:43:28 AM  DID is populate on 2nd page 
+2023-10-26 10:43:58 AM  user call on DID and user Redirect on 3rd page 
+2023-10-26 10:44:00 AM  user received call back 
+2023-10-26 10:44:20 AM  Concern action marked as ok 
+2023-10-26 10:44:31 AM  onboarded action marked as ok 
+2023-10-26 10:44:45 AM  Onboard as merchant Button Populate on WebPage 
+2023-10-26 10:44:46 AM  User redirect on Admin panel Web App 
+2023-10-26 10:44:46 AM   Test Scenario onboardingProcess execute Successfully 
+2023-10-26 10:54:05 AM  chrome browser launch
+2023-10-26 10:54:05 AM  Execution of Test Scenario OpenURL start
+2023-10-26 10:54:06 AM   Test Scenario OpenURL execute Successfully 
+2023-10-26 10:54:06 AM  Execution of Test Scenario donateAmount start
+2023-10-26 10:54:08 AM  User select other amount option to select 
+2023-10-26 10:54:09 AM  User enter  amount 1
+2023-10-26 10:54:11 AM  user click on Number on UPI checkbox 
+2023-10-26 10:54:12 AM  user click on debit card with me checkbox
+2023-10-26 10:54:19 AM  Donate Amount with Existing MCP user flow start 
+2023-10-26 10:54:44 AM  user call on DID and user Redirect on 3rd page 
+2023-10-26 10:54:44 AM  Entered Name match
+2023-10-26 10:54:49 AM  user received call back 
+2023-10-26 10:54:56 AM  amount action marked as ok  
+2023-10-26 10:54:56 AM   Test Scenario donateAmount execute Successfully 
+2023-10-26 12:53:56 PM  chrome browser launch
+2023-10-26 12:53:56 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 12:54:08 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 12:55:13 PM  chrome browser launch
+2023-10-26 12:55:14 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 12:55:24 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 13:00:23 PM  chrome browser launch
+2023-10-26 13:00:23 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 13:01:23 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 13:01:37 PM  chrome browser launch
+2023-10-26 13:01:38 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 13:03:16 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:36:36 PM  chrome browser launch
+2023-10-26 14:36:36 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:36:46 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:37:36 PM  chrome browser launch
+2023-10-26 14:37:36 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:37:45 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 14:38:28 PM  chrome browser launch
+2023-10-26 14:38:28 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:38:37 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 14:39:04 PM  chrome browser launch
+2023-10-26 14:39:04 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:39:13 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 14:39:28 PM  chrome browser launch
+2023-10-26 14:39:28 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:39:37 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 14:48:02 PM  chrome browser launch
+2023-10-26 14:48:02 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:48:13 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 14:50:27 PM  chrome browser launch
+2023-10-26 14:50:27 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:50:41 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:51:00 PM  chrome browser launch
+2023-10-26 14:51:00 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:51:10 PM  User click on fetch Bill button 
+2023-10-26 14:51:11 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:55:42 PM  chrome browser launch
+2023-10-26 14:55:42 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:55:56 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:56:18 PM  chrome browser launch
+2023-10-26 14:56:18 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:56:32 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:56:48 PM  chrome browser launch
+2023-10-26 14:56:48 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:57:02 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 14:57:42 PM  chrome browser launch
+2023-10-26 14:57:42 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 14:57:56 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:05:11 PM  chrome browser launch
+2023-10-26 15:05:11 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:05:25 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:06:23 PM  chrome browser launch
+2023-10-26 15:06:23 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:06:39 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:08:06 PM  chrome browser launch
+2023-10-26 15:08:06 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:08:19 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:08:48 PM  chrome browser launch
+2023-10-26 15:08:48 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:09:01 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:11:36 PM  chrome browser launch
+2023-10-26 15:11:37 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:11:45 PM  User click on fetch Bill button 
+2023-10-26 15:11:48 PM  User click on fetch Bill button 
+2023-10-26 15:11:48 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:12:18 PM  chrome browser launch
+2023-10-26 15:12:18 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:12:27 PM  User click on fetch Bill button 
+2023-10-26 15:12:30 PM  User click on fetch Bill button 
+2023-10-26 15:12:30 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:12:50 PM  chrome browser launch
+2023-10-26 15:12:50 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:12:59 PM  User click on fetch Bill button 
+2023-10-26 15:13:02 PM  User click on fetch Bill button 
+2023-10-26 15:13:02 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:14:05 PM  chrome browser launch
+2023-10-26 15:14:05 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:14:14 PM  User click on fetch Bill button 
+2023-10-26 15:14:16 PM  User click on fetch Bill button 
+2023-10-26 15:14:16 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:14:45 PM  chrome browser launch
+2023-10-26 15:14:46 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:14:59 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:15:52 PM  chrome browser launch
+2023-10-26 15:15:52 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:16:01 PM  User click on fetch Bill button 
+2023-10-26 15:16:01 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:20:22 PM  chrome browser launch
+2023-10-26 15:20:22 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:20:34 PM  User click on fetch Bill button 
+2023-10-26 15:20:34 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:21:19 PM  chrome browser launch
+2023-10-26 15:21:19 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:21:28 PM  User click on fetch Bill button 
+2023-10-26 15:21:28 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 15:22:11 PM  chrome browser launch
+2023-10-26 15:22:12 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:22:14 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:22:35 PM  chrome browser launch
+2023-10-26 15:22:36 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:22:37 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 15:22:51 PM  chrome browser launch
+2023-10-26 15:22:51 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 15:23:00 PM  User click on fetch Bill button 
+2023-10-26 15:23:03 PM  Bill available 
+2023-10-26 15:23:03 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 17:14:24 PM  chrome browser launch
+2023-10-26 17:14:24 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:14:37 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 17:15:43 PM  chrome browser launch
+2023-10-26 17:15:44 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:15:54 PM  User click on fetch Bill button 
+2023-10-26 17:15:57 PM  Bill available 
+2023-10-26 17:15:57 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 17:20:46 PM  chrome browser launch
+2023-10-26 17:20:46 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:20:46 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 17:22:56 PM  chrome browser launch
+2023-10-26 17:22:57 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:23:06 PM  User click on fetch Bill button 
+2023-10-26 17:23:09 PM  Bill available 
+2023-10-26 17:23:10 PM  User click on pay Bill Button 
+2023-10-26 17:23:10 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 17:24:01 PM  chrome browser launch
+2023-10-26 17:24:01 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:24:11 PM  User click on fetch Bill button 
+2023-10-26 17:24:14 PM  Bill available 
+2023-10-26 17:24:15 PM  User click on pay Bill Button 
+2023-10-26 17:24:15 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 17:24:32 PM  chrome browser launch
+2023-10-26 17:24:33 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:24:46 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 17:24:55 PM  chrome browser launch
+2023-10-26 17:24:55 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:25:08 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 17:25:35 PM  chrome browser launch
+2023-10-26 17:25:35 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:25:48 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 17:26:44 PM  chrome browser launch
+2023-10-26 17:26:45 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 17:26:54 PM  User click on fetch Bill button 
+2023-10-26 17:26:57 PM  Bill available 
+2023-10-26 17:26:58 PM  User click on pay Bill Button 
+2023-10-26 17:26:58 PM   Test Scenario launchCommonBillerURL execute Successfully 
+2023-10-26 18:10:17 PM  chrome browser launch
+2023-10-26 18:10:17 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:10:27 PM  User click on fetch Bill button 
+2023-10-26 18:10:27 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:15:48 PM  chrome browser launch
+2023-10-26 18:15:48 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:15:57 PM  User click on fetch Bill button 
+2023-10-26 18:15:57 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:18:16 PM  chrome browser launch
+2023-10-26 18:18:16 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:18:26 PM  User click on fetch Bill button 
+2023-10-26 18:18:26 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:19:26 PM  chrome browser launch
+2023-10-26 18:19:26 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:19:32 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:19:47 PM  chrome browser launch
+2023-10-26 18:19:47 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:19:57 PM  User click on fetch Bill button 
+2023-10-26 18:19:57 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:20:48 PM  chrome browser launch
+2023-10-26 18:20:48 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:21:04 PM  User click on fetch Bill button 
+2023-10-26 18:21:04 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:34:46 PM  chrome browser launch
+2023-10-26 18:34:46 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:34:56 PM  User click on fetch Bill button 
+2023-10-26 18:34:56 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:40:10 PM  chrome browser launch
+2023-10-26 18:40:11 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:40:20 PM  User click on fetch Bill button 
+2023-10-26 18:40:20 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:43:05 PM  chrome browser launch
+2023-10-26 18:43:05 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:43:15 PM  User click on fetch Bill button 
+2023-10-26 18:43:15 PM  This is Test Scenario :launchCommonBillerURL get fail
+2023-10-26 18:49:42 PM  chrome browser launch
+2023-10-26 18:49:42 PM  Execution of Test Scenario launchCommonBillerURL start
+2023-10-26 18:49:52 PM  User click on fetch Bill button 
+2023-10-26 18:49:52 PM  This is Test Scenario :launchCommonBillerURL get fail
