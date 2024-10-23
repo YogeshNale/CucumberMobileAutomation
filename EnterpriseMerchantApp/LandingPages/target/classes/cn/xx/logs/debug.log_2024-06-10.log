@@ -1,0 +1,208 @@
+2024-06-10 17:08:00 pm  chrome browser launch
+2024-06-10 17:08:08 pm  User Enter Amount 10
+2024-06-10 17:08:08 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:08:09 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:08:14 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:08:34 pm  User Verify OTP Sucessfully 
+2024-06-10 17:10:01 pm  chrome browser launch
+2024-06-10 17:10:08 pm  User Enter Amount 10
+2024-06-10 17:10:08 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:10:08 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:10:14 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:10:34 pm  User Verify OTP Sucessfully 
+2024-06-10 17:10:36 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:10:38 pm  User Select Linked Bank Account 
+2024-06-10 17:10:38 pm  Selected Accout is New UPI Account , onboarding For New UPI Account Start
+2024-06-10 17:12:31 pm  chrome browser launch
+2024-06-10 17:12:37 pm  User Enter Amount 10
+2024-06-10 17:12:37 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:12:37 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:12:42 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:13:03 pm  User Verify OTP Sucessfully 
+2024-06-10 17:13:05 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:13:07 pm  User Select Linked Bank Account 
+2024-06-10 17:13:07 pm  Selected Accout is New UPI Account , onboarding For New UPI Account Start
+2024-06-10 17:15:25 pm  chrome browser launch
+2024-06-10 17:15:30 pm  User Enter Amount 10
+2024-06-10 17:15:31 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:15:31 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:15:36 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:15:56 pm  User Verify OTP Sucessfully 
+2024-06-10 17:15:59 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:16:01 pm  User Select Linked Bank Account 
+2024-06-10 17:16:01 pm  Selected Accout is New UPI Account , onboarding For New UPI Account Start
+2024-06-10 17:16:05 pm  Selected Account Debit Pin Is required
+2024-06-10 17:16:15 pm  Qr Not populate on UI
+2024-06-10 17:17:39 pm  chrome browser launch
+2024-06-10 17:17:46 pm  User Enter Amount 10
+2024-06-10 17:17:47 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:17:47 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:17:52 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:18:12 pm  User Verify OTP Sucessfully 
+2024-06-10 17:18:15 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:18:17 pm  User Select Linked Bank Account 
+2024-06-10 17:18:17 pm  Selected Accout is New UPI Account , onboarding For New UPI Account Start
+2024-06-10 17:18:20 pm  Selected Account Debit Pin Is required
+2024-06-10 17:18:31 pm  Qr Not populate on UI
+2024-06-10 17:20:45 pm  chrome browser launch
+2024-06-10 17:20:50 pm  User Enter Amount 10
+2024-06-10 17:20:51 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:20:51 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:20:56 pm  User Is Existing MCP User ,Transaction To Merchant With Existing User Start
+2024-06-10 17:21:07 pm  Qr Populate on UI
+2024-06-10 17:21:07 pm  User Click On generate QR button to create token  
+2024-06-10 17:21:09 pm  Afetr Click on Generate QR , QR get genrate 
+2024-06-10 17:25:11 pm  chrome browser launch
+2024-06-10 17:25:16 pm  User Enter Amount 10
+2024-06-10 17:25:16 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:25:16 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:25:22 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:25:42 pm  User Verify OTP Sucessfully 
+2024-06-10 17:28:37 pm  chrome browser launch
+2024-06-10 17:28:43 pm  User Enter Amount 10
+2024-06-10 17:28:44 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:28:44 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:28:49 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:29:09 pm  User Verify OTP Sucessfully 
+2024-06-10 17:29:12 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:29:14 pm  User Select Linked Bank Account 
+2024-06-10 17:29:14 pm  Selected Accout is Existing UPI  UPI Account , onboarding For Existing UPI Account Start
+2024-06-10 17:29:18 pm  After Select Bank details and Terms And condition DID Populate On UI
+2024-06-10 17:29:28 pm  Qr Populate on UI
+2024-06-10 17:29:28 pm  User Click On generate QR button to create token  
+2024-06-10 17:29:31 pm  Afetr Click on Generate QR , QR get genrate 
+2024-06-10 17:32:20 pm  chrome browser launch
+2024-06-10 17:32:28 pm  User Enter Amount 10
+2024-06-10 17:32:28 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:32:28 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:32:33 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:32:54 pm  User Verify OTP Sucessfully 
+2024-06-10 17:32:56 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:32:58 pm  User Select Linked Bank Account 
+2024-06-10 17:32:58 pm  Selected Accout is Existing UPI  UPI Account , onboarding For Existing UPI Account Start
+2024-06-10 17:33:03 pm  After Select Bank details and Terms And condition DID Populate On UI
+2024-06-10 17:33:31 pm  chrome browser launch
+2024-06-10 17:33:38 pm  User Enter Amount 10
+2024-06-10 17:33:38 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:33:38 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:33:43 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:34:04 pm  User Verify OTP Sucessfully 
+2024-06-10 17:34:16 pm  chrome browser launch
+2024-06-10 17:34:22 pm  User Enter Amount 10
+2024-06-10 17:34:22 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 17:34:22 pm  User click on Debit Card With Me Toggel 
+2024-06-10 17:34:27 pm  User Is New MCP User , Transaction To Merchant with New MCP User Start
+2024-06-10 17:34:48 pm  User Verify OTP Sucessfully 
+2024-06-10 17:34:50 pm  Accounts are available and get  Autofetched Sucessfully 
+2024-06-10 17:34:52 pm  User Select Linked Bank Account 
+2024-06-10 17:34:52 pm  Selected Accout is Existing UPI  UPI Account , onboarding For Existing UPI Account Start
+2024-06-10 17:34:56 pm  After Select Bank details and Terms And condition DID Populate On UI
+2024-06-10 17:35:06 pm  Qr Populate on UI
+2024-06-10 17:35:06 pm  User Click On generate QR button to create token  
+2024-06-10 17:35:09 pm  Afetr Click on Generate QR , QR get genrate 
+2024-06-10 17:54:57 pm  chrome browser launch
+2024-06-10 17:56:09 pm  chrome browser launch
+2024-06-10 17:57:37 pm  chrome browser launch
+2024-06-10 17:58:35 pm  chrome browser launch
+2024-06-10 18:00:57 pm  chrome browser launch
+2024-06-10 18:03:50 pm  chrome browser launch
+2024-06-10 18:06:50 pm  chrome browser launch
+2024-06-10 18:08:44 pm  chrome browser launch
+2024-06-10 18:09:14 pm  chrome browser launch
+2024-06-10 18:10:46 pm  chrome browser launch
+2024-06-10 18:15:54 pm  chrome browser launch
+2024-06-10 18:16:02 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:17:33 pm  chrome browser launch
+2024-06-10 18:17:40 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:17:40 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:18:27 pm  chrome browser launch
+2024-06-10 18:18:34 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:18:34 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:19:14 pm  chrome browser launch
+2024-06-10 18:19:23 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:19:23 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:20:55 pm  chrome browser launch
+2024-06-10 18:21:04 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:22:38 pm  chrome browser launch
+2024-06-10 18:22:44 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:22:44 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:36:14 pm  chrome browser launch
+2024-06-10 18:36:20 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:36:20 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:37:12 pm  chrome browser launch
+2024-06-10 18:38:03 pm  chrome browser launch
+2024-06-10 18:38:11 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:38:11 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:38:13 pm  User Is Existing MCP User 
+2024-06-10 18:39:15 pm  chrome browser launch
+2024-06-10 18:39:21 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:39:21 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:39:25 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:39:26 pm  User Click on get OTP Button 
+2024-06-10 18:39:26 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:42:50 pm  chrome browser launch
+2024-06-10 18:43:36 pm  chrome browser launch
+2024-06-10 18:43:43 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:43:43 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:43:47 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:43:47 pm  User Click on get OTP Button 
+2024-06-10 18:43:48 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:44:08 pm  User Click On proceed Buuton 
+2024-06-10 18:48:31 pm  chrome browser launch
+2024-06-10 18:48:38 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:48:38 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:48:42 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:48:42 pm  User Click on get OTP Button 
+2024-06-10 18:48:42 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:49:02 pm  User Click On proceed Buuton 
+2024-06-10 18:49:04 pm  User Enter Bank Name BOI New
+2024-06-10 18:49:05 pm  User  select linked Bank Account.
+2024-06-10 18:55:58 pm  chrome browser launch
+2024-06-10 18:56:03 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:56:03 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:56:07 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:56:07 pm  User Click on get OTP Button 
+2024-06-10 18:56:07 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:56:28 pm  User Click On proceed Buuton 
+2024-06-10 18:56:29 pm  User Enter Bank Name BOI New
+2024-06-10 18:56:30 pm  User  select linked Bank Account.
+2024-06-10 18:57:31 pm  chrome browser launch
+2024-06-10 18:57:37 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:57:37 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:57:41 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:57:41 pm  User Click on get OTP Button 
+2024-06-10 18:57:41 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:58:02 pm  User Click On proceed Buuton 
+2024-06-10 18:58:03 pm  User Enter Bank Name BOI New
+2024-06-10 18:58:04 pm  User  select linked Bank Account.
+2024-06-10 18:58:05 pm  Selected Account is New UPI User , Onboarding with New UPI User Start
+2024-06-10 18:59:17 pm  chrome browser launch
+2024-06-10 18:59:22 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 18:59:22 pm  User click on Debit Card With Me Toggel 
+2024-06-10 18:59:26 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 18:59:26 pm  User Click on get OTP Button 
+2024-06-10 18:59:27 pm  User Click on Enter OTP Text Feild 
+2024-06-10 18:59:47 pm  User Click On proceed Buuton 
+2024-06-10 18:59:48 pm  User Enter Bank Name BOI New
+2024-06-10 18:59:49 pm  User  select linked Bank Account.
+2024-06-10 18:59:50 pm  Selected Account is New UPI User , Onboarding with New UPI User Start
+2024-06-10 19:00:36 pm  chrome browser launch
+2024-06-10 19:00:41 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 19:00:41 pm  User click on Debit Card With Me Toggel 
+2024-06-10 19:00:45 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 19:00:45 pm  User Click on get OTP Button 
+2024-06-10 19:00:46 pm  User Click on Enter OTP Text Feild 
+2024-06-10 19:01:06 pm  User Click On proceed Buuton 
+2024-06-10 19:01:07 pm  User Enter Bank Name BOI New
+2024-06-10 19:01:09 pm  User  select linked Bank Account.
+2024-06-10 19:01:10 pm  Selected Account is New UPI User , Onboarding with New UPI User Start
+2024-06-10 19:02:58 pm  chrome browser launch
+2024-06-10 19:03:03 pm  User click on My Mobile Number Linked to UPI checkbox 
+2024-06-10 19:03:03 pm  User click on Debit Card With Me Toggel 
+2024-06-10 19:03:07 pm  User Is New MCP User Onboarding Flow start
+2024-06-10 19:03:07 pm  User Click on get OTP Button 
+2024-06-10 19:03:08 pm  User Click on Enter OTP Text Feild 
+2024-06-10 19:03:28 pm  User Click On proceed Buuton 
+2024-06-10 19:03:29 pm  User Enter Bank Name BOI New
+2024-06-10 19:03:30 pm  User  select linked Bank Account.
+2024-06-10 19:03:31 pm  Selected Account is New UPI User , Onboarding with New UPI User Start

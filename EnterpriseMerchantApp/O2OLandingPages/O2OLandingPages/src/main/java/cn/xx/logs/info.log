@@ -1,0 +1,20 @@
+2023-08-31 12:09:04 PM [Thread: main][ Class: >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:67) ]
+INFO:chrome browser launch
+2023-08-31 12:09:04 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario openURL start
+2023-08-31 12:09:06 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario openURL execute Successfully 
+2023-08-31 12:09:06 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario onboardingProcess start
+2023-08-31 12:09:08 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnNumberOnUPI(CommonElement.java:62) ]
+INFO:user click on Number on UPI checkbox 
+2023-08-31 12:09:09 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.CommonElement.clickOnDebitCardIsWithMe(CommonElement.java:154) ]
+INFO:user click on debit card with me checkbox
+2023-08-31 12:09:11 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.OnboardingUserAsPerStatusOfUser(AgentLandingPage.java:301) ]
+INFO:User is alredy onboarded on Misscall pay if you call On DID One call flow will start 
+2023-08-31 12:09:28 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.clickOnOnboardAsMerchantButton(AgentLandingPage.java:31) ]
+INFO:Onboard as merchant Button Populate on WebPage 
+2023-08-31 12:09:29 PM [Thread: main][ Class: >> Method: com.qa.pageLayer.AgentLandingPage.redirectOnAdminPanel(AgentLandingPage.java:45) ]
+INFO:User redirect on Admin panel Web App 
+2023-08-31 12:09:29 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario onboardingProcess execute Successfully 

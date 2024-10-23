@@ -1,0 +1,50 @@
+2023-06-30 12:09:16 PM [Thread: main][ Class:FrameWork_For_Pract >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:45) ]
+INFO:chrome browser launch
+2023-06-30 12:09:17 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-06-30 12:09:18 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-06-30 12:09:18 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-06-30 12:11:18 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-06-30 12:42:07 PM [Thread: main][ Class:FrameWork_For_Pract >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:45) ]
+INFO:chrome browser launch
+2023-06-30 12:42:07 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-06-30 12:42:09 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-06-30 12:42:09 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-06-30 12:43:27 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-06-30 12:45:38 PM [Thread: main][ Class:FrameWork_For_Pract >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:45) ]
+INFO:chrome browser launch
+2023-06-30 12:45:38 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-06-30 12:45:40 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-06-30 12:45:40 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-06-30 12:47:07 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario payBill execute Successfully 
+2023-06-30 12:51:24 PM [Thread: main][ Class:FrameWork_For_Pract >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:45) ]
+INFO:chrome browser launch
+2023-06-30 12:51:25 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-06-30 12:51:26 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-06-30 12:51:26 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-06-30 12:53:48 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestFailure(Listeners.java:32) ]
+INFO:This is Test Scenario :payBill get fail
+2023-06-30 13:05:49 PM [Thread: main][ Class:FrameWork_For_Pract >> Method: com.qa.TestBase.TestBase.setUp(TestBase.java:45) ]
+INFO:chrome browser launch
+2023-06-30 13:05:49 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario OpenURL start
+2023-06-30 13:05:50 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario OpenURL execute Successfully 
+2023-06-30 13:05:50 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestStart(Listeners.java:18) ]
+INFO:Execution of Test Scenario payBill start
+2023-06-30 13:08:27 PM [Thread: main][ Class: >> Method: com.qa.utility.Listeners.onTestSuccess(Listeners.java:25) ]
+INFO: Test Scenario payBill execute Successfully 

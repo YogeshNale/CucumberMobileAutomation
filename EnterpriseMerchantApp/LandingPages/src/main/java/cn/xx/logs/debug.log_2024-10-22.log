@@ -1,0 +1,440 @@
+2024-10-22 11:23:36 am  chrome browser launch
+2024-10-22 11:23:41 am  User Launch URL on browser https://mcp.pe/muat/smfg-cf
+2024-10-22 11:23:43 am  User Enter Mobile Number 9604677424
+2024-10-22 11:23:43 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-10-22 11:23:44 am  User click on Debit Card With Me Toggel.
+2024-10-22 11:23:44 am  User Click on get OTP Button.
+2024-10-22 11:24:02 am  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 11:24:04 am  User click on another consumer radio Button.
+2024-10-22 11:24:04 am  User Enter Consumer Number 1234
+2024-10-22 11:24:08 am  not define error msg get
+2024-10-22 11:28:27 am  chrome browser launch
+2024-10-22 11:28:31 am  User Launch URL on browser https://mcp.pe/muat/smfg-cf
+2024-10-22 11:28:33 am  User Enter Mobile Number 9604677424
+2024-10-22 11:28:33 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-10-22 11:28:33 am  User click on Debit Card With Me Toggel.
+2024-10-22 11:28:34 am  User Click on get OTP Button.
+2024-10-22 11:28:51 am  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 11:29:04 am  User enter verification code and Number get Validate Sucessfully.
+2024-10-22 11:29:06 am  User click on another consumer radio Button.
+2024-10-22 11:29:06 am  User Enter Consumer Number 1234
+2024-10-22 11:29:08 am  Bill Available for entered Consumer Number 
+2024-10-22 11:29:09 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-10-22 11:29:15 am  Qr Populate on UI
+2024-10-22 11:29:15 am  User Click On generate QR button to create token  
+2024-10-22 11:29:17 am  Afetr Click on Generate QR , QR get genrate 
+2024-10-22 11:29:17 am  User click on Click To pay button.
+2024-10-22 11:29:19 am  After click on call 2 pay Button user redirect on 3rd page.
+2024-10-22 11:40:04 am  chrome browser launch
+2024-10-22 11:40:06 am  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-10-22 11:40:07 am  User enter Mobile Number 9604677424.
+2024-10-22 11:40:07 am  User enter amount 10.
+2024-10-22 11:42:18 am  chrome browser launch
+2024-10-22 11:42:18 am  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 11:49:17 am  chrome browser launch
+2024-10-22 11:49:19 am  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 11:49:20 am  User enter amount 10.
+2024-10-22 11:57:46 am  chrome browser launch
+2024-10-22 11:57:47 am  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 11:57:49 am  User enter amount 10.
+2024-10-22 11:57:49 am  User enter Mobile Number 9604677424.
+2024-10-22 11:57:49 am  User Enter Invoice Number 1.23457E+11.
+2024-10-22 11:59:00 am  chrome browser launch
+2024-10-22 11:59:02 am  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 11:59:03 am  User enter amount 10.
+2024-10-22 11:59:03 am  User enter Mobile Number 9604677424.
+2024-10-22 11:59:04 am  User Enter Invoice Number 123456789012.
+2024-10-22 11:59:50 am  chrome browser launch
+2024-10-22 11:59:51 am  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 11:59:53 am  User enter amount 10.
+2024-10-22 11:59:53 am  User enter Mobile Number 9604677424.
+2024-10-22 11:59:53 am  User Enter Invoice Number 123456789012.
+2024-10-22 11:59:55 am  User checked Number on UPI toggel.
+2024-10-22 11:59:55 am  User checked debit.card handy with me toggel.
+2024-10-22 12:04:09 pm  chrome browser launch
+2024-10-22 12:04:11 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:04:12 pm  User enter amount 10.
+2024-10-22 12:04:12 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:04:12 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:04:15 pm  User checked Number on UPI toggel.
+2024-10-22 12:04:15 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:05:43 pm  chrome browser launch
+2024-10-22 12:05:44 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:05:45 pm  User enter amount 10.
+2024-10-22 12:05:45 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:05:46 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:05:48 pm  User checked Number on UPI toggel.
+2024-10-22 12:05:48 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:05:51 pm  User Click on get OTP Button.
+2024-10-22 12:10:18 pm  chrome browser launch
+2024-10-22 12:10:20 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:10:21 pm  User enter amount 10.
+2024-10-22 12:10:21 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:10:21 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:10:24 pm  User checked Number on UPI toggel.
+2024-10-22 12:10:24 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:10:27 pm  User Click on get OTP Button.
+2024-10-22 12:12:39 pm  chrome browser launch
+2024-10-22 12:12:41 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:12:42 pm  User enter amount 10.
+2024-10-22 12:12:42 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:12:42 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:12:45 pm  User checked Number on UPI toggel.
+2024-10-22 12:12:45 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:13:09 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 12:13:21 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 12:13:37 pm  chrome browser launch
+2024-10-22 12:13:38 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:13:39 pm  User enter amount 10.
+2024-10-22 12:13:39 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:13:40 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:13:42 pm  User checked Number on UPI toggel.
+2024-10-22 12:13:42 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:15:16 pm  chrome browser launch
+2024-10-22 12:15:18 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:15:19 pm  User enter amount 10.
+2024-10-22 12:15:19 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:15:20 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:15:22 pm  User checked Number on UPI toggel.
+2024-10-22 12:15:22 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:15:46 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:18:16 pm  chrome browser launch
+2024-10-22 12:18:18 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:18:19 pm  User enter amount 10.
+2024-10-22 12:18:19 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:18:20 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:18:22 pm  User checked Number on UPI toggel.
+2024-10-22 12:18:22 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:18:46 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 12:18:59 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 12:19:07 pm  chrome browser launch
+2024-10-22 12:19:08 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:19:10 pm  User enter amount 10.
+2024-10-22 12:19:11 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:19:11 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:19:13 pm  User checked Number on UPI toggel.
+2024-10-22 12:19:13 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:19:38 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:34:59 pm  chrome browser launch
+2024-10-22 12:35:00 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:35:01 pm  User enter amount 10.
+2024-10-22 12:35:02 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:35:02 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:35:04 pm  User checked Number on UPI toggel.
+2024-10-22 12:35:04 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:35:29 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 12:35:49 pm  chrome browser launch
+2024-10-22 12:35:51 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:35:52 pm  User enter amount 10.
+2024-10-22 12:35:52 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:35:52 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:35:54 pm  User checked Number on UPI toggel.
+2024-10-22 12:35:54 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:36:19 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:37:07 pm  chrome browser launch
+2024-10-22 12:37:08 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:37:10 pm  User enter amount 10.
+2024-10-22 12:37:11 pm  User enter Mobile Number 8590560006.
+2024-10-22 12:37:11 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:37:13 pm  User checked Number on UPI toggel.
+2024-10-22 12:37:13 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:37:38 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:37:38 pm  User is existing MCP User , pay money to merchant with existing UPI User Start.
+2024-10-22 12:37:38 pm  Qr Populate on UI
+2024-10-22 12:37:38 pm  User Click On generate QR button to create token  
+2024-10-22 12:37:40 pm  Afetr Click on Generate QR , QR get genrate 
+2024-10-22 12:37:41 pm  User click on Click To pay button.
+2024-10-22 12:40:20 pm  chrome browser launch
+2024-10-22 12:40:20 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:40:23 pm  User enter amount 10.
+2024-10-22 12:40:23 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:40:23 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:40:25 pm  User checked Number on UPI toggel.
+2024-10-22 12:40:26 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:40:50 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:40:50 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:47:09 pm  chrome browser launch
+2024-10-22 12:47:11 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:47:12 pm  User enter amount 10.
+2024-10-22 12:47:12 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:47:13 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:47:15 pm  User checked Number on UPI toggel.
+2024-10-22 12:47:15 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:47:39 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:47:39 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:48:41 pm  chrome browser launch
+2024-10-22 12:48:43 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:48:44 pm  User enter amount 10.
+2024-10-22 12:48:44 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:48:45 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:48:47 pm  User checked Number on UPI toggel.
+2024-10-22 12:48:47 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:49:11 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:49:11 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:49:12 pm  User Account Details get Autofetched.
+2024-10-22 12:49:13 pm  User Select Linked Bank Account 
+2024-10-22 12:50:30 pm  chrome browser launch
+2024-10-22 12:50:32 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:50:33 pm  User enter amount 10.
+2024-10-22 12:50:34 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:50:34 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:50:36 pm  User checked Number on UPI toggel.
+2024-10-22 12:50:36 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:51:01 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:51:01 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:51:02 pm  User Account Details get Autofetched.
+2024-10-22 12:51:02 pm  User Select Linked Bank Account 
+2024-10-22 12:51:02 pm  User Accept terms and condition.
+2024-10-22 12:52:16 pm  chrome browser launch
+2024-10-22 12:52:18 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:52:19 pm  User enter amount 10.
+2024-10-22 12:52:19 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:52:19 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:52:21 pm  User checked Number on UPI toggel.
+2024-10-22 12:52:21 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:52:46 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:52:46 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:52:47 pm  User Account Details get Autofetched.
+2024-10-22 12:52:47 pm  User Select Linked Bank Account 
+2024-10-22 12:52:47 pm  User Accept terms and condition.
+2024-10-22 12:52:49 pm  Qr Not populate on UI
+2024-10-22 12:53:39 pm  chrome browser launch
+2024-10-22 12:53:41 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:53:42 pm  User enter amount 10.
+2024-10-22 12:53:42 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:53:42 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:53:44 pm  User checked Number on UPI toggel.
+2024-10-22 12:53:44 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:54:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:54:09 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:54:10 pm  User Account Details get Autofetched.
+2024-10-22 12:54:10 pm  User Select Linked Bank Account 
+2024-10-22 12:54:10 pm  User Accept terms and condition.
+2024-10-22 12:55:23 pm  Qr Not populate on UI
+2024-10-22 12:55:39 pm  chrome browser launch
+2024-10-22 12:55:39 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:55:41 pm  User enter amount 10.
+2024-10-22 12:55:42 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:55:42 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:55:44 pm  User checked Number on UPI toggel.
+2024-10-22 12:55:44 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:56:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 12:56:09 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 12:56:10 pm  User Account Details get Autofetched.
+2024-10-22 12:56:10 pm  User Select Linked Bank Account 
+2024-10-22 12:56:10 pm  User Accept terms and condition.
+2024-10-22 12:58:02 pm  chrome browser launch
+2024-10-22 12:58:04 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:58:05 pm  User enter amount 10.
+2024-10-22 12:58:05 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:58:06 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:58:08 pm  User checked Number on UPI toggel.
+2024-10-22 12:58:08 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:58:32 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 12:58:45 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 12:58:52 pm  chrome browser launch
+2024-10-22 12:58:54 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:58:55 pm  User enter amount 10.
+2024-10-22 12:58:55 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:58:55 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:58:58 pm  User checked Number on UPI toggel.
+2024-10-22 12:58:58 pm  User checked debit.card handy with me toggel.
+2024-10-22 12:59:22 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 12:59:34 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 12:59:42 pm  chrome browser launch
+2024-10-22 12:59:44 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 12:59:45 pm  User enter amount 10.
+2024-10-22 12:59:45 pm  User enter Mobile Number 9604677424.
+2024-10-22 12:59:45 pm  User Enter Invoice Number 123456789012.
+2024-10-22 12:59:48 pm  User checked Number on UPI toggel.
+2024-10-22 12:59:48 pm  User checked debit.card handy with me toggel.
+2024-10-22 13:00:12 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 13:00:12 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 13:00:13 pm  User Account Details get Autofetched.
+2024-10-22 13:00:13 pm  User Select Linked Bank Account 
+2024-10-22 13:00:14 pm  User Accept terms and condition.
+2024-10-22 13:07:11 pm  chrome browser launch
+2024-10-22 13:07:13 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 13:07:14 pm  User enter amount 10.
+2024-10-22 13:07:14 pm  User enter Mobile Number 9604677424.
+2024-10-22 13:07:15 pm  User Enter Invoice Number 123456789012.
+2024-10-22 13:07:17 pm  User checked Number on UPI toggel.
+2024-10-22 13:07:17 pm  User checked debit.card handy with me toggel.
+2024-10-22 13:07:41 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 13:07:41 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 13:07:42 pm  User Account Details get Autofetched.
+2024-10-22 13:07:43 pm  User Select Linked Bank Account 
+2024-10-22 13:07:43 pm  User Accept terms and condition.
+2024-10-22 13:07:43 pm  User Click on Call 2 pay Button.
+2024-10-22 14:07:08 pm  chrome browser launch
+2024-10-22 14:07:10 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:07:11 pm  User enter amount 10.
+2024-10-22 14:07:12 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:07:12 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:07:14 pm  User checked Number on UPI toggel.
+2024-10-22 14:07:14 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:07:39 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:07:39 pm  User is existing MCP User , pay money to merchant with existing UPI User Start.
+2024-10-22 14:07:39 pm  Qr Populate on UI
+2024-10-22 14:07:39 pm  User Click On generate QR button to create token  
+2024-10-22 14:07:41 pm  Afetr Click on Generate QR , QR get genrate 
+2024-10-22 14:07:42 pm  User click on Click To pay button.
+2024-10-22 14:08:30 pm  chrome browser launch
+2024-10-22 14:08:30 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:08:32 pm  User enter amount 10.
+2024-10-22 14:08:33 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:08:33 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:08:35 pm  User checked Number on UPI toggel.
+2024-10-22 14:08:35 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:08:59 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:08:59 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:09:01 pm  User Account Details get Autofetched.
+2024-10-22 14:09:01 pm  User Select Linked Bank Account 
+2024-10-22 14:09:01 pm  User Accept terms and condition.
+2024-10-22 14:09:01 pm  User Click on Call 2 pay Button.
+2024-10-22 14:17:32 pm  chrome browser launch
+2024-10-22 14:17:33 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:17:34 pm  User enter amount 10.
+2024-10-22 14:17:35 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:17:35 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:17:37 pm  User checked Number on UPI toggel.
+2024-10-22 14:17:37 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:18:01 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:18:01 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:18:02 pm  User Account Details get Autofetched.
+2024-10-22 14:18:03 pm  User Select Linked Bank Account 
+2024-10-22 14:18:03 pm  User Accept terms and condition.
+2024-10-22 14:18:03 pm  User Click on Call 2 pay Button.
+2024-10-22 14:19:10 pm  chrome browser launch
+2024-10-22 14:19:10 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:19:12 pm  User enter amount 10.
+2024-10-22 14:19:13 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:19:13 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:19:15 pm  User checked Number on UPI toggel.
+2024-10-22 14:19:15 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:19:40 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:19:40 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:19:41 pm  User Account Details get Autofetched.
+2024-10-22 14:19:41 pm  User Select Linked Bank Account 
+2024-10-22 14:19:41 pm  User Accept terms and condition.
+2024-10-22 14:19:41 pm  User Click on Call 2 pay Button.
+2024-10-22 14:20:39 pm  chrome browser launch
+2024-10-22 14:20:41 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:20:42 pm  User enter amount 10.
+2024-10-22 14:20:42 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:20:42 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:20:45 pm  User checked Number on UPI toggel.
+2024-10-22 14:20:45 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:21:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:21:09 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:21:10 pm  User Account Details get Autofetched.
+2024-10-22 14:21:10 pm  User Select Linked Bank Account 
+2024-10-22 14:21:11 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 14:21:11 pm  User Enter debit card Number.
+2024-10-22 14:21:11 pm  User enter debit card Expiry Month and Year.
+2024-10-22 14:36:23 pm  chrome browser launch
+2024-10-22 14:36:23 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:36:26 pm  User enter amount 10.
+2024-10-22 14:36:26 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:36:26 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:36:28 pm  User checked Number on UPI toggel.
+2024-10-22 14:36:28 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:36:53 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:36:53 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:36:54 pm  User Account Details get Autofetched.
+2024-10-22 14:36:54 pm  User Select Linked Bank Account 
+2024-10-22 14:36:54 pm  Selected Account existing  UPI User ,Onboarding with existing UPI User Start.
+2024-10-22 14:36:54 pm  User Accept terms and condition.
+2024-10-22 14:36:54 pm  User Click on Call 2 pay Button.
+2024-10-22 14:40:26 pm  chrome browser launch
+2024-10-22 14:40:28 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:40:29 pm  User enter amount 10.
+2024-10-22 14:40:29 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:40:30 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:40:32 pm  User checked Number on UPI toggel.
+2024-10-22 14:40:32 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:40:56 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:40:56 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:40:57 pm  User Account Details get Autofetched.
+2024-10-22 14:40:57 pm  User Select Linked Bank Account 
+2024-10-22 14:40:58 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 14:40:58 pm  User Enter debit card Number.
+2024-10-22 14:40:58 pm  User enter debit card Expiry Month and Year.
+2024-10-22 14:48:25 pm  chrome browser launch
+2024-10-22 14:48:27 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:48:28 pm  User enter amount 10.
+2024-10-22 14:48:28 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:48:28 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:48:30 pm  User checked Number on UPI toggel.
+2024-10-22 14:48:30 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:48:55 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 14:49:07 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 14:49:14 pm  chrome browser launch
+2024-10-22 14:49:16 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 14:49:17 pm  User enter amount 10.
+2024-10-22 14:49:17 pm  User enter Mobile Number 9604677424.
+2024-10-22 14:49:18 pm  User Enter Invoice Number 123456789012.
+2024-10-22 14:49:20 pm  User checked Number on UPI toggel.
+2024-10-22 14:49:20 pm  User checked debit.card handy with me toggel.
+2024-10-22 14:49:44 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 14:49:44 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 14:49:46 pm  User Account Details get Autofetched.
+2024-10-22 14:49:46 pm  User Select Linked Bank Account 
+2024-10-22 14:49:46 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 14:49:46 pm  User Enter debit card Number.
+2024-10-22 14:49:46 pm  User enter debit card Expiry Month and Year.
+2024-10-22 14:49:46 pm  Selected Bank Required Debit pin for Onboard.
+2024-10-22 18:31:22 pm  chrome browser launch
+2024-10-22 18:31:22 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 18:31:25 pm  User enter amount 10.
+2024-10-22 18:31:26 pm  User enter Mobile Number 9604677424.
+2024-10-22 18:31:26 pm  User Enter Invoice Number 123456789012.
+2024-10-22 18:31:28 pm  User checked Number on UPI toggel.
+2024-10-22 18:31:28 pm  User checked debit.card handy with me toggel.
+2024-10-22 18:31:53 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 18:31:53 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 18:31:54 pm  User Account Details get Autofetched.
+2024-10-22 18:31:54 pm  User Select Linked Bank Account 
+2024-10-22 18:31:54 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 18:31:55 pm  User Enter debit card Number.
+2024-10-22 18:31:55 pm  User enter debit card Expiry Month and Year.
+2024-10-22 18:31:55 pm  Selected Bank Required Debit pin for Onboard.
+2024-10-22 18:32:40 pm  chrome browser launch
+2024-10-22 18:32:40 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 18:32:43 pm  User enter amount 10.
+2024-10-22 18:32:44 pm  User enter Mobile Number 9604677424.
+2024-10-22 18:32:44 pm  User Enter Invoice Number 123456789012.
+2024-10-22 18:32:46 pm  User checked Number on UPI toggel.
+2024-10-22 18:32:46 pm  User checked debit.card handy with me toggel.
+2024-10-22 18:33:11 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-10-22 18:33:23 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-10-22 18:33:34 pm  chrome browser launch
+2024-10-22 18:33:36 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 18:33:37 pm  User enter amount 10.
+2024-10-22 18:33:38 pm  User enter Mobile Number 9604677424.
+2024-10-22 18:33:38 pm  User Enter Invoice Number 123456789012.
+2024-10-22 18:33:40 pm  User checked Number on UPI toggel.
+2024-10-22 18:33:40 pm  User checked debit.card handy with me toggel.
+2024-10-22 18:34:05 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 18:34:05 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 18:34:06 pm  User Account Details get Autofetched.
+2024-10-22 18:34:06 pm  User Select Linked Bank Account 
+2024-10-22 18:34:06 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 18:34:07 pm  User Enter debit card Number.
+2024-10-22 18:34:07 pm  User enter debit card Expiry Month and Year.
+2024-10-22 18:34:07 pm  Selected Bank Required Debit pin for Onboard.
+2024-10-22 18:35:04 pm  chrome browser launch
+2024-10-22 18:35:06 pm  User Launch URL on browser https://mcp.pe/muat/8066741953
+2024-10-22 18:35:07 pm  User enter amount 10.
+2024-10-22 18:35:08 pm  User enter Mobile Number 9604677424.
+2024-10-22 18:35:08 pm  User Enter Invoice Number 123456789012.
+2024-10-22 18:35:10 pm  User checked Number on UPI toggel.
+2024-10-22 18:35:10 pm  User checked debit.card handy with me toggel.
+2024-10-22 18:35:35 pm  User Enter verification code and Number get validate Sucessfully.
+2024-10-22 18:35:35 pm  User is New MCP User ,pay money with new MCP user flow start.
+2024-10-22 18:35:36 pm  User Account Details get Autofetched.
+2024-10-22 18:35:36 pm  User Select Linked Bank Account 
+2024-10-22 18:35:37 pm  Selected Account Is new UPI User ,Onboarding with New UPI User Start.
+2024-10-22 18:35:37 pm  User Enter debit card Number.
+2024-10-22 18:35:37 pm  User enter debit card Expiry Month and Year.
+2024-10-22 18:35:47 pm  Selected Bank Required Debit pin for Onboard.

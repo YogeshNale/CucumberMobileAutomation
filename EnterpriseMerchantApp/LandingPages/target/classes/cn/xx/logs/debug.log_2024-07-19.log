@@ -1,0 +1,28 @@
+2024-07-19 10:38:36 am  chrome browser launch
+2024-07-19 10:38:38 am  Launched URL on browser https://mcp.pe/7045840321
+2024-07-19 10:38:38 am  
+2024-07-19 10:38:39 am  User Enter Mobile Number 9604677424
+2024-07-19 10:38:40 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-07-19 10:38:40 am  User click on Debit Card With Me Toggel.
+2024-07-19 10:38:40 am  User Click on get OTP Button.
+2024-07-19 10:38:58 am  User Enter verification code and Number get validate Sucessfully.
+2024-07-19 10:39:13 am  Bill Available for entered Consumer Number 
+2024-07-19 10:39:15 am  for Entered Consumer Number 312.00 Amount Bill AVilable
+2024-07-19 10:39:16 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-07-19 10:39:31 am  Qr Populate on UI
+2024-07-19 10:39:31 am  User Click On generate QR button to create token  
+2024-07-19 10:39:33 am  Afetr Click on Generate QR , QR get genrate 
+2024-07-19 10:50:46 am  chrome browser launch
+2024-07-19 10:50:47 am  Launched URL on browser https://mcp.pe/7045840321
+2024-07-19 10:50:47 am  
+2024-07-19 10:50:48 am  User Enter Mobile Number 9604677424
+2024-07-19 10:50:49 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-07-19 10:50:49 am  User click on Debit Card With Me Toggel.
+2024-07-19 10:50:50 am  User Click on get OTP Button.
+2024-07-19 10:51:07 am  User Enter verification code and Number get validate Sucessfully.
+2024-07-19 10:51:22 am  Bill Available for entered Consumer Number 
+2024-07-19 10:51:23 am  for Entered Consumer Number 312.00 Amount Bill AVilable
+2024-07-19 10:51:24 am  Pay Bill with new MCP user Flow start 
+2024-07-19 10:51:24 am  User Select Linked Bank Account 
+2024-07-19 10:51:27 am  Selected Account is existing UPI Account  ,Onboarding with existing UPI User Start
+2024-07-19 10:51:29 am  For selected bank Debit pin is required Which need to Enter on IVR 

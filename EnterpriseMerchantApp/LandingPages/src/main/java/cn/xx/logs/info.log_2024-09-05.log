@@ -1,0 +1,779 @@
+2024-09-05 11:26:44 am  chrome browser launch
+2024-09-05 11:26:47 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-05 11:26:48 am  User Enter Mobile Number 9604677424
+2024-09-05 11:26:49 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-05 11:26:49 am  User click on Debit Card With Me Toggel.
+2024-09-05 11:26:49 am  User Click on get OTP Button.
+2024-09-05 11:27:07 am  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 11:27:19 am  User enter verification code and Number get Validate Sucessfully.
+2024-09-05 11:27:26 am  Bill Available for entered Consumer Number 
+2024-09-05 11:27:26 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-05 11:27:28 am  User Select Linked Bank Account 
+2024-09-05 11:27:29 am  User Enter Additional Amount To pay Bill 9
+2024-09-05 11:27:31 am  Selected Account is existing UPI Account  ,Onboarding with existing UPI User Start
+2024-09-05 11:27:35 am  Qr Populate on UI
+2024-09-05 11:27:35 am  User Click On generate QR button to create token  
+2024-09-05 11:27:37 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 11:27:39 am  User click on Click To pay button.
+2024-09-05 11:29:55 am  chrome browser launch
+2024-09-05 11:29:56 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-05 11:30:04 am  User Enter Mobile Number 9604677424
+2024-09-05 11:30:05 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-05 11:30:05 am  User click on Debit Card With Me Toggel.
+2024-09-05 11:30:05 am  User Click on get OTP Button.
+2024-09-05 11:30:23 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 11:30:30 am  Bill Available for entered Consumer Number 
+2024-09-05 11:30:30 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-05 11:30:31 am  User Select Linked Bank Account 
+2024-09-05 11:30:33 am  User Enter Additional Amount To pay Bill 9
+2024-09-05 11:30:34 am  Selected Bank account is a New UPI Account, oboarding User With Debit Card Details flow start 
+2024-09-05 11:30:38 am  Agnet ID Feild Is Disable
+2024-09-05 11:30:43 am  For selected bank Debit pin is required Which need to Enter on IVR 
+2024-09-05 11:30:53 am  Qr Populate on UI
+2024-09-05 11:30:53 am  User Click On generate QR button to create token  
+2024-09-05 11:30:55 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 11:30:55 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 11:34:05 am  chrome browser launch
+2024-09-05 11:34:06 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-05 11:34:10 am  User Enter Mobile Number 9604677424
+2024-09-05 11:34:10 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-05 11:34:10 am  User click on Debit Card With Me Toggel.
+2024-09-05 11:34:11 am  User Click on get OTP Button.
+2024-09-05 11:34:28 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 11:34:35 am  Bill Available for entered Consumer Number 
+2024-09-05 11:34:35 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-05 11:34:37 am  User Select Linked Bank Account 
+2024-09-05 11:34:38 am  User Enter Additional Amount To pay Bill 9
+2024-09-05 11:34:40 am  Selected Bank account is a New UPI Account, oboarding User With Debit Card Details flow start 
+2024-09-05 11:34:44 am  Agnet ID Feild Is Disable
+2024-09-05 11:34:48 am  For selected bank Debit pin is required Which need to Enter on IVR 
+2024-09-05 11:34:52 am  Qr Populate on UI
+2024-09-05 11:34:53 am  User Click On generate QR button to create token  
+2024-09-05 11:34:55 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 11:34:57 am  User click on Click To pay button.
+2024-09-05 11:40:11 am  chrome browser launch
+2024-09-05 11:40:15 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-05 11:40:16 am  User Enter Mobile Number 7977292708
+2024-09-05 11:40:17 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-05 11:40:17 am  User click on Debit Card With Me Toggel.
+2024-09-05 11:40:17 am  User Click on get OTP Button.
+2024-09-05 11:40:35 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 12:30:32 pm  chrome browser launch
+2024-09-05 12:51:01 pm  chrome browser launch
+2024-09-05 12:51:03 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 12:51:33 pm  chrome browser launch
+2024-09-05 12:51:36 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 12:58:35 pm  chrome browser launch
+2024-09-05 12:58:38 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 13:00:34 pm  chrome browser launch
+2024-09-05 13:00:36 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 13:02:03 pm  chrome browser launch
+2024-09-05 13:02:04 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 13:02:42 pm  chrome browser launch
+2024-09-05 13:02:43 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 13:03:39 pm  chrome browser launch
+2024-09-05 13:03:42 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 13:05:58 pm  chrome browser launch
+2024-09-05 13:06:00 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:48:41 pm  chrome browser launch
+2024-09-05 14:48:41 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:51:29 pm  chrome browser launch
+2024-09-05 14:51:34 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:52:22 pm  chrome browser launch
+2024-09-05 14:52:25 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:52:26 pm  User enter Number 9604677424
+2024-09-05 14:52:26 pm  User enter amount 3
+2024-09-05 14:54:44 pm  chrome browser launch
+2024-09-05 14:54:44 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:54:47 pm  User enter Number 9604677424
+2024-09-05 14:54:47 pm  User enter amount 3
+2024-09-05 14:56:33 pm  chrome browser launch
+2024-09-05 14:56:36 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 14:56:36 pm  User enter Number 9604677424
+2024-09-05 14:56:36 pm  User enter amount 3
+2024-09-05 14:56:36 pm  Qr Populate on UI
+2024-09-05 14:56:37 pm  User Click On generate QR button to create token  
+2024-09-05 14:56:39 pm  After Click on Generate QR , Qr not get Generate 
+2024-09-05 15:10:50 pm  chrome browser launch
+2024-09-05 15:10:51 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:10:53 pm  User enter Number 9604677424
+2024-09-05 15:10:53 pm  User enter amount 3
+2024-09-05 15:10:53 pm  Qr Populate on UI
+2024-09-05 15:10:53 pm  User Click On generate QR button to create token  
+2024-09-05 15:10:56 pm  After Click on Generate QR , Qr not get Generate 
+2024-09-05 15:16:28 pm  chrome browser launch
+2024-09-05 15:16:34 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:16:35 pm  User enter Number 9604677424
+2024-09-05 15:16:35 pm  User enter amount 3
+2024-09-05 15:16:35 pm  Qr Populate on UI
+2024-09-05 15:16:35 pm  User Click On generate QR button to create token  
+2024-09-05 15:16:37 pm  After Click on Generate QR , Qr not get Generate 
+2024-09-05 15:18:40 pm  chrome browser launch
+2024-09-05 15:18:43 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:18:43 pm  User enter Number 9604677424
+2024-09-05 15:18:44 pm  User enter amount 3
+2024-09-05 15:18:46 pm  Qr Populate on UI
+2024-09-05 15:18:46 pm  User Click On generate QR button to create token  
+2024-09-05 15:18:48 pm  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 15:22:19 pm  chrome browser launch
+2024-09-05 15:22:23 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:22:23 pm  User enter Number 9604677424
+2024-09-05 15:22:23 pm  User enter amount 3
+2024-09-05 15:22:25 pm  Qr Populate on UI
+2024-09-05 15:22:25 pm  User Click On generate QR button to create token  
+2024-09-05 15:22:27 pm  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 15:23:55 pm  chrome browser launch
+2024-09-05 15:23:55 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:23:58 pm  User enter Number 9604677424
+2024-09-05 15:23:58 pm  User enter amount 3
+2024-09-05 15:24:00 pm  Qr Populate on UI
+2024-09-05 15:24:00 pm  User Click On generate QR button to create token  
+2024-09-05 15:24:02 pm  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 15:24:44 pm  chrome browser launch
+2024-09-05 15:24:47 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:24:47 pm  User enter Number 9604677424
+2024-09-05 15:24:47 pm  User enter amount 3
+2024-09-05 15:24:50 pm  Qr Populate on UI
+2024-09-05 15:24:50 pm  User Click On generate QR button to create token  
+2024-09-05 15:24:52 pm  Afetr Click on Generate QR , QR get genrate 
+2024-09-05 15:27:29 pm  chrome browser launch
+2024-09-05 15:27:32 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:27:32 pm  User enter Number 9604677424
+2024-09-05 15:27:32 pm  User enter amount 3
+2024-09-05 15:27:34 pm  Qr Populate on UI
+2024-09-05 15:27:34 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:34:36 pm  chrome browser launch
+2024-09-05 15:34:39 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:34:39 pm  User enter Number 9604677424.
+2024-09-05 15:34:39 pm  User enter amount 3.
+2024-09-05 15:34:41 pm  Qr Populate on UI
+2024-09-05 15:34:41 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:34:41 pm  User checked Number on UPI toggel.
+2024-09-05 15:34:41 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:35:49 pm  chrome browser launch
+2024-09-05 15:35:52 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:35:52 pm  User enter Number 9604677424.
+2024-09-05 15:35:52 pm  User enter amount 3.
+2024-09-05 15:35:54 pm  Qr Populate on UI
+2024-09-05 15:35:54 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:35:54 pm  User checked Number on UPI toggel.
+2024-09-05 15:35:54 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:54:18 pm  chrome browser launch
+2024-09-05 15:54:19 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:54:21 pm  User enter Number 9604677424.
+2024-09-05 15:54:21 pm  User enter amount 3.
+2024-09-05 15:54:23 pm  Qr Populate on UI
+2024-09-05 15:54:23 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:54:23 pm  User checked Number on UPI toggel.
+2024-09-05 15:54:23 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:54:57 pm  chrome browser launch
+2024-09-05 15:54:57 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:54:59 pm  User enter Number 9604677424.
+2024-09-05 15:54:59 pm  User enter amount 3.
+2024-09-05 15:55:02 pm  Qr Populate on UI
+2024-09-05 15:55:02 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:55:02 pm  User checked Number on UPI toggel.
+2024-09-05 15:55:02 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:55:02 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 15:56:12 pm  chrome browser launch
+2024-09-05 15:56:14 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:56:15 pm  User enter Number 9604677424.
+2024-09-05 15:56:15 pm  User enter amount 3.
+2024-09-05 15:56:17 pm  Qr Populate on UI
+2024-09-05 15:56:17 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:56:17 pm  User checked Number on UPI toggel.
+2024-09-05 15:56:17 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:56:17 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 15:57:16 pm  chrome browser launch
+2024-09-05 15:57:18 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:57:18 pm  User enter Number 9604677424.
+2024-09-05 15:57:18 pm  User enter amount 3.
+2024-09-05 15:57:20 pm  Qr Populate on UI
+2024-09-05 15:57:20 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:57:20 pm  User checked Number on UPI toggel.
+2024-09-05 15:57:20 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:57:21 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 15:58:19 pm  chrome browser launch
+2024-09-05 15:58:21 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:58:22 pm  User enter Number 9604677424.
+2024-09-05 15:58:36 pm  chrome browser launch
+2024-09-05 15:58:40 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:58:40 pm  User enter Number 9604677424.
+2024-09-05 15:58:41 pm  User enter amount 3.
+2024-09-05 15:58:43 pm  Qr Populate on UI
+2024-09-05 15:58:43 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:58:43 pm  User checked Number on UPI toggel.
+2024-09-05 15:58:43 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:58:43 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 15:59:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 15:59:50 pm  chrome browser launch
+2024-09-05 15:59:56 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 15:59:57 pm  User enter Number 9604677424.
+2024-09-05 15:59:57 pm  User enter amount 3.
+2024-09-05 15:59:59 pm  Qr Populate on UI
+2024-09-05 15:59:59 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 15:59:59 pm  User checked Number on UPI toggel.
+2024-09-05 15:59:59 pm  User checked debit.card handy with me toggel.
+2024-09-05 15:59:59 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:01:03 pm  chrome browser launch
+2024-09-05 16:01:06 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:01:06 pm  User enter Number 9604677424.
+2024-09-05 16:01:06 pm  User enter amount 3.
+2024-09-05 16:01:09 pm  Qr Populate on UI
+2024-09-05 16:01:09 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:01:09 pm  User checked Number on UPI toggel.
+2024-09-05 16:01:09 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:01:09 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:01:32 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 16:01:44 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-09-05 16:02:21 pm  chrome browser launch
+2024-09-05 16:02:21 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:02:24 pm  User enter Number 9604677424.
+2024-09-05 16:02:24 pm  User enter amount 3.
+2024-09-05 16:02:27 pm  Qr Populate on UI
+2024-09-05 16:02:27 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:02:27 pm  User checked Number on UPI toggel.
+2024-09-05 16:02:27 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:02:27 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:03:53 pm  chrome browser launch
+2024-09-05 16:03:56 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:03:56 pm  User enter Number 9604677424.
+2024-09-05 16:03:56 pm  User enter amount 3.
+2024-09-05 16:03:58 pm  Qr Populate on UI
+2024-09-05 16:03:58 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:03:58 pm  User checked Number on UPI toggel.
+2024-09-05 16:03:58 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:03:59 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:04:47 pm  chrome browser launch
+2024-09-05 16:04:49 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:04:49 pm  User enter Number 9604677424.
+2024-09-05 16:04:50 pm  User enter amount 3.
+2024-09-05 16:04:52 pm  Qr Populate on UI
+2024-09-05 16:04:52 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:04:52 pm  User checked Number on UPI toggel.
+2024-09-05 16:04:52 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:04:57 pm  User is Alredy Onboarded on MCP as Customer , P2M Flow with existing User Start.
+2024-09-05 16:05:38 pm  chrome browser launch
+2024-09-05 16:05:41 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:05:41 pm  User enter Number 9604677424.
+2024-09-05 16:05:41 pm  User enter amount 3.
+2024-09-05 16:05:43 pm  Qr Populate on UI
+2024-09-05 16:05:43 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:05:43 pm  User checked Number on UPI toggel.
+2024-09-05 16:05:43 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:05:48 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:06:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 16:17:42 pm  chrome browser launch
+2024-09-05 16:17:44 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:17:44 pm  User enter Number 9604677424.
+2024-09-05 16:17:45 pm  User enter amount 3.
+2024-09-05 16:17:47 pm  Qr Populate on UI
+2024-09-05 16:17:47 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:17:47 pm  User checked Number on UPI toggel.
+2024-09-05 16:17:47 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:17:52 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:18:12 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 16:18:13 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 16:18:13 pm  User select 1st Account which get Autofetched.
+2024-09-05 16:40:04 pm  chrome browser launch
+2024-09-05 16:40:07 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:40:07 pm  User enter Number 9604677424.
+2024-09-05 16:40:07 pm  User enter amount 3.
+2024-09-05 16:40:09 pm  Qr Populate on UI
+2024-09-05 16:40:09 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:40:09 pm  User checked Number on UPI toggel.
+2024-09-05 16:40:09 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:40:15 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:40:35 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 16:40:47 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-09-05 16:41:03 pm  chrome browser launch
+2024-09-05 16:41:03 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 16:41:05 pm  User enter Number 9604677424.
+2024-09-05 16:41:05 pm  User enter amount 3.
+2024-09-05 16:41:08 pm  Qr Populate on UI
+2024-09-05 16:41:08 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 16:41:08 pm  User checked Number on UPI toggel.
+2024-09-05 16:41:08 pm  User checked debit.card handy with me toggel.
+2024-09-05 16:41:13 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 16:41:33 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 16:41:33 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 16:41:33 pm  User select 1st Account which get Autofetched.
+2024-09-05 16:41:34 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 16:41:34 pm  User click on Enter Debit Card number Field.
+2024-09-05 16:41:34 pm  User Enter debit card Number.
+2024-09-05 16:41:34 pm  User click on expiry Month and year.
+2024-09-05 16:41:34 pm  User Enter Debit card Number
+2024-09-05 16:41:34 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 16:41:34 pm  User select 1st Account which get Autofetched.
+2024-09-05 16:41:34 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 16:41:34 pm  User click on Enter Debit Card number Field.
+2024-09-05 16:41:34 pm  User Enter debit card Number.
+2024-09-05 16:41:34 pm  User click on expiry Month and year.
+2024-09-05 16:41:34 pm  User Enter Debit card Number
+2024-09-05 17:02:49 pm  chrome browser launch
+2024-09-05 17:02:52 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 17:02:52 pm  User enter Number 9604677424.
+2024-09-05 17:02:52 pm  User enter amount 3.
+2024-09-05 17:02:54 pm  Qr Populate on UI
+2024-09-05 17:02:54 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 17:02:54 pm  User checked Number on UPI toggel.
+2024-09-05 17:02:54 pm  User checked debit.card handy with me toggel.
+2024-09-05 17:02:59 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 17:03:20 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 17:03:20 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 17:03:20 pm  User select 1st Account which get Autofetched.
+2024-09-05 17:03:20 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 17:03:20 pm  User click on Enter Debit Card number Field.
+2024-09-05 17:03:20 pm  User Enter debit card Number.
+2024-09-05 17:03:20 pm  User click on expiry Month and year.
+2024-09-05 17:03:20 pm  User Enter Debit card Number
+2024-09-05 17:03:20 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 17:03:20 pm  User select 1st Account which get Autofetched.
+2024-09-05 17:05:22 pm  chrome browser launch
+2024-09-05 17:05:24 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 17:05:25 pm  User enter Number 9604677424.
+2024-09-05 17:05:25 pm  User enter amount 3.
+2024-09-05 17:05:27 pm  Qr Populate on UI
+2024-09-05 17:05:27 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 17:05:27 pm  User checked Number on UPI toggel.
+2024-09-05 17:05:27 pm  User checked debit.card handy with me toggel.
+2024-09-05 17:05:32 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 17:05:53 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 17:05:53 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 17:05:53 pm  User select 1st Account which get Autofetched.
+2024-09-05 17:05:53 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 17:05:53 pm  User click on Enter Debit Card number Field.
+2024-09-05 17:05:53 pm  User Enter debit card Number.
+2024-09-05 17:05:53 pm  User click on expiry Month and year.
+2024-09-05 17:05:53 pm  User Enter Debit card Number
+2024-09-05 17:49:51 pm  chrome browser launch
+2024-09-05 17:49:51 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 17:49:53 pm  User enter Number 9604677424.
+2024-09-05 17:49:54 pm  User enter amount 3.
+2024-09-05 17:49:56 pm  Qr Populate on UI
+2024-09-05 17:49:56 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 17:49:56 pm  User checked Number on UPI toggel.
+2024-09-05 17:49:56 pm  User checked debit.card handy with me toggel.
+2024-09-05 17:50:01 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 17:50:22 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 17:50:22 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 17:50:22 pm  User select 1st Account which get Autofetched.
+2024-09-05 17:50:22 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 17:50:22 pm  User click on Enter Debit Card number Field.
+2024-09-05 17:50:22 pm  User Enter debit card Number.
+2024-09-05 17:50:22 pm  User click on expiry Month and year.
+2024-09-05 17:50:22 pm  User Enter Debit card expiry month and year.
+2024-09-05 17:50:23 pm  For SelectedBank debit pin not required.
+2024-09-05 17:50:23 pm  User Click on get UPI OTP Button.
+2024-09-05 18:00:44 pm  chrome browser launch
+2024-09-05 18:00:46 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:00:46 pm  User enter Number 9604677424.
+2024-09-05 18:00:46 pm  User enter amount 3.
+2024-09-05 18:00:49 pm  Qr Populate on UI
+2024-09-05 18:00:49 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:00:49 pm  User checked Number on UPI toggel.
+2024-09-05 18:00:49 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:00:54 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:01:14 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:01:15 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:01:15 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:01:15 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:01:15 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:01:15 pm  User Enter debit card Number.
+2024-09-05 18:01:15 pm  User click on expiry Month and year.
+2024-09-05 18:01:15 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:01:15 pm  User click on terms and condition checkbox.
+2024-09-05 18:01:15 pm  For SelectedBank debit pin not required.
+2024-09-05 18:01:15 pm  User Click on get UPI OTP Button.
+2024-09-05 18:06:20 pm  chrome browser launch
+2024-09-05 18:06:22 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:06:22 pm  User enter Number 9604677424.
+2024-09-05 18:06:23 pm  User enter amount 3.
+2024-09-05 18:06:25 pm  Qr Populate on UI
+2024-09-05 18:06:25 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:06:25 pm  User checked Number on UPI toggel.
+2024-09-05 18:06:25 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:06:30 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:06:51 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:06:51 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:06:51 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:06:51 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:06:51 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:06:51 pm  User Enter debit card Number.
+2024-09-05 18:06:51 pm  User click on expiry Month and year.
+2024-09-05 18:06:51 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:06:51 pm  User click on terms and condition checkbox.
+2024-09-05 18:06:51 pm  After Accept Terms and condition calling DID or Get UPI OTP Button not ppulate on UI.
+2024-09-05 18:09:31 pm  chrome browser launch
+2024-09-05 18:09:33 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:09:34 pm  User enter Number 9604677424.
+2024-09-05 18:09:34 pm  User enter amount 3.
+2024-09-05 18:09:36 pm  Qr Populate on UI
+2024-09-05 18:09:36 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:09:36 pm  User checked Number on UPI toggel.
+2024-09-05 18:09:36 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:09:41 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:10:02 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:10:02 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:10:02 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:10:02 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:10:02 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:10:02 pm  User Enter debit card Number.
+2024-09-05 18:10:02 pm  User click on expiry Month and year.
+2024-09-05 18:10:03 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:10:03 pm  User click on terms and condition checkbox.
+2024-09-05 18:10:03 pm  After Accept Terms and condition calling DID or Get UPI OTP Button not ppulate on UI.
+2024-09-05 18:12:56 pm  chrome browser launch
+2024-09-05 18:12:58 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:12:58 pm  User enter Number 9604677424.
+2024-09-05 18:12:59 pm  User enter amount 3.
+2024-09-05 18:13:01 pm  Qr Populate on UI
+2024-09-05 18:13:01 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:13:01 pm  User checked Number on UPI toggel.
+2024-09-05 18:13:01 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:13:06 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:13:26 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:13:27 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:13:27 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:13:27 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:13:27 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:13:27 pm  User Enter debit card Number.
+2024-09-05 18:13:27 pm  User click on expiry Month and year.
+2024-09-05 18:13:27 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:13:27 pm  User click on terms and condition checkbox.
+2024-09-05 18:13:31 pm  
+2024-09-05 18:13:31 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:17:47 pm  chrome browser launch
+2024-09-05 18:17:50 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:17:50 pm  User enter Number 9604677424.
+2024-09-05 18:17:50 pm  User enter amount 3.
+2024-09-05 18:17:52 pm  Qr Populate on UI
+2024-09-05 18:17:52 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:17:52 pm  User checked Number on UPI toggel.
+2024-09-05 18:17:52 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:17:57 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:18:18 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:18:18 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:18:18 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:18:18 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:18:20 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:18:20 pm  User Enter debit card Number.
+2024-09-05 18:18:22 pm  User click on expiry Month and year.
+2024-09-05 18:18:23 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:18:25 pm  User click on terms and condition checkbox.
+2024-09-05 18:18:29 pm  After Accept Terms and condtion Calling DID Populate on UI.
+2024-09-05 18:18:29 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:20:25 pm  chrome browser launch
+2024-09-05 18:20:26 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:20:28 pm  User enter Number 9604677424.
+2024-09-05 18:20:28 pm  User enter amount 3.
+2024-09-05 18:20:30 pm  Qr Populate on UI
+2024-09-05 18:20:30 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:20:31 pm  User checked Number on UPI toggel.
+2024-09-05 18:20:31 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:20:36 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:20:56 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:20:56 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:20:56 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:20:57 pm  Selected Account is Existing UPI account, Onboarding Flow with Existing UPI Account Start.
+2024-09-05 18:26:14 pm  chrome browser launch
+2024-09-05 18:26:16 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:26:16 pm  User enter Number 9604677424.
+2024-09-05 18:26:16 pm  User enter amount 3.
+2024-09-05 18:26:19 pm  Qr Populate on UI
+2024-09-05 18:26:19 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:26:19 pm  User checked Number on UPI toggel.
+2024-09-05 18:26:19 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:26:24 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:26:44 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:26:45 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:26:45 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:26:45 pm  Selected Account is Existing UPI account, Onboarding Flow with Existing UPI Account Start.
+2024-09-05 18:26:48 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:28:57 pm  chrome browser launch
+2024-09-05 18:29:00 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:29:00 pm  User enter Number 9604677424.
+2024-09-05 18:29:00 pm  User enter amount 3.
+2024-09-05 18:29:02 pm  Qr Populate on UI
+2024-09-05 18:29:02 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:29:02 pm  User checked Number on UPI toggel.
+2024-09-05 18:29:02 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:29:08 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:29:28 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 18:29:40 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-09-05 18:31:10 pm  chrome browser launch
+2024-09-05 18:31:10 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:31:12 pm  User enter Number 9604677424.
+2024-09-05 18:31:12 pm  User enter amount 3.
+2024-09-05 18:31:14 pm  Qr Populate on UI
+2024-09-05 18:31:14 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:31:14 pm  User checked Number on UPI toggel.
+2024-09-05 18:31:14 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:31:20 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:31:40 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:31:40 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 18:31:40 pm  User click on Other Bank Account radio Button.
+2024-09-05 18:37:37 pm  chrome browser launch
+2024-09-05 18:37:39 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:37:39 pm  User enter Number 9604677424.
+2024-09-05 18:37:39 pm  User enter amount 3.
+2024-09-05 18:37:42 pm  Qr Populate on UI
+2024-09-05 18:37:42 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:37:42 pm  User checked Number on UPI toggel.
+2024-09-05 18:37:42 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:37:47 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:38:07 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:38:08 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 18:38:08 pm  User click on Other Bank Account radio Button.
+2024-09-05 18:38:08 pm  User click on enter Bank Name Field.
+2024-09-05 18:38:08 pm   User Enter Bank Name Federal Bank
+2024-09-05 18:43:06 pm  chrome browser launch
+2024-09-05 18:43:08 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:43:09 pm  User enter Number 9604677424.
+2024-09-05 18:43:09 pm  User enter amount 3.
+2024-09-05 18:43:11 pm  Qr Populate on UI
+2024-09-05 18:43:11 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:43:11 pm  User checked Number on UPI toggel.
+2024-09-05 18:43:11 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:43:16 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:43:37 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:43:37 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 18:43:37 pm  User click on Other Bank Account radio Button.
+2024-09-05 18:43:37 pm  User click on enter Bank Name Field.
+2024-09-05 18:43:37 pm   User Enter Bank Name Federal Bank
+2024-09-05 18:43:40 pm  User  select linked Bank Account.
+2024-09-05 18:45:38 pm  chrome browser launch
+2024-09-05 18:45:39 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:45:41 pm  User enter Number 9604677424.
+2024-09-05 18:45:41 pm  User enter amount 3.
+2024-09-05 18:45:43 pm  Qr Populate on UI
+2024-09-05 18:45:43 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:45:43 pm  User checked Number on UPI toggel.
+2024-09-05 18:45:43 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:45:49 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:46:09 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:46:09 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:46:09 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:46:09 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:46:11 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:46:12 pm  User Enter debit card Number.
+2024-09-05 18:46:14 pm  User click on expiry Month and year.
+2024-09-05 18:46:14 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:46:16 pm  User click on terms and condition checkbox.
+2024-09-05 18:46:20 pm  After Accept Terms and condtion Calling DID Populate on UI.
+2024-09-05 18:46:20 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:46:49 pm  chrome browser launch
+2024-09-05 18:46:52 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:46:52 pm  User enter Number 9604677424.
+2024-09-05 18:46:52 pm  User enter amount 3.
+2024-09-05 18:46:54 pm  Qr Populate on UI
+2024-09-05 18:46:54 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:46:54 pm  User checked Number on UPI toggel.
+2024-09-05 18:46:54 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:46:59 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:47:20 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:47:20 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 18:47:20 pm  User click on Other Bank Account radio Button.
+2024-09-05 18:47:20 pm  User click on enter Bank Name Field.
+2024-09-05 18:47:20 pm   User Enter Bank Name Federal Bank
+2024-09-05 18:47:24 pm  User  select linked Bank Account.
+2024-09-05 18:47:24 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:47:26 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:47:26 pm  User Enter debit card Number.
+2024-09-05 18:47:28 pm  User click on expiry Month and year.
+2024-09-05 18:47:28 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:47:30 pm  User click on terms and condition checkbox.
+2024-09-05 18:47:34 pm  After Accept Terms and condtion Calling DID Populate on UI.
+2024-09-05 18:47:34 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:50:26 pm  chrome browser launch
+2024-09-05 18:50:29 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:50:29 pm  User enter Number 9604677424.
+2024-09-05 18:50:29 pm  User enter amount 3.
+2024-09-05 18:50:31 pm  Qr Populate on UI
+2024-09-05 18:50:31 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:50:31 pm  User checked Number on UPI toggel.
+2024-09-05 18:50:31 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:50:36 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:50:57 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:50:57 pm  Linked account to User Number get Autofetched , onboarding by selecting Autofetched Account start. 
+2024-09-05 18:50:57 pm  User select 1st Account which get Autofetched.
+2024-09-05 18:50:57 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 18:50:59 pm  User click on Enter Debit Card number Field.
+2024-09-05 18:50:59 pm  User Enter debit card Number.
+2024-09-05 18:51:01 pm  User click on expiry Month and year.
+2024-09-05 18:51:02 pm  User Enter Debit card expiry month and year.
+2024-09-05 18:51:04 pm  User click on terms and condition checkbox.
+2024-09-05 18:51:08 pm  After Accept Terms and condtion Calling DID Populate on UI.
+2024-09-05 18:51:08 pm  When User call on DID Onboarding process Start.
+2024-09-05 18:54:34 pm  chrome browser launch
+2024-09-05 18:54:35 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:54:37 pm  User enter Number 9604677424.
+2024-09-05 18:54:37 pm  User enter amount 3.
+2024-09-05 18:54:39 pm  Qr Populate on UI
+2024-09-05 18:54:39 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:54:39 pm  User checked Number on UPI toggel.
+2024-09-05 18:54:39 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:54:44 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:55:05 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:55:27 pm  chrome browser launch
+2024-09-05 18:55:29 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:55:30 pm  User enter Number 9604677424.
+2024-09-05 18:55:30 pm  User enter amount 3.
+2024-09-05 18:55:32 pm  Qr Populate on UI
+2024-09-05 18:55:32 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:55:32 pm  User checked Number on UPI toggel.
+2024-09-05 18:55:32 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:55:37 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:55:58 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:56:57 pm  chrome browser launch
+2024-09-05 18:56:59 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:56:59 pm  User enter Number 9604677424.
+2024-09-05 18:56:59 pm  User enter amount 3.
+2024-09-05 18:57:02 pm  Qr Populate on UI
+2024-09-05 18:57:02 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:57:02 pm  User checked Number on UPI toggel.
+2024-09-05 18:57:02 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:57:07 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:57:27 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 18:57:47 pm  chrome browser launch
+2024-09-05 18:57:47 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:57:49 pm  User enter Number 9604677424.
+2024-09-05 18:57:49 pm  User enter amount 3.
+2024-09-05 18:57:52 pm  Qr Populate on UI
+2024-09-05 18:57:52 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:57:52 pm  User checked Number on UPI toggel.
+2024-09-05 18:57:52 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:57:57 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:58:17 pm  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-05 18:58:29 pm  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-09-05 18:58:42 pm  chrome browser launch
+2024-09-05 18:58:44 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 18:58:45 pm  User enter Number 9604677424.
+2024-09-05 18:58:45 pm  User enter amount 3.
+2024-09-05 18:58:47 pm  Qr Populate on UI
+2024-09-05 18:58:47 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 18:58:47 pm  User checked Number on UPI toggel.
+2024-09-05 18:58:47 pm  User checked debit.card handy with me toggel.
+2024-09-05 18:58:52 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 18:59:13 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 18:59:18 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 18:59:18 pm  User click on Other Bank Account radio Button.
+2024-09-05 18:59:18 pm  User click on enter Bank Name Field.
+2024-09-05 18:59:18 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:02:01 pm  chrome browser launch
+2024-09-05 19:02:03 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 19:02:03 pm  User enter Number 9604677424.
+2024-09-05 19:02:03 pm  User enter amount 3.
+2024-09-05 19:02:06 pm  Qr Populate on UI
+2024-09-05 19:02:06 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 19:02:06 pm  User checked Number on UPI toggel.
+2024-09-05 19:02:06 pm  User checked debit.card handy with me toggel.
+2024-09-05 19:02:11 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 19:02:31 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 19:02:37 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 19:02:37 pm  User click on Other Bank Account radio Button.
+2024-09-05 19:02:37 pm  User click on enter Bank Name Field.
+2024-09-05 19:02:37 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:02:42 pm  User  select linked Bank Account.
+2024-09-05 19:02:42 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 19:02:44 pm  User click on Enter Debit Card number Field.
+2024-09-05 19:02:44 pm  User Enter debit card Number.
+2024-09-05 19:02:47 pm  User click on expiry Month and year.
+2024-09-05 19:02:47 pm  User Enter Debit card expiry month and year.
+2024-09-05 19:02:49 pm  User click on terms and condition checkbox.
+2024-09-05 19:02:53 pm  For Selected Bank debit Pin Required Which Need To Enter on IVR.
+2024-09-05 19:02:53 pm  User Click on get UPI OTP Button.
+2024-09-05 19:04:41 pm  chrome browser launch
+2024-09-05 19:04:43 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 19:04:44 pm  User enter Number 9604677424.
+2024-09-05 19:04:44 pm  User enter amount 3.
+2024-09-05 19:04:46 pm  Qr Populate on UI
+2024-09-05 19:04:46 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 19:04:46 pm  User checked Number on UPI toggel.
+2024-09-05 19:04:46 pm  User checked debit.card handy with me toggel.
+2024-09-05 19:04:51 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 19:05:12 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 19:05:17 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 19:05:17 pm  User click on Other Bank Account radio Button.
+2024-09-05 19:05:17 pm  User click on enter Bank Name Field.
+2024-09-05 19:05:17 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:05:23 pm  User  select linked Bank Account.
+2024-09-05 19:05:23 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 19:05:25 pm  User click on Enter Debit Card number Field.
+2024-09-05 19:05:25 pm  User Enter debit card Number.
+2024-09-05 19:05:27 pm  User click on expiry Month and year.
+2024-09-05 19:05:27 pm  User Enter Debit card expiry month and year.
+2024-09-05 19:05:29 pm  User click on terms and condition checkbox.
+2024-09-05 19:05:33 pm  For Selected Bank debit Pin Required Which Need To Enter on IVR.
+2024-09-05 19:05:33 pm  User Click on get UPI OTP Button.
+2024-09-05 19:06:31 pm  chrome browser launch
+2024-09-05 19:06:34 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 19:06:34 pm  User enter Number 9604677424.
+2024-09-05 19:06:34 pm  User enter amount 3.
+2024-09-05 19:06:37 pm  Qr Populate on UI
+2024-09-05 19:06:37 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 19:06:37 pm  User checked Number on UPI toggel.
+2024-09-05 19:06:37 pm  User checked debit.card handy with me toggel.
+2024-09-05 19:06:42 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 19:07:02 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 19:07:08 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 19:07:08 pm  User click on Other Bank Account radio Button.
+2024-09-05 19:07:08 pm  User click on enter Bank Name Field.
+2024-09-05 19:07:08 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:07:13 pm  User  select linked Bank Account.
+2024-09-05 19:07:13 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 19:07:15 pm  User click on Enter Debit Card number Field.
+2024-09-05 19:07:16 pm  User Enter debit card Number.
+2024-09-05 19:07:18 pm  User click on expiry Month and year.
+2024-09-05 19:07:18 pm  User Enter Debit card expiry month and year.
+2024-09-05 19:07:20 pm  User click on terms and condition checkbox.
+2024-09-05 19:07:24 pm  For Selected Bank debit Pin Required Which Need To Enter on IVR.
+2024-09-05 19:07:24 pm  User Click on get UPI OTP Button.
+2024-09-05 19:10:33 pm  chrome browser launch
+2024-09-05 19:10:36 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 19:10:36 pm  User enter Number 9604677424.
+2024-09-05 19:10:36 pm  User enter amount 3.
+2024-09-05 19:10:38 pm  Qr Populate on UI
+2024-09-05 19:10:38 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 19:10:38 pm  User checked Number on UPI toggel.
+2024-09-05 19:10:38 pm  User checked debit.card handy with me toggel.
+2024-09-05 19:10:44 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 19:11:04 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 19:11:09 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 19:11:09 pm  User click on Other Bank Account radio Button.
+2024-09-05 19:11:09 pm  User click on enter Bank Name Field.
+2024-09-05 19:11:10 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:11:15 pm  User  select linked Bank Account.
+2024-09-05 19:11:15 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 19:11:17 pm  User click on Enter Debit Card number Field.
+2024-09-05 19:11:17 pm  User Enter debit card Number.
+2024-09-05 19:11:19 pm  User click on expiry Month and year.
+2024-09-05 19:11:19 pm  User Enter Debit card expiry month and year.
+2024-09-05 19:11:22 pm  User click on terms and condition checkbox.
+2024-09-05 19:11:26 pm  For Selected Bank debit Pin Required Which Need To Enter on IVR.
+2024-09-05 19:11:26 pm  User Click on get UPI OTP Button.
+2024-09-05 19:11:29 pm  When User call on DID Onboarding process Start.
+2024-09-05 19:12:44 pm  chrome browser launch
+2024-09-05 19:12:46 pm  User Launch URL on browser https://mcp.pe/uat/8066741953
+2024-09-05 19:12:47 pm  User enter Number 9604677424.
+2024-09-05 19:12:47 pm  User enter amount 3.
+2024-09-05 19:12:49 pm  Qr Populate on UI
+2024-09-05 19:12:49 pm  QR Populate on UI but User dont createdThe QR token 
+2024-09-05 19:12:49 pm  User checked Number on UPI toggel.
+2024-09-05 19:12:49 pm  User checked debit.card handy with me toggel.
+2024-09-05 19:12:54 pm  User is not  Onboarded on MCP as Customer , P2M Flow with New MCP User Start.
+2024-09-05 19:13:15 pm  User Enter verification code and Number get validate Sucessfully.
+2024-09-05 19:13:20 pm  No account get Autofetched , onboarding by selecting account start.
+2024-09-05 19:13:20 pm  User click on Other Bank Account radio Button.
+2024-09-05 19:13:20 pm  User click on enter Bank Name Field.
+2024-09-05 19:13:21 pm   User Enter Bank Name Federal Bank
+2024-09-05 19:13:27 pm  User  select linked Bank Account.
+2024-09-05 19:13:27 pm  Selected account is new UPI Account , onboarding with new UPI Account Start.
+2024-09-05 19:13:29 pm  User click on Enter Debit Card number Field.
+2024-09-05 19:13:29 pm  User Enter debit card Number.
+2024-09-05 19:13:31 pm  User click on expiry Month and year.
+2024-09-05 19:13:31 pm  User Enter Debit card expiry month and year.
+2024-09-05 19:13:34 pm  User click on terms and condition checkbox.
+2024-09-05 19:13:38 pm  For Selected Bank debit Pin Not Required.
+2024-09-05 19:13:38 pm  User Click on get UPI OTP Button.
+2024-09-05 19:13:41 pm  When User call on DID Onboarding process Start.

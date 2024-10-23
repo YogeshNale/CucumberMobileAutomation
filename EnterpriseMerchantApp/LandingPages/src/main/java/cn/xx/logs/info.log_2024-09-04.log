@@ -1,0 +1,102 @@
+2024-09-04 11:04:44 am  chrome browser launch
+2024-09-04 11:05:00 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:05:02 am  User Enter Mobile Number 9604677424
+2024-09-04 11:05:02 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:05:03 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:05:03 am  User Click on get OTP Button.
+2024-09-04 11:05:20 am  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-04 11:05:33 am  Again User not enter Verification Code  Or Not Enter Valid Verification Code.
+2024-09-04 11:06:43 am  chrome browser launch
+2024-09-04 11:06:48 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:06:49 am  User Enter Mobile Number 9604677424
+2024-09-04 11:06:49 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:06:49 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:06:50 am  User Click on get OTP Button.
+2024-09-04 11:07:07 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:12:44 am  chrome browser launch
+2024-09-04 11:12:47 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:12:48 am  User Enter Mobile Number 9604677424
+2024-09-04 11:12:49 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:12:49 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:12:49 am  User Click on get OTP Button.
+2024-09-04 11:13:07 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:14:58 am  chrome browser launch
+2024-09-04 11:15:00 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:15:02 am  User Enter Mobile Number 9604677424
+2024-09-04 11:15:02 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:15:02 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:15:02 am  User Click on get OTP Button.
+2024-09-04 11:15:20 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:15:26 am  Bill Available for entered Consumer Number 
+2024-09-04 11:15:27 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-04 11:15:28 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-09-04 11:15:28 am  User Enter Additional Amount To pay Bill 10
+2024-09-04 11:15:32 am  Qr Populate on UI
+2024-09-04 11:15:32 am  User Click On generate QR button to create token  
+2024-09-04 11:15:34 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-04 11:20:09 am  chrome browser launch
+2024-09-04 11:20:12 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:20:13 am  User Enter Mobile Number 9604677424
+2024-09-04 11:20:13 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:20:13 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:20:14 am  User Click on get OTP Button.
+2024-09-04 11:20:31 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:20:38 am  Bill Available for entered Consumer Number 
+2024-09-04 11:20:38 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-04 11:20:39 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-09-04 11:20:39 am  User Enter Additional Amount To pay Bill 10
+2024-09-04 11:20:43 am  Qr Populate on UI
+2024-09-04 11:33:22 am  chrome browser launch
+2024-09-04 11:33:25 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:33:26 am  User Enter Mobile Number 9604677424
+2024-09-04 11:33:26 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:33:27 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:33:27 am  User Click on get OTP Button.
+2024-09-04 11:33:44 am  User not enter Verification Code  Or Not Enter Valid Verification Code Please try again.
+2024-09-04 11:34:07 am  chrome browser launch
+2024-09-04 11:34:10 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:34:11 am  User Enter Mobile Number 9604677424
+2024-09-04 11:34:12 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:34:12 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:34:12 am  User Click on get OTP Button.
+2024-09-04 11:34:29 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:34:36 am  Bill Available for entered Consumer Number 
+2024-09-04 11:34:36 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-04 11:34:37 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-09-04 11:34:38 am  User Enter Additional Amount To pay Bill 10
+2024-09-04 11:34:42 am  Qr Populate on UI
+2024-09-04 11:34:42 am  User Click On generate QR button to create token  
+2024-09-04 11:34:44 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-04 11:36:42 am  chrome browser launch
+2024-09-04 11:36:45 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:36:46 am  User Enter Mobile Number 9604677424
+2024-09-04 11:36:47 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:36:47 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:36:47 am  User Click on get OTP Button.
+2024-09-04 11:37:05 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:37:11 am  Bill Available for entered Consumer Number 
+2024-09-04 11:37:11 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-04 11:37:12 am  User is existing Misscall Pay customer ,Pay Bill with Existing MCP user Flow start 
+2024-09-04 11:37:13 am  User Enter Additional Amount To pay Bill 10
+2024-09-04 11:37:17 am  Qr Populate on UI
+2024-09-04 11:37:17 am  User Click On generate QR button to create token  
+2024-09-04 11:37:19 am  Afetr Click on Generate QR , QR get genrate 
+2024-09-04 11:41:13 am  chrome browser launch
+2024-09-04 11:41:17 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:41:18 am  User Enter Mobile Number 9604677424
+2024-09-04 11:41:18 am  User click on My Mobile Number Linked to UPI checkbox.
+2024-09-04 11:41:19 am  User click on Debit Card With Me Toggel.
+2024-09-04 11:41:19 am  User Click on get OTP Button.
+2024-09-04 11:41:36 am  User Enter verification code and Number get validate Sucessfully.
+2024-09-04 11:41:43 am  Bill Available for entered Consumer Number 
+2024-09-04 11:41:43 am  for Entered Consumer Number 1000.00 Amount Bill AVilable
+2024-09-04 11:41:44 am  User Select Linked Bank Account 
+2024-09-04 11:41:46 am  User Enter Additional Amount To pay Bill 9
+2024-09-04 11:41:47 am  Selected Account is existing UPI Account  ,Onboarding with existing UPI User Start
+2024-09-04 11:41:51 am  Qr Populate on UI
+2024-09-04 11:41:51 am  User Click On generate QR button to create token  
+2024-09-04 11:41:53 am  After Click on Generate QR , Qr not get Generate 
+2024-09-04 11:41:55 am  User click on Click To pay button.
+2024-09-04 11:46:20 am  chrome browser launch
+2024-09-04 11:47:12 am  User Launched URL on browser https://mcp.pe/uat/8590560006a
+2024-09-04 11:52:03 am  chrome browser launch
