@@ -10,7 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.qa.utils.DriverManager;
 import com.qa.utils.GlobalParams;
-import com.qa.utils.Utils;
+//import com.qa.utils.Utils;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
@@ -23,12 +23,12 @@ public class TestBase {
 		PageFactory.initElements(new AppiumFieldDecorator(this.driver), this);
 	}
 	
+	
 	GlobalParams param = new GlobalParams();
 	public static HomePage page = new HomePage();
 	
 	
-	
-	
+	int a= 10;
 	// click on element
 	public void clickOnElement(WebElement element) {
 		element.click();
